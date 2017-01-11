@@ -1,0 +1,89 @@
+/*
+* Globals
+*/
+* {
+	border: none;
+	margin: 0;
+	padding: 0;
+	font-family: 'Advent Pro', sans-serif;
+}
+
+/* Links */
+a,
+a:focus,
+a:hover {
+	color: #fff;
+}
+
+/*
+* Base structure
+*/
+html,
+body {
+	height: 100%;
+	background-color: #333;
+}
+
+.site-wrapper {
+	padding-top: 70px;
+}
+
+.table-headers span {
+	text-align: center;
+	border-right: 2px solid #c0c0c0;
+}
+.table-headers span:last-child {
+	border-right: none;
+}
+
+.button-group button {
+	margin:auto;
+	display:block;
+}
+
+.list-group-item:nth-of-type(even) {
+	background: #e7e7e7 !important;
+}
+
+.panel-heading a:after {
+    font-family:'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #c0c0c0;
+}
+.panel-heading a.collapsed:after {
+    content:"\e080";
+}
+
+.new-text-line {
+	border:1px solid red !important;
+}
+
+.btn .fa {
+	color: white;
+	font-size:16px;
+}
+
+.button-group button {
+}
+
+.selectpicker {
+	display: none !important;
+}
+
+.fixed-table-container {
+	height: 600px !important;
+}
+
+.orderItems {
+	border: 1px solid #c0c0c0;
+}
+
+.quantity-field {
+	width: 40px;
+	border: 1px solid #c0c0c0;
+}
+
+.text-box .input-group {
+	width: 100%;
+}

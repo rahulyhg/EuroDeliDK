@@ -1,0 +1,938 @@
+,ALCOHOL DRINKS,,,,,,
+,,PIWO,BEER,WEIGHT,"PRICE, DKK",PANT,BARCODE
+,,Piwa butlekowane,Bottle beers (pant price is NOT included),,,,
+,Żywiec,Piwo Żywiec Premium,Zywiec Premium beer,500ml,11.00,1.00,5901559130000
+,Harnaś,Piwo Harnaś Okocimski,Harnas Okocimski beer,500ml,11.00,1.00,5900014002180
+,Lech,Piwo Lech Premium,Lech Premium beer,500ml,11.00,1.00,5900490000427
+,Leżajsk,Piwo Leżajsk,Lezajsk beer,500ml,11.00,1.00,5900227000676
+,Perła,Piwo Perła export,Perła beer export,500ml,11.00,1.00,5905927001695
+,,Piwo bezalkoholowe butelkowane,Soft beer in bottle (pant price is NOT included),,,,
+,Lech,Piwo Lech free,Lech free beer,330ml,11.00,1.00,5901359122021
+,,Piwo smakowe butelkowane,Flavored beer in bottle (pant price is NOT included),,,,
+,Redd's,Piwo Redd's cranberry crush,Redd's cranberry crush beer,400ml,11.00,1.00,5942016301793
+,Redd's,Piwo Redd's gruszka i chili,Redd's gruszka i chili beer,400ml,11.00,1.00,5901359044897
+,Redd's,Piwo Redd's malina i granat,Redd's malina i granat beer,400ml,11.00,1.00,5901359024028
+,,Piwo w puszce,Beer in can (pant price is NOT included),,,,
+,Tatra,Piwo Tatra,Tratra beer,500ml,11.00,1.00,5901559840008
+,Kasztelan,Piwo Kasztelan Niepasteryzowane,Kasztelan Niepasteryzowane beer,500ml,11.00,1.00,5903082205569
+,Tyskie,Piwo Tyskie,Tyskie beer,500ml,11.00,1.00,5901359000237
+,Żubr,Piwo Żubr,Zubr beer,500ml,11.00,1.00,5900877000293
+,Lech,Piwo Lech,Lech beer,500ml,11.00,1.00,5900490000182
+,Bosman,Piwo Bosman,Bosman beer,500ml,11.00,1.00,5901594000122
+,Warka,Piwo Warka,Warka beer,500ml,11.00,1.00,5902746320020
+,Warka,Piwo Warka Strong,Warka Strong beer,500ml,11.00,1.00,5902746320013
+,Harnaś,Piwo Harnaś Okocimski,Harnas Okcimski beer,500ml,11.00,1.00,5900014004245
+,,Piwo w puszce smakowe,Flavored beer in can (pant price is NOT included),,,,
+,Warka,Piwo Warka Radler,Warka Raddler beer,500ml,11.00,1.00,5902746642054
+,Redd's,Piwo Redd's żurawina,Redd's zurawina beer,500ml,11.00,1.00,5901359352039
+,Redd's,Piwo Redd's gruszka i chili,Redd's gruszka i chili beer,500ml,11.00,1.00,5901359044910
+,Redd's,Piwo Redd's jablko i trawa cytrynowa,Redd's jablko i trawa cytrynowa beer,500ml,11.00,1.00,5901359034669
+,Redd's,Piwo Redd's malina i granat,Redd's malina i granat beer,500ml,11.00,1.00,5901359332031
+,,WODKA,VODKA,,,,
+,Żubrówka,Żubrówka biała,Zubrowka white vodka,700ml,130.00,,5900343001915
+,Żubrówka,Żurbówka aromatyzwana trawa,Zubrowka Bison grass flavoured vodka,700ml,120.00,,5900343003513
+,Wyborowa,Oddka by/ wyborowa swieżo ścięta trawa,Oddka by/ wyborowa fresh cut grass,700ml,100.00,,5900191012408
+,Wyborowa,Oddka by/ wyborowa szarlotka,Oddka by/ wyborowa apple pie,700ml,100.00,,5900191012415
+,Krupnik,Wódka Krupnik Premium,Krupnik Premium Vodka,700ml,130.00,,5900595004696
+,Sobieski,Wódka Sobieski Premium,Sobieski Premium Vodka,700ml,120.00,,5908310148199
+,Soplica,Spolica Orzech Laskowy,Soplica Hazelnut,500ml,110.00,,5900471025623
+,Spolica,Soplica Wiśniowa,Soplica Cherry,500ml,110.00,,5900471025609
+,Soplica,Soplica Śliwkowa,Soplica Plum,500ml,110.00,,5900471025272
+,Soplica,Soplica Pigwowa,Soplica Quince,500ml,110.00,,5900471025630
+,Soplica,Soplica Truskawkowa,Soplica Strawberry,500ml,110.00,,5900471000699
+,,LIKIER,LIQUEUR,WEIGHT,"PRICE, DKK",,BARCODE
+,Krupnik,Old Krupnik Liqueur,Old Krupnik Liqueur,700ml,120.00,,5900595002791
+,NON ALCOHOL DRINKS,,,,,,
+,,WODA,WATER (pant price is NOT included),WEIGHT,"PRICE, DKK",PANT,BARCODE
+,Żywiec Zdrój,Żywiec Zdrój niegazwowana,Zywiec Zdrioj uncarbonated,5l,27.00,3.00,5900541000123
+,Żywiec Zdrój,Żywiec Zdrój niegazwowana,Zywiec Zdroj uncarbonated,"1,5l",9.00,3.00,5900541000000
+,Żywiec Zdrój,Żywiec Zdrój figlarne jabłko,Zywiec Zdroj Apple,"1,5l",9.00,3.00,5900541000413
+,Żywiec Zdrój,Żywiec Zdrój tajemnicza malina,Zywiec Zdroj Raspberry,"1,5l",9.00,3.00,5900541001212
+,Żywiec Zdrój,Żywiec Zdrój sloneczna brzoskwinia,Zywiec Zdroj Peach,"1,5l",9.00,3.00,5900541003049
+,Żywiec Zdrój,Żywiec Zdrój sloneczna brzoskwinia,Zywiec Zdroj Peach,500ml,8.50,1.50,5900541003018
+,Żywiec Zdrój,Żywiec Zdrój figlarne jabłko,Zywiec Zdroj Apple,500ml,8.50,1.50,5900541004022
+,Żywiec Zdrój,Żywiec Zdrój zmysłowa wiśnia,Zywiec Zdroj Cherry,500ml,8.50,1.50,5900541001397
+,Żywiec Zdrój,Żywiec Zdrój zakręcona cytryna,Zywiec Zdroj Lemon,500ml,8.50,1.50,5900541000406
+,,SMAKOWE NAPOJE GAZOWANE,FLAVOURED CARBONATED DRINKS (pant price is NOT included),WEIGHT,"PRICE, DKK",PANT,BARCODE
+,Mirinda,Mirinda napój gazowany o smaku pomarańczowym,Mirinda fizzy drink with orange flavor,2l,19.00,3.00,5900497332002
+,Mirinda,Mirinda napój gazowany o smaku pomarańczowym,Mirinda fizzy drink with orange flavor,"1,5l",14.00,3.00,
+,,SOKI,JUICES,WEIGHT,"PRICE, DKK",PANT,BARCODE
+,,Soki butelkowane plastikowe,Juice Bottles (plastic) (pant price is NOT included),,,,
+,Tymbark,Tymbark jabłko gruszka,Tymbark apple and pear,2l,13.00,3.00,5900334001566
+,Tymbark,Tymbark jabłko czerwona porzeczka,Tymbark apple and redcurrant,2l,13.00,3.00,5900334007490
+,Tymbark,Tymbark jabłko brzoskwinia,Tymbark apple and peach,2l,13.00,3.00,5900334006264
+,Tymbark,Tymbark wiśnia jabłko,Tymbark cherry and apple,2l,13.00,3.00,5900334006233
+,Tymbark,Tymbark jabłko mięta,Tymbark apple and mint,2l,13.00,3.00,5900334006233
+,Tymbark,Tymbark białe winogrono,Tymbark white grape,2L,13.00,3.00,5900334006233
+,Kubuś,Kubuś marchew jabłko pomarańcz,Kubus carrot apple orange,900ml,13.50,1.50,5901067446075
+,Kubuś,Kubuś banan jabłko brzoskwinia,Kubus banana apple peach,900ml,13.50,1.50,5901067454070
+,Kubuś,Kubuś marchew zielony banan jabłko kiwi,Kubus carrot green banana apple kiwi,900ml,13.50,1.50,5901067484039
+,Kubuś,Kubuś banan marchew jabłko,Kubus banana carrot apple,900ml,13.50,1.50,5901067451079
+,Kubuś,Kubuś marchew brzoskwinia jabłko,Kubus carrot peach apple,900ml,13.50,1.50,5901067455077
+,Kubuś,Kubuś marchew malina jabłko,Kubus carrot raspberry apple,900ml,13.50,1.50,5901067447072
+,Kubuś,Kubuś play arbuz mega frut,Kubus play watermelon mega frut,400ml,8.50,1.50,5901067401074
+,Kubuś,Kubuś play marchew jabłko czerwona pomarańcza limetka,Kubus play carrot apple red orange lime,400ml,8.50,1.50,5901067472012
+,Kubuś,Kubuś play multi mega frut witamina,Kubus play multi meag frut vitamin,400ml,8.50,1.50,5901067400220
+,Kubuś,Kubuś play czereśnia marchew,Kubus play cherry carrot,400ml,8.50,1.50,5901067471015
+,Kunuś,Kubuś play marchew jabłko truskawka limetka,Kubus play carrot apple strawberry lime,400ml,8.50,1.50,5901067472012
+,Frugo,Frugo mocno zielone,Frugo green,900ml,20.50,1.50,5900552053095
+,Frugo,Frugo mocnopomarańczowe,Frugo orange,900ml,20.50,1.50,5900552053118
+,Frugo,Frugo mocno czarne,Frugo black,500ml,8.50,1.50,5900552053163
+,Frugo,Frugo original aloe vera,Frugo original aloe vera,500ml,8.50,1.50,5900552054726
+,Frugo,Frugo lemon juicy water,Frugo lemon juicy water,500ml,8.50,1.50,5900552053927
+,Frugo,Frugo strawberry juicy water,Frugo strawberry juicy water,500ml,8.50,1.50,5900552053903
+,,Soki butelkowane szklane,Juice Bottles (glass) (pant price is NOT included),,,,
+,Frugo,Frugo mocno żółte,Frugo yellow,250ml,7.00,1.00,5900552039099
+,Frugo,Frugo mocno czerwone,Frugo red,250ml,7.00,1.00,5900552039075
+,Frugo,Frugo mocno czarne,Frugo black,250ml,7.00,1.00,5900552035251
+,Frugo,Frugo mocno pomarańczowe,Frugo orange,250ml,7.00,1.00,5900552035312
+,Frugo,Frugo mocno zielone,Frugo green,250ml,7.00,1.00,5900552035275
+,Tymbark,Tymbark jabłko brzoskwinia,Tymbark apple peach,250ml,6.00,1.00,5900334000828
+,Tymbark,Tymbark cytryna mięta,Tymbark lemon mint,250ml,6.00,1.00,5900334000798
+,Tymbark,Tymbark jabłko wiśnia,Tymbark apple cherry,250ml,6.00,1.00,5900334000880
+,Tymbark,Tymbark pomarańcza brzoskwinia,Tymbark orange peach,250ml,6.00,1.00,5922334000835
+,Tymbark,Tymbark malina mięta,Tymbark raspberry mint,250ml,6.00,1.00,5900334000767
+,Kubus,Kubuś marchew jabłko pomarańcza,Kubus carrot apple orange,300ml,5.00,1.00,5901067446020
+,Kubus,Kubuś marchew malina jabłko,Kubus carrot raspberry apple,300ml,5.00,1.00,5901067447027
+,Kubus,Kubus marchew brzoskwinia jabłko,Kubus carrot peach apple,300ml,5.00,1.00,5901067455022
+,,Soki w kartonach,Juice in carton,,,,
+,Hortex,Vitaminka banan marchewka jabłko,Vitaminka banana carrot apple,1l,15.00,,5900500030222
+,Hortex,Vitaminka and Superfruits acerola granat marchewka jabłko,Vitaminka and Superfruits acerola grenade carrot apple,1l,15.00,,5900500028809
+,Hortex,Vitaminka malina marchewka jabłko,Vitaminka raspberry carrot apple,1l,15.00,,5900500028823
+,Hortex,Vitaminka and Superfruits mango marakuja marchewka jabłko,Vitaminka and Superfruits mango marakuja carrot apple,1l,15.00,,5900500030185
+,Hortex,Vitaminka marchewka,Vitaminka carrot,1l,15.00,,5900500023163
+,Hortex,Vitaminka truskawka marchewka jabłko,Vitaminka strawberry carrot apple,1l,15.00,,5900500028847
+,Hortex,Wisnia nektar,Cherry nectar,1l,15.00,,5900500024283
+,Hortex,Pomarancza brzoskwinia,Orange and peach juice,1l,15.00,,5900500027857
+,Hortex,Zlote jablko z delikatnym miazszem (100% sok),Golden apple juice with pulp (100% juice),1l,15.00,,5900500028519
+,Hortex,Wieloowocowy nektar,Mixed fruit nectar,1l,15.00,,5900500027895
+,Hortex,Greipfrut nektar,Grapefruit nectar,1l,15.00,,5900500029714
+,Hortex,Czarna porzeczka nektar,Black currant nectar,1l,15.00,,5900500024276
+,Hortex,Pomidor (100% sok),Tomatoe juice (100% juice),1l,15.00,,5900500024368
+,Hortex,Pomarancza (100% sok),Orange juice (100% juice),1l,15.00,,5900500024290
+,Hortex,Jablko gtuszka z delikatnym miaszem (100% sok),Apple and pear juice with pulp (100% juice),1l,15.00,,5900500030932
+,Hortex,Jablko (100% sok),Apple juice (100% juice),1l,15.00,,5900500024337
+,Hortex,Wielowarzywny (100% sok),Mixes vegetables juice (100% juice),1l,15.00,,5900500027666
+,Hortex,Mandarynki Klementynki z czasteczkami miazszu,Orange juice with pulp,1l,15.00,,5900500026744
+,,SYROPY,SYRUPS,,,,
+,Łowicz,Łowicz czarna porzeczka syrop,Lowicz black currant syrup,440ml,20.00,,5900397020368
+,Łowicz,Łowicz żurawina syrop,Lowicz carnberry syrup,440ml,20.00,,5900397734135
+,Łowicz,Łowicz truskawka syrop,Lowicz strawberry syrup,440ml,20.00,,5900397020313
+,Łowicz,Łowicz pomarańcza syrop,Lowicz orange syrup,440ml,20.00,,5900397020115
+,SNACKS,,,,,,
+,,CHIPSY,CHIPS,WEIGHT,"PRICE, DKK",,BARCODE
+,Lay's ,"Pikantne chipsy ""Strong"" karbowane o smaku ostre chilli","Chips ""Strong"" with spicy chilli flavour",140g,18.00,,5900259076656
+,Lay's ,"Chipsy ziemniaczane ""Maxx mocno pogiete"" czerwona papryka","Chips ""Maxx mocno pogiete"" with red pepper flavour",140g,18.00,,5900259057624
+,Lay's ,"Chipsy ""TV paka"" naturalne solone","Chips ""Tv pack"" natural salty",150g,18.00,,5900259123404
+,Lay's ,"Chipsy ""TV paka"" fromage","Chips ""Tv pack"" fromage",150g,18.00,,5900259111944
+,Lay's ,"Chipsy ""TV paka"" papryka","Chips ""Tv pack"" pepper",150g,18.00,,5900259111241
+,Lay's ,"Chipsy ""Karbowane"" papryka",Chips with pepper,150g,18.00,,5900259066237
+,Lay's ,"Chipsy ""Karbowane"" zielona cebulka",Chips with green onion,150g,18.00,,5900259066213
+,,CHRUPKI KUKURYDZIANE,,WEIGHT,"PRICE, DKK",,BARCODE
+,Cheetos,Chupki kukurydziane o smaku sera,Crunchy corn with cheese taste,85g,12.00,,5900259029041
+,Cheetos,Chupki kukurydziane o smaku ketchupowym,Crunchy corn with ketchup taste,85g,12.00,,5900259353276
+,Tygryszki,"Chrupki kukurydziane ""Rodzinne""",Crunchy corn for family,300g,23.00,,5908221100125
+,,,BREAD SNACKS,WEIGHT,"PRICE, DKK",,BARCODE
+,7 DAYS,"""Bake rolls"" pizza","Baked bread discs ""Bake rolls"" pizza",70g,10.00,,5201360671069
+,7 DAYS,"""Bake rolls"" pizza","Baked bread discs ""Bake rolls"" pizza",160g,16.00,,5201360600304
+,7 DAYS,"""Bake rolls"" ser i szpinak","Baked bread discs ""Bake rolls"" cheese and spinach",70g,10.00,,5201360671052
+,7 DAYS,"""Bake rolls"" pomidorowy z oliwek i oregano","Baked bread discs ""Bake rolls"" tomato olive and oregano",160g,16.00,,5201360655571
+,7 DAYS,"""Bake rolls"" czosnek","Baked bread discs ""Bake rolls"" garilc",160g,16.00,,5201360605743
+,Ital food,"Pieczone krazki chlebowe ""Bruscette Maretti"" o smaku pesto","Baked bread discs ""Bruscette Maretti"" flavored with pesto",70g,10.00,,3800205873365
+,Ital food,"Pieczone krazki chlebowe ""Bruscette Maretti"" o smaku pomidorowo, oliwkowo, oregano","Baked bread discs ""Bruscette Maretti"" flavored with tomatoe, olives and oregano",70g,10.00,,3800205875109
+,,POP CORN,POP CORN,WEIGHT,"PRICE, DKK",,BARCODE
+,Felix,Pop corn maslo,Pop corn butter,90g,10.00,,5900571051324
+,Felix,Pop corn ser,Pop corn cheese,90g,10.00,,5900571300491
+,Felix,Pop corn sol,Pop corn salt,90g,10.00,,5900571051317
+,,PALUSZKI,STICKS,WEIGHT,"PRICE, DKK",,BARCODE
+,Aksam,"Paluszki ""Beskidzkie"" z sola",Sticks with salt,70g,5.00,,5907029000019
+,Aksam,"Paluszki ""Beskidzkie"" z sola",Sticks with salt,300g,13.00,,5907029000040
+,Aksam,"Paluszki ""Beskidzkie"" pikantne",Sticks with spicy flavour,60g,5.00,,5907029002235
+,Aksam,"Paluszki ""Beskidzkie"" pikantne",Sticks with spicy flavour,220g,13.00,,5907029002112
+,Aksam,"Paluszki ""Beskidzkie"" o smaku wedzonego bekonu",Sticks with smoked bacon flavour,60g,5.00,,5907029002273
+,Aksam,"Paluszki ""Beskidzkie"" o smaku serowo- cebulkowym",Sticks with cheese and onion flavour,60g,5.00,,5907029002259
+,Aksam,"Paluszki ""Beskidzkie"" o smaku serowo- cebulkowym",Sticks with cheese and onion flavour,220g,13.00,,5907029002150
+,Aksam,"Paluszki ""Beskidzkie"" z sezamem",Sticks with sesame seeds,210g,13.00,,5907029004017
+,SWEETS,,,,,,
+,,ROGALIKI,CROISSANT,WEIGHT,"PRICE, DKK",,BARCODE
+,7 DAYS,"Rogalik ""Mini croissant"" z nadzieniem smaku karmelowym","""Mini croissant"" with caramel flavour filling",185g,18.00,,5201360543809
+,7 DAYS,"Rogalik ""Mini croissant"" z nadzieniem smaku spumante","""Mini croissant"" with spumante flavour filling",185g,18.00,,5201360543601
+,7 DAYS,"Rogalik ""Mini croissant"" z nadzieniem smaku millefeuille","""Mini croissant"" with millefeuille flavour filling",185g,18.00,,5201360543700
+,7 DAYS,"Rogalik ""Mini croissant"" z nadzieniem smaku kakaowym","""Mini croissant"" with cocoa flavour filling",185g,18.00,,5201360543205
+,7 DAYS,"Rogalik  ""Double Max"" wanilia i wiśnia","Croissant ""Double Max"" vanilla and sour cherry",80g,8.00,,5201360501571
+,7 DAYS,"Rogalik  ""Double Max"" kakao i wanilia","Croissant ""Double Max""cocoa and vanilla",80g,8.00,,5201360501700
+,7 DAYS,"Rogalik  ""Double Max"" kakao i karmelu","Croissant ""Double Max"" cocoa and caramel",80g,8.00,,5201360501816
+,7 DAYS,"Rogalik  ""Double Max"" cacao i kokos","Croissant ""Double Max"" cocoa and coconut",80g,8.00,,5201360502837
+,7 DAYS,"Croissant ""Doubel Max"" z nadzieniem o smaku waniliowym i pomaranczowym","Croissant ""Double Max"" vanilla and orange",80g,8.00,,5201360502899
+,7 DAYS,"Rogalik  ""Hazelnut Max"" orzech laskowy","Croissant "" Hazelnut Max"" hazelnut",80g,8.00,,5201360501014
+,7 DAYS,"Croissant ""Max"" o smaku waniliowym","Croissant ""Max"" vanilla",80g,8.00,,5201360501786
+,7 DAYS,"Rogalik ""Max"" creme brulee","Croissant ""Max"" cream brulee",80g,8.00,,5201360112159
+,7 DAYS,"Slodka bulka ""Borseto""z nadzieniem z owocow lesnych","""Borseto"" stuffed with forest fruit",80g,8.00,,5201360509485
+,7 DAYS,"Slodka bulka ""Borseto""z nadzieniem jablkowo- cynamonowym","""Borseto"" stuffed with apple-cinnamon",80g,8.00,,5201360509683
+,7 DAYS,Rogalik z nadzieniem o smaku spumante,Croissant stuffed with flavored spumante,60g,6.00,,5201360521616
+,,,COOKIES,WEIGHT,"PRICE, DKK",,BARCODE
+,Belvita,Sniadanie kakaowe,,50g,6,,7622210025814
+,Belvita,Sniadanie kakaowe,,300g,28,,7622210025753
+,Belvita,Sniadanie zboza + mleko,,300g,28,,7622210025791
+,Belvita,Sniadanie musli z owocami,,300g,28,,7622210025777
+,Delicpol,"""Party"" jaffa cakes orange w czekoladzie",Sponge cakes with orange jelly in chocolate,135g,13,,5901141003231
+,Milka,Choco jaffa orange jelly,,147g,15,,7622300434328
+,Milka,Choco jaffa raspberry jelly,,147g,15,,7622300434373
+,Milka,Choco jaffa chocolate flavoured mousse,,128g,15,,7622300434472
+,,,,,,,
+,Wawel,"""Michalki"" kokosowe",,280g,29,,5900102015245
+,Wawel,"""Michalki"" klasyczne",,280g,29,,5900102008438
+,Wawel,"""Michalki"" biale",,280g,29,,5900102012138
+,Wawel,"""Fresh & fruity"" galaretki z nadzieniem",,280g,29,,5900102017737
+,E. Wedel,"""Ptasie mleczko"" o smaku cappuccino",,380g,45,,5901588057507
+,E. Wedel,"""Ptasie mleczko"" waniliowe z galaretka truskawkowa",,380g,45,,5901588057392
+,E. Wedel,"""Ptasie mleczko"" smietankowe w karmelowej",,380g,45,,5901588057583
+,E. Wedel,"""Ptasie mleczko"" cytrynowe",,380g,45,,5901588057330
+,E. Wedel,"""Ptasie mleczko"" smietankowe",,380g,45,,5901588057408
+,E. Wedel,"""Ptasie mleczko"" czekoladowe",,380g,45,,5901588057415
+,E. Wedel,"""Ptasie mleczko Rajska Wyspa"" o smaku kokosowym w mocnomlecznej czekoladzie",,380g,45,,5901588057323
+,,,,,,,
+,Olza,"Kruchny wafelky w pysznej czekoladzie ""Prince Polo"" mini ",,128g,20,,7622210168344
+,Olza,"Kruchny wafelky w pysznej czekoladzie ""Prince Polo"" classic",,17.5g,5,,7622210310361
+,Olza,"Kruchny wafelky w pysznej czekoladzie ""Prince Polo"" classic",,35g,5,,7622210310408
+,Olza,"Kruchny wafelky w pysznej czekoladzie ""Prince Polo"" classic",,50g,6,,7622210309792
+,Olza,"Kruchny wafelky w pysznej czekoladzie ""Prince Polo"" orzechowe",,50g,6,,7622210310002
+,Olza,"Kruchny wafelky w pysznej czekoladzie ""Prince Polo"" mleczne",,50g,6,,7622210309990
+,Jutrzenka,"Wafle o smaku cytrynowym ""Familijne""",Wafers with lemon flavoured cream,180g,12,,5900352006284
+,Storck,"""Werther's original"" tradycyjne cukierki smietankowe","""Werther's original"" classic cream candies",50g,8,,40144016
+,Storck,"""Werther's original"" tradycyjne cukierki smietankowe","""Werther's original"" classic cream candies",90g,13,,4014400908527
+,Storck,"Wafelek ""Knoppers"" mleczno- orzechowy",,25g,5,,40358802
+,Storck,"Wafelek ""Knoppers"" mleczno- orzechowy",,75g,12,,40358826
+,MMS,M&M's peanut,M&M's peanut,45g,8,,5900951140310
+,MMS,M&M's peanut,M&M's peanut,90g,15,,5900951247897
+,MMS,M&M's chocolate mega,M&M's chocolate mega,38g,8,,5000159485531
+,MMS,M&M's chocolate,M&M's chocolate,90g,15,,5900951247972
+,Wawel,Sliwka w czekoladzie,Plum in chocolate,300g,49,,5900102012473
+,Wawel,Orzezwiajace,,120g,10,,5900102003655
+,Wawel,Krowka mleczna,,250g,25,,5900102012800
+,Wawel,Krowka mleczna,,3 kg,90,,
+,Wawel,"Baton ""Maciek toffi"" nadziewany z czekolady mlecznej","Milk chocolate bar ""Maciek toffi"" with toffee filling",49g,8,,5900102011810
+,Skittles,Skittles crazy sours,,125g,16,,5000159314572
+,Skittles,Skittles crazy sours,,174g,16,,4009900465304
+,Skittles,Skittles crazy sours,,38g,6,,5000159376792
+,Skittles,Skittles fruits,,174g,16,,4009900455299
+,Mieszko,"Karamelki nadziewane ""Zozole"" o smaku jablkowym, truskawkowym i wisniowym",,75g,10,,5900353555705
+,Mieszko,"Karamelki nadziewane ""Zozole"" o smaku cytrynowym i pomarancowym",,75g,10,,5900353554432
+,Mieszko,"Wafel ""Marco polo"" z kremem o smaku toffi bocznie powlekany czekolada",,40g,5,,5900353861028
+,Mieszko,"Wafelek ""Marco polo classic"" przekladany kremem kakaowym w czekoladzie",,34g,5,,5900353860687
+,Mieszko,"Wafelek ""Marco polo hazelnut"" przekladany kremem orzechowym w czekoladzie mlecznej",,34g,5,,5900353860953
+,SM Gostyn,"""Gostynskie mleko"" zageszczone slodzone",,150g,15,,5900691032111
+,SM Gostyn,"""Gostynskie mleko"" zageszczone slodzone kakaowe",,150g,15,,5900691032128
+,SM Gostyn,"""Gostynskie mleko"" zageszczone slodzone o smaku karmelowym",,150g,15,,5900691032142
+,Idcpolonia,"Kruchy wafelek ""Goralki"" przekladany kremem kokosowym w obwodowej polewie kakaowej",,50g,5,,8584004041426
+,Idcpolonia,"Kruchy wafelek ""Goralki"" przekladany kremem z orzechow laskowych w obwodowej polewie kakaowej",,50g,5,,8584004041396
+,Idcpolonia,"Kruchy wafelek ""Goralki"" przekladany kremem kakaowo- czekoladowym w obwodowej polewie kakaowej","""Goralki"" intenso hot chocolate",50g,5,,8584004041662
+,Idcpolonia,"Kruchy wafelek ""Goralki"" przekladany kremem mlecznym w obwodowej polewie kakaowej",,50g,5,,8584004041389
+,Idcpolonia,"Kruchy wafelek ""Goralki"" przekladany kremem kakaowo- czekoladowym w obwodowej polewie kakaowej",,50g,5,,8584004041419
+,Idcpolonia,"Kruchy wafelek ""Goralki"" przekladany kremem nugatowym w obwodowej polewie kakaowej",,50g,5,,8584004041433
+,Nestle,"Wafel ""Princessa orzechowa"" przekladany orzechowym oblany mleczna czekolada","Wafer layered ""Princessa orzechowa"" with hazelnut cream covered with milk chocolate",37g,5,,7613030111146
+,Nestle,"Wafel ""Princessa orzechowa longa"" przekladany orzechowym oblany mleczna czekolada","Wafer layered ""Princessa orzechowa longa"" with hazelnut cream covered with milk chocolate",49g,6,,5900862019309
+,Nestle,"Wafel ""Princessa kokosowa"" przekladany kokosowym oblany biala czekolada","Wafer layered ""Princessa kokosowa"" with coconut cream covered with white chocolate",36g,5,,5900090017504
+,Nestle,"Wafel ""Princessa kokosowa longa"" przekladany kokosowym oblany biala czekolada","Wafer layered ""Princessa kokosowa longa"" with coconut cream covered with white chocolate",48g,6,,5900862024570
+,Nestle,"Wafel ""Princessa mleczna"" przekladany kremem kakaowym oblany mleczna czekolada","Wafer layered ""Princessa kokosowa"" with cocoa cream covered with milk chocolate",37g,5,,7613030110934
+,Nestle,"Wafel ""Princessa mleczna longa"" przekladany kremem kakaowym oblany mleczna czekolada","Wafer layered ""Princessa kokosowa longa"" with cocoa cream covered with milk chocolate",49g,6,,5900862019286
+,Nestle,"Kakaowy wafel ""Princessa zebra"" przekladany kremem mlecznym","Cocoa wafer ""Princessa zebra"" layered with milk cream",37g,5,,7613034805874
+,Nestle,"Nadziewany wafel ""Lion white"" z karamelem i platkami pszennymi w bialej polewie",,42g,6,,7613031006267
+,Nestle,"Nadziewany wafel ""Lion peanut"" z karamelem i platkami pszennymi i orzechami ziemnymi w polewie kakaowej",,40g,6,,5900862017886
+,Nestle,"Nadziewany wafel ""Lion"" z karamelem i platkami pszennymi w polewie kakaowej",,42g,6,,5900862018562
+,Nestle,"Nadziewany wafel ""Lion white"" z karamelem i platkami pszennymi w bialej polewie",,60g,10,,7613033007583
+,Nestle,"Paluszek waflowy ""Kit Kat chunky white"" w bialej czekoladzie",,40g,7,,3800020423462
+,Nestle,"Paluszek waflowy ""Kit Kat chunky"" w mlecznej czekoladzie",,40g,7,,3800020423578
+,Nestle,"Paluszek waflowy ""Kit Kat chunky peanut butter"" pokryty kremem arachidowym w mlecznejj czekoladzie",,42g,7,,3800020411162
+,Goplana,"Wafer ""Grzeski toffi"" przekladany kremem o smaku toffi w czekoladzie mlecznej","Milk chocolate coated wafer bar ""Grzeski toffi"" with toffee flavoured cream",36g,5,,5900394006181
+,Goplana,"Wafer ""Grzeski toffi"" przekladany kremem o smaku toffi w czekoladzie mlecznej","Milk chocolate coated wafer bar ""Grzeski toffi"" with toffee flavoured cream",48g,6,,5900394006518
+,Goplana,"Wafer ""Grzeski orzechowe"" przekladany kremem orzechowym w czekoladzie mlecznej","Milk chocolate coated wafer bar ""Grzeski orzechowe"" with hazelnut cream",36g,5,,5900394006204
+,Goplana,"Wafer ""Grzeski orzechowe"" przekladany kremem orzechowym w czekoladzie mlecznej","Milk chocolate coated wafer bar ""Grzeski orzechowe"" with hazelnut cream",48g,6,,5900394007577
+,Goplana,"Wafel ""Grzeski kakaowe"" przekladany kremem kakaowym","Wafer bar ""Grzeski kakaowe"" with cocoa cream",26g,5,,5900394006556
+,Goplana,"Wafel ""Grzeski kakaowe"" przekladany kremem kakaowym","Wafer bar ""Grzeski kakaowe"" with cocoa cream",34g,6,,5900394006570
+,Goplana,"Wafel ""Grzeski"" przekladany kremem kakaowym w czekoladzie","Wafer bar ""Grzeski kakaowe"" with cocoa cream",36g,5,,5900394006167
+,Goplana,Jezyki kokos,,30g,5,,5900352010076
+,Kinder,"Kakaowy biszkopt ""Delice kakao"" z mlechnym nadzieniem",,42g,5,,80052463
+,FoodCare,Zelki o smaku napoju FRUGO mocno,,100g,10,,5900552040477
+,FoodCare,Zelki o smaku napoju FRUGO mocno zielone,,100g,10,,5900552040453
+,FoodCare,Zelki o smaku napoju FRUGO mocno czarne,,100g,10,,5900552040446
+,FoodCare,Zelki o smaku napoju FRUGO mocno czerwone,,100g,10,,5900552040460
+,Emacompany,Waferek z kremem orzechowym i kolorowymi drazami czekoladowymi,,25g,8,,8691707090122
+,Skawa,Orzeszki drazeti,,70g,7,,5902978002732
+,Skawa,Draze o smaku smietankowym,,70g,7,,5902978002374
+,Mondelez,"Baton ""Big 3Bit"" w czekoladzie mlecznej z nadzieniem mlecznym i herbatnikiem",,51g,8,,7622300279486
+,Mondelez,"Baton ""Big 3Bit"" w czekoladzie mlecznej z nadzieniem o smaku orzechowym i herbatnikiem",,51g,8,,7622300315191
+,Mondelez,"Ciasto biszkoptowe ""Lubisie mus jabluszkowy"" z nadzieniem jablkowym",,30g,5,,7622210083920
+,Mondelez,"Ciasto biszkoptowe ""Lubisie czekoladowe"" z nadzieniem czekoladowym",,30g,5,,5906747309688
+,Mondelez,"Ciasto biszkoptowe ""Lubisie mus truskawkowy"" z nadzieniem jablkowo- truskawkowym",,30g,5,,7622210083906
+,Mondelez,"Ciasto biszkoptowe ""Lubisie jogurtowo- bananowym"" z nadzieniem o smaku jogurtowo- bananowym",,30g,5,,7622210082404
+,Mondelez,"Ciasto biszkoptowe ""Lubisie mus z owocow lecnych"" z nadzieniem jablek i owocow lesnych",,30g,5,,7622210240583
+,Wolnosc,"Baton ""Krowka ciagutka"" smietankowa",,40g,3,,5905082008003
+,Wolnosc,"Baton ""Krowka ciagutka"" kakaowa",,40g,3,,5905082008096
+,,CHALWA,,WEIGHT,"PRICE, DKK",,BARCODE
+,Unitop,Chalwa sezamowa o smaku waniliowym,,50g,6,,5902097150956
+,Odra,Chalwa sezamowa mleczna,,65g,7,,5900278005552
+,Odra,Chalwa sezamowa z bakaliami,,65g,7,,5900278008485
+,E.Wedel,"Chalwa ""Krolewska"" z bakaliami",,50g,8,,5901588067025
+,E.Wedel,"Chalwa ""Krolewska"" z orzechami",,50g,8,,5901588067049
+,E.Wedel,"Chalwa ""Krolewska"" o smaku waniliowym z kakao",,50g,8,,5901588067056
+,,,CHOCOLATE,WEIGHT,"PRICE, DKK",,BARCODE
+,Milka,Czekolada mleczna z mleka alpejskiego z nadzieniem o smaku jogurtowym,Alpine milk chocolate yoghurt,100g,14.00,,4025700001450
+,Milka,Czekolada mleczna z mleka alpejskiego z nadzieniem o smaku toffi,Alpine milk chocolate toffee,100g,14.00,,5998711723491
+,Milka,Czekolada mleczna z mleka alpejskiego z kawalkami orzechow laskowych,Alpine milk chocolate hazelnuts,100g,14.00,,4025700001023
+,Milka,Czekolada mleczna z mleka alpejskiego z nadzieniem o smaku malinowym,Alpine milk chocolate raspberry,100g,14.00,,7622300530518
+,Milka,Czekolada mleczna z mleka alpejskiego,Alpine milk chocolate,100g,14.00,,3045140105502
+,Milka,Czekolada mleczna z mleka alpejskiego z nadzieniem o smaku wisniowym,Alpine milk chocolate cherry,100g,14.00,,7622300674595
+,Milka,Czekolada biala,White chocolate,100g,14.00,,4025700001962
+,Milka,Czekolada mleczna z mleka alpejskiego z rodzynkami i orzechami,Alpine milk chocolate raisin & nut,100g,14.00,,3045140280902
+,Milka,Czekolada mleczna z mleka alpejskiego z nadzieniem karmelowym,Alpine milk chocolate caramel,100g,14.00,,7622300719654
+,Milka,Czekolada mleczna z mleka alpejskiego z nadzieniem o smaku truskawkowo- jogurtowym,Alpine milk chocolate strawberry yoghurt,100g,14.00,,7622200007332
+,Milka,Czekolada mleczna z mleka alpejskiego,Alpine milk chocolate,25g,5.00,,7622210151728
+,GLOCERY,,,,,,
+,,HERBATKA,TEA,WEIGHT,"PRICE, DKK",,BARCODE
+,Big-Active,"Herbtka czarna z kawatkami owocow ""Cytryna & mango"" (20 szt)","""Cytryna & mango"" flavoured ceylon black tea (20 psc)",40g,23,,5907658333397
+,Big-Active,"Herbatka ziolowo- owocowa o smaku grejpfrut ""Slim plus"" (20 szt)",,40g,25,,5905548353845
+,Big-Active,Herbatka owocowo- ziolowa o smaku malinowym z acerola (20 szt),,45g,23,,5907658332383
+,Big-Active,"Herbata czerwona o smaku grejpfrutowym ""Pu-erh""",,100g,22,,5905548350035
+,Biofix,Herbatka owocowa aronia z acai (20 szt),,40g,18,,5901483000660
+,Biofix,Zielona herbatka oryginalna (20 szt),,40g,18,,5901483100278
+,Biofix,Szalwia herbatka ziolowa (20 szt),,35g,10,,5901483060022
+,Lipton,Herbata owoce tropikalne (10 szt),,18g,13,,8712100394089
+,Lipton,Herbata cytrynowa (10 szt),,17g,13,,8712100394027
+,Lipton,Herbata owoce lesne (10 szt),,17g,13,,8712100394041
+,Bastek,Herbata zielona oryginalna (20 szt),,30g,10,,5900738000349
+,Posti,Herbata indyjska granulowana,,80g,8,,5900888010939
+,Loyd,Herbatka owocowa aromatyzowana o smaku ananasa i gruszki (20 szt),,40g,18,,5900396017277
+,Loyd,Herbatka owocowa aromatyzowana o smaku maliny i truskawki (20 szt),,40g,18,,5900396016164
+,Loyd,Herbatka zielona aromatyzowana o smaku cytrynowym (20 szt),Green tea with lemon (20 psc),34g,18,,5900396016188
+,Loyd,"""Grzaniec"" kozacki o smaku miodowym (10 szt)","""Mulled wine"" honey flavour (10 psc)",30g,18,,5900396012784
+,Loyd,"""Grzaniec"" grzeszny o smaku malinowym (10 szt)","""Mulled wine"" raspberry flavour (10 psc)",30g,18,,5900396014818
+,Loyd,"""Grzaniec"" zbojnicki na ogniu (10 szt)","""Mulled wine"" traditional (10 psc)",30g,18,,5900396010865
+,Loyd,"""Grzaniec"" smak sliwkowy palony (10 szt)","""Mulled wine"" plum flavour (10 psc)",30g,18,,5900396012777
+,,KAKAO/,COFFEE/ COCOA,WEIGHT,"PRICE, DKK",,BARCODE
+,Wawel,"""Naturalne kakao"" o obnizonej zawartosci tluszczu do picia, gotowania, pieczenia",,110g,12,,5900102016273
+,La Festa,"""Chocolatta"" hot classico",,150g,18,,5900910001935
+,La Festa,"""Chocolatta"" hot cherry",,25g,3,,5900910008255
+,La Festa,"""Chocolatta"" hot strawberry",,25g,3,,5900910008873
+,La Festa,"""Chocolatta"" hot milky",,25g,3,,5900910008231
+,Caffetteria Mokate,Cappuccino classic,,110g,18,,5902891280248
+,Caffetteria Mokate,Cappuccino czekoladowe,,110g,18,,5902891280224
+,Caffetteria Mokate,Cappuccino o smaku rumowym,,110g,18,,5902891280279
+,Caffetteria Mokate,Cappuccino o smaku waniliowym,,110g,18,,5902891280217
+,Nescafe,Classic,,200g,75,,7613031918881
+,Nescafe,"Espresso (25 szt x 1,8g)",,45g,49,,3033710076789
+,Nescafe,3in1 classic,,18g,3,,59918257
+,Nescafe,3in1 brown sugar,,17g,3,,7613034025302
+,Nescafe,3in1 strong,,18g,3,,5998710967612
+,Nestle,Nescore,,260g,75,,7613034705754
+,Jacobs,Cronat gold,,500g,64,,5901480002445
+,,,COFFEE CREAMER,WEIGHT,"PRICE, DKK",,BARCODE
+,Caffetteria Mokate,,"Coffee creamer ""Carmen"" classic",200g,18,,5902891280644
+,,DETSKA HERBATKA,TEA FOR CHILDREN,WEIGHT,"PRICE, DKK",,BARCODE
+,BoboVita,Herbatka o smaku brzoskwiniowym,,200g,69,,4008976593294
+,BoboVita,"Herbatka o smaku melisy, rumianku i lipy",,200g,69,,4008976598329
+,,KONSERWY RYBNE,FISH CONSERVES ,WEIGHT,"PRICE, DKK",,BARCODE
+,Orka,Filety z makreli w oleju aromatyzowanym,Mackerel fillets in flavored oil,170g,16.00,,5908235945019
+,Pirat,Szprot popularny z oleju,Winter sprats popular smoked,170g,16.00,,5901069004549
+,Pirat,Filety sledziowe w sosie pomidorowym,Herring fillets in tomato sauce,170g,16.00,,5901069004563
+,Pirat,Filety sledziowe w oleju,Herring fillets in oil,170g,16.00,,5901069004556
+,Pirat,Sledz w sosie pomidorowym,Herring in tomato sauce,170g,16.00,,5901069004525
+,Pirat,Sledz po gdansku w oleju,Herring in oil,170g,16.00,,5901069004532
+,Graal,Filety ze sledzia w oleju,Herring fillet in oil,170g,16.00,,5903895010220
+,Graal,Byczki w sosie pomidorowym,,300g,29.00,,5903895010473
+,Losos,Szprot popularny z oleju,Winter sprats popular smoked,170g,24.00,,5901069000442
+,Neptun,Filety sledziowe w zlocistym oleju,Herring fillet in golden oil,170g,16.00,,5900653080006
+,Neptun,Filety z makreli w zlocistym oleju,Mackerel fillets in golden oil,170g,23.00,,5900653080020
+,Statesman,Tunczyk rozdrobniony w oleju slonecznikowym,Tuna dispersed in sunflower oil,185g,21.00,,5000232247605
+,Statesman,Tunczyk rozdrobniony w wodzie,Tuna dispersed in water,185g,21.00,,5000232247704
+,,OCET,VINEGAR,WEIGHT,"PRICE, DKK",,BARCODE
+,Kamis,Kamis ocet z polskich jabłek,Kamis vinegar from polish apples,250ml,23.00,,5900084198905
+,Kamis,Kamis ocet winy z czerwonego wina,Kamis vinegar from red wine,250ml,23.00,,5900084098014
+,Kamis,Kamis ocet winnyz baiłęgo wina,Kamis viengar from white wine,250ml,23.00,,5900084097017
+,Kamis,Kamis oceat jabłkowy staroploski,"Kamis vinegar from apples ""satroploski""",250ml,23.00,,5900084224048
+,,OLEJ,OIL,WEIGHT,"PRICE, DKK",,BARCODE
+,Basso,Basso olej z ryżu,Basso rice bran oil,500ml,53.00,,8004123006736
+,Kujawski,Kujawski  olej czosnkowy,Kujawski garlic oil,250ml,26.00,,5900012004827
+,Kujawski,Kujawski olej bazylia,Kujawski basil oil,250ml,26.00,,5900012004834
+,Kujawski,Kujawski olej cytryna i bazylia,Kujawski lemon and basil oil,250ml,26.00,,5900012006357
+,,KONSERWY MIĘSNE,MEAT CONSERVES ,,,,
+,Spichlerz Rusiecki,Podwawelska kiełbasa,"Sausage ""Podwawelska""",280g,30.00,,5901874901002
+,Krakus ,Golonkowa,"Sausage ""Golonkowa""",300g,30.00,,5900244010023
+,Krakus ,Gulasz angielski,English stew,300g,29.00,,5900244010030
+,Krakus ,Wieprzowina w sosie własym,Pork in gravy,300g,29.00,,5900244010054
+,Krakus ,Boczek wieprzowy,Pork,300g,28.00,,5900244000505
+,Krakus ,Luksusowa mielonka wieprzowa,Luxury pork meat,300g,29.00,,5900244010047
+,Agrovita,Konserwa Krakowska,"Can ""Krakowska""",400g,15.00,,5906764002029
+,Konserwa turystyczna,Konserwa turystyczna wieprzowo-drobiowa,Can of pork and poultry for tourist,300g,15.00,,5904595000405
+,EvraMeat,Konserwa turystyczna ,Can fo tourist,300g,17.00,,5908241636956
+,EvraMeat,Konserwa tyrolska,Can tyrolean,300g,17.00,,5908241636963
+,Konserwa tyrolska,Konserwa tyrolska wieprzowo-drobiowa,Can tyrolean of port and poultry,300g,12.00,,5904595005011
+,Konserwa turolska,Konserwa tyrolska,Can tyrolean,300g,17.00,,590676400407
+,Gratka,Gratka dla całej rodziny konserwa z golonką ,Can with pork knuckle,300g,20.00,,5900562492143
+,Pamapol,Wołowina w sosie własnym,Beef in gravy,300g,29.00,,5907501011366
+,Agrovita,Szynka drobiowa,Ham poultry,110g,10.00,,5906764000308
+,Drosed,Szynka z indykiem ,Turkey ham,110g,10.00,,5901204006322
+,Drosed,Szynka z kurcząt,Ham with chickens,110g,10.00,,5901204006315
+,Drosed,Podlaski pasztet drobiowy,Chicken pate,200g,12.00,,5901204009569
+,Gulasz angielski,Gulasz angielski,English stew,300g,27.00,,5904595000900
+,EvraMeat,Miaso Luncheon,Meat Luncheon,300g,12.00,,5908241636857
+,EvraMeat,Przysmak śniadaniowy,"Breakfast ""Delight""",300g,12.00,,5908241636864
+,Mielonka wieprzowo-drobiowa,Mielonka wieprzowo-drobiowa,Minced pork and poultry,300g,27.00,,5904595000832
+,,PASZTET,PATE,WEIGHT,"PRICE, DKK",,BARCODE
+,Lisner,"Pasta ""Pastella"" z lososia ze szczypiorkiem","Pate ""Pastella"" from salmon with chives",80g,8.00,,5900344035278
+,Lisner,"Pasta ""Pastella"" z tunczyka","Pate ""Pastella"" from salmon with tuna",80g,8.00,,5900344035018
+,Lisner,"Pasta ""Pastella"" jajeczna ze szczypiorkiem","Pate ""Pastella"" from egg with chives",80g,8.00,,5900344035100
+,Profi,Wielkopolski pasztet z indykiem ,Pate from turkey,250g,15.00,,5901696010180
+,Profi,Wielkopolski pasztet z drobiem i papryką ,Pate from poultry and pepper,250g,15.00,,5901696010173
+,Profi,Wielkopolski pasztet z drobiem firmowy,Pate from poultry,250g,15.00,,5901696000327
+,Profi,Wielkopolski pasztet z drobiem pikantny,Pate from poultry chilli,131g,10.00,,5901696010869
+,Profi,Wielkopolski pasztet z drobiem i pieczarkami,Pate from poultry and mushrooms,131g,10.00,,5901696000068
+,Profi,Wielkopolski pasztet z drobiem i szczypiorkiem,Pate from poultry and chives,131g,10.00,,5901696010845
+,Profi,Wielkopolski pasztet z drobiem i cebulą ,Pate from poultry and onion,131g,10.00,,5901696010838
+,Profi,Wielkopolski pasztet z indykiem ,Pate from turkey,131g,10.00,,5901696000099
+,Profi,Wielkopolski pasztet z drobiem i papryką ,Pate from poultry and pepper,131g,10.00,,5901696000020
+,Profi,Wielkopolski pasztet z drobiem i zielonym pieprzem,Pate from poultry and green onion,131g,10.00,,5901696000105
+,Profi,Wielkopolski pasztet z drobiem i koperkiem,Pate from poultry and dill,131g,10.00,,5901696000044
+,Profi,Wielkopolski pasztet z drobiem firmowym,Pate from poultry,131g,10.00,,5901696000013
+,Profi,Wielkoposlki pasztet z gęsią ,Pate from goose,131g,10.00,,5901696000730
+,Profi,Wielkopolski pasztet z drobiem i czosnkiem ,Pate from poultry and garlic,131g,10.00,,5901696000037
+,Profi,Wielkopolski pasztet z drobiem i majerankiem,Pate from poultry and marjoram,131g,10.00,,5901696000075
+,,KECZUP/ PRZECIER POMIDOROWY,KETCHUP/ TOMATO PUREE,WEIGHT,"PRICE, DKK",,BARCODE
+,Łowicz,Łowicz koncentrat pomidorowy,Łowicz tomato puree,70g,5.00,,5900397017481
+,Dawtona,Dawtona koncentrat pomidorowy,Dawtona tomato puree,70g,5.00,,5901713000019
+,Ketchup,Familijny ketchup łagodny,Family mild ketchup,500g,25.00,,5908235940083
+,Hellmann's,Hellmann's ketchup łagodny,Hellmann's mild ketchup,450g,24.00,,8712100393334
+,Hellmann's,Hellmann's ketchup pikantny,Hellmann's spicy ketchup,450g,24.00,,8712100393297
+,,MUSZTARDA,MUSTARD,WEIGHT,"PRICE, DKK",,BAROCODE
+,Kamis,Kamis musztarda strong z chili ciętym,"Mustard ""Strong"" with chilli",185g,13.00,,5900084241809
+,Kamis,Kamis musztarda ognista ostra,"Mustard ""Fire"", hot",185g,13.00,,5900084229630
+,Kamis,Kamis musztarda dijon bardzo ostra,"Mustard ""Dijon"", very hot",185g,13.00,,5900084229609
+,Kamis,Kamis musztarda miodowa łagodna ,"Mustard with honey, mild",185g,13.00,,5900084229548
+,Kamis,Kamis musztarda delikatesowa łagodna,"Mustard ""Gourmet"", mild",185g,13.00,,5900084229456
+,Kamis,Kamis musztarda rosyjska bardzo ostra,"Mustard ""Russian"", very hot",185g,13.00,,5900084229425
+,Kamis,Kamis musztarda francuska lekko ostra,"Mustard ""French"", a bit hot",185g,13.00,,5900084229517
+,Kamis,Kamis musztarda bawarska łagodna,"Mustard ""Bawarska"", mild",185g,13.00,,5900084229722
+,Kamis,Kamis musztarda czosnkowa lekko ostra,"Mustards with garlic, a bit hot",185g,13.00,,5900084229753
+,Kamis,Kamis musztarda kremska łagodna,"Mustard ""Kremska"", mild",185g,13.00,,5900084237895
+,,MAJONEZ,MAYONNAISE,WEIGHT,"PRICE, DKK",,BARCODE
+,Hellmann's,Majonez babuni,Grandmothers mayonnaise,420ml,24.00,,8718114892849
+,Hellmann's,Oryginalny majonez,Mayonnaise original,420ml,24.00,,8722700652038
+,Hellmann's,Majonez light,Mayonnaise light,420ml,24.00,,8722700844969
+,Hellmann's,Majonez babuni,Grandmothers mayonnaise,225ml,20.00,,8718114892818
+,Winiary,Winiary sos czosnokowy,Garlic sauce,250ml,15.00,,5900862213554
+,Winiary,Winiary sos ziołowy z nutą czosnku,Herb sauce with pint of garlic,240ml,15.00,,7613034266293
+,Winiary,Winiary sos wiosenny z koperkiem,Spring sauce with dill,240ml,15.00,,7613034551221
+,Winiary,Winiary majonez delikatny,Mayonnaise delicat,400ml,25.00,,7613034551207
+,Kielecki,Majonez kielecki,Mayonnaise,310ml,20.00,,5900242001566
+,Kieliecki,Majonez kielecki,Mayonnaise,700ml,39.00,,5900242003089
+,,,,,,,
+,,MAGGI,MAGGI,WEIGHT,"PRICE, DKK",,BARCODE
+,Nestle,Maggi przyprawa w płynie,Maggi liquid seasoning,200g,15.00,,5900085011180
+,Nestle,Maggi przyprawa w płynie,Maggi liquid seasoning,960g,40.00,,5900085011937
+,Winiary,Maggi przyprawa do zup/ sosów/ sałatek,"Seasoning for soups, sauces, salads",210g,10.00,,5900862213530
+,,POMIDORY SUSZONE ,DRIED TOMATOES ,WEIGHT,"PRICE, DKK",,BARCODE
+,Rolnik,Pomidory suszone w oleju,Dried tomatoes in oil,280g,25.00,,5900919004722
+,,FASOLKA KONSERWOWA,CANNED BEANS,WEIGHT,"PRICE, DKK",,BARCODE
+,Unamel,Fasolka konserwowa żółta cięta,Canned yellow beans,440g,15.00,,5902468100153
+,Unamel,Fasolka konserwowa zielona cięta,Canned green beans,440g,15.00,,5902468100153
+,,WARZYWA W PUSZCE,VEGETABLES IN CANS,WEIGHT,"PRICE, DDK",,BARCODE
+,Pudliszki,Groszek konserwowy,Canned peas,400g,10.00,,5900783000028.00
+,Jamar,Kukurydza konserwowa,Canned corn,400g,10.00,,5906716200848.00
+,Unamel,Marchew konserwowa kostka,Canned carrot,440g,15.00,,5902468100245
+,,MAKARONY,PASTA,WEIGHT,"PRICE, DKK",,BARCODE
+,Lubella,"Gniazda Wstazki ""Tagliatelle"" (pelne ziarno) ",Tagliatelle (full corn),400g,16.00,,5900049011546
+,Lubella,"Gniazda Wstazki "" Nidi tagliatelline""",Nidi tagliatelline,400g,16.00,,5900049003503
+,Lubella,Lasagne Nr 52,Lasagne,500g,27.00,,5900049001523
+,Lubella,"Piora Nr 17 ""Penne rigate""",Penne rigate,400g,15.00,,5900049006375
+,Lubella,"Uszka Nr 40 ""Dischi volanti""",Dischi volanti,400g,14.00,,5900049003602
+,Lubella,"Muszelki morskie Nr 32 ""Gnocchi""",Gnocchi,400g,14.00,,5900049003558
+,Lubella,"Lazanki Nr 46 ""Quadretti""",Quadretti,500g,14.00,,5900049003466
+,Lubella,"Krajanka ""Jajeczna""",,250g,9.00,,5900049011126
+,Lubella,"Gwiazdki ""Jajeczna""",Stars,250g,9.00,,5900049010648
+,Lubella,"Ryz ""Jajeczna""",Rice,250g,9.00,,5900049010686
+,Lubella,"Koralki ""Jajeczna""",Beads,250g,9.00,,5900049010655
+,Lubella,"Zacierka ""Jajeczna""",,250g,9.00,,5900049010693
+,Goliard,"Muszelka ""Gnocchi""",Gnocchi,400g,12.00,,5900252000368
+,Goliard,"Rulka ""Penne rigate""",Penne rigate,400g,12.00,,5900252000375
+,Goliard,"Lazanka ""Lasagnette""",Lasagnette,400g,12.00,,5900252000351
+,Goliard,"Swiderek ""Spirali""",Spiral,400g,12.00,,5900252000344
+,Makaron Wadowicki,Muszelki morskie,Sea shells,400g,12.00,,5900049010631
+,Pol- Mak,Swiderek Tradycyjny,Traditional gimlet,250g,9.00,,5908310960760
+,Pol- Mak,Swiderek,Gimlet,400g,12.00,,5904025000241
+,Klasyczny,Piora,Feathers,400g,12.00,,5904025000692
+,Klasyczny,Kolanko,Node,400g,12.00,,5904025000159
+,Klasyczny,Lazanka,Lazanka,400g,12.00,,5904025000555
+,Zloty lan,Swiderek (makaron 2-jajeczny) z kurkuma,Gimlet (2-egg noodles) with turmeric,400g,9.00,,5908235944005
+,Zloty lan,Wstazka (makaron 2-jajeczny) z kurkuma,Ribbon (2-egg noodles) with turmeric,400g,9.00,,5908235943985
+,Zloty lan,Spaghetti,Spaghetti,400g,8.00,,5908235945033
+,Beskidzki makaron,Makaron z dodatkiem kurkumy,Pasta with turmeric,250g,9.00,,5902149000369
+,Klas,Tjestenina,Tjestenina,400g,17.00,,3870004002907
+,SamMills,"Fusilli ""Pasta d'oro"" (makaron bezglutenowy)",Fusilli,500g,21.00,,5948935000274
+,SamMills,"Penne Rigate ""Pasta d'oro"" (makaron bezglutenowy) ",Pene rigate,500g,21.00,,5948935000267
+,SamMills,"Spaghetti ""Pasta d'oro"" (makaron bezglutenowy)",Spaghetti,500g,21.00,,5948935002605
+,Solare,Spagnetti,Spaghetti,400g,9.00,,5900354030164
+,,RYZ,RICE,WEIGHT,"PRICE, DKK",,BARCODE
+,Kajo,Ryz bialy drugoziarnisty,Long grain white rice,400g,14.00,,5902171000108
+,Kupiec,Ryz basmati,Basmati rice,400g,21.00,,5902172001111
+,Cenos,Ryz bialy dlugi,Rice white long,400g,12.00,,5900977001619
+,Cenos,Ryz naturalny brazowy pelnoziarnisty,Rice natural brown Baker's wares,400g,14.00,,5900977001602
+,,KASZA,GROATS,WEIGHT,"PRICE, DKK",,BARCODE
+,,Jeczmienna,Barley,,,,
+,Kupiec,Kasza jeczmienna perlowa ,Barley pearl groats,400g,19.00,,5902172000145
+,Kajo,Kasza jeczmienna peczak,Barley pearl groats,400g,6.00,,5902171000061
+,Kajo,Kasza jeczmienna wiejska,Barley pearl groats,400g,6.00,,5902171000535
+,Cenos,Kasza peczak jeczmienny,Barley pearl groats,400g,12.00,,5900977002197
+,Risana,Kasza peczak jeczmienny,Barley pearl groats,400g,10.00,,5902180570104
+,,Gryczana,Buchwheat,,,,
+,Cenos,Kasza gryczana prazona,Roasted buckwheat,400g,19.00,,5900977001572
+,Kajo,Kasza gryczana palona,Roasted buckwheat,400g,13.00,,5902171000740
+,,Pszenna,Wheat,,,,
+,Lubella,Kasza pszenna,Wheat groats,300g,17.00,,5900049001721
+,,Jaglana,Millet,,,,
+,Cenos,Kasza jaglana,Millet groats,400g,12.00,,5900977007628
+,Lestello,Kasza jaglana,Millet groats,400g,12.00,,5902609000496
+,,Bulgur,Bulgur,,,,
+,Melvit,Kasza bulgur premium,Bulgur groats premium,400g,22.00,,5906827015317
+,,Kuskus,Couscous,,,,
+,Cenos,Kasza kuskus blyskawiczna,Couscous,250g,12.00,,5900977001138
+,Melvit,Kasza kuskus,Couscous,350g,17.00,,5906827014419
+,,PLATKI,FLAKES,WEIGHT,"PRICE, DKK",,BARCODE
+,Szczytno,Platki blyskawiczne jaglane,Instant millet flakes,400g,20.00,,5906827014532
+,,FASOLA,BEANS,WEIGHT,"PRICE, DKK",,BARCODE
+,Cenos,"Fasola ""Piekny jas""","Beasn ""Giants""",400g,22.00,,5900977007949
+,Kupiec,Fasola biala drobna,White fine beans,400g,18.00,,5902172000053
+,Kupiec,Fasola piekny jas tyczny,Big handsome Johnny bean,400g,18.00,,5902172001500
+,Kupiec,Fasola piekny jas karlowy,Handsome Johnny bean,400g,18.00,,5902172000046
+,,SOCZEWICA,LENTILS,WEIGHT,"PRICE, DKK",,BARCODE
+,Melvit,Soczewica czerwona oryginalna,Redlentils,400g,19.00,,5906827014280
+,Melvit,Soczewica zielona oryginalna,Greenlentils,400g,13.00,,5906827014303
+,,OGORKI ,CUCUMBERS,WEIGHT,"PRICE, DKK",,BARCODE
+,Urbanek,Ogorki kwaszone,Cucumbers in brine,930g,20.00,,5900907000262
+,Kwaszarnia,Ogorki kwaszone,Cucumbers in brine,400g,10.00,,5907431182112
+,,KAPUSTA,CABBAGE,WEIGHT,"PRICE, DKK",,BARCODE
+,Kwaszarnia,Kapusta kwaszona,Cabbage in brine,1 kg,20.00,,5907431182020
+,Frutico,Kapusta kwaszona,Sauerkraut,820g,15.00,,5902267000128
+,Frutico,Kapusta kwaszona z marchewką ,Sauerkraut with carrot ,820g,15.00,,5902267003488
+,Frutico,Kapusta czerwona,Red cabbage,820g,15.00,,5902267000258
+,Dawtona,Kapusta czerwona z jabłkiem,Red cabbage with apple,680g,15.00,,5901713000125
+,Almar,Kapusta kwaszona,Sauerkraut,840g,15.00,,5902257006109
+,,BURACZKI,BEETS,WEIGHT,"PRICE, DKK",,BARCODE
+,,Buraczki ćwikłowe specialite wiórki,Red beetroots,510g,12.00,,5904645333523
+,,SAŁATKI W SŁOIKACH,SALADS IN JARS,WEIGHT,"PRICE, DKK",,BARCODE
+,Rolnik,Rubin sałatka,Rubin salad,450g,14.00,,5900919004340
+,,SELER,CELERY,WEIGHT,"PRICE, DKK",,BARCODE
+,Rolnik,Seler wyborny,Celery,320g,15.00,,5900919000090
+,Frunktua,Seler konserwowy,Canned Celery ,350g,15.00,,5904645003516
+,,POSIŁEK NA GOTOWO,ALREADY PREPARED DISH,WEIGHT,"PRICE, DKK",,BARCODE
+,Kuchnia Staropolska,Fasolka po bretońsku z kiełbasą ,Baked beans with sausage,700g,35.00,,590389627176
+,Kuchnia Staropolska,Klopsiki w sosie pomidorowym,Meatballs in tomato sauce,700g,35.00,,5903895627183
+,Kuchnia Staropolska,Pulpety w sosie pomidorowym,Meatballs in tomato sauce,700g,35.00,,5903895627169
+,Łowicz,Fasolka po bretońsku z boczkiem i kiełbasą,Baked beans with bacon and sausage,580g,39.00,,5900397734838
+,Łowicz,Fasolka po bretońsku z kiełbasą i boczkiem,Baked beans with sausage and bacon,580g,39.00,,5901886013021
+,Łowicz,Klopsy w sosie pomidorowym,Meatballs in tomato sauce,580g,39.00,,5901886013052
+,Pamapol,Glowizna w galarecie+ warzywa,Brawn in jelly with vegetables,498g,20.00,,5901874900197
+,Pamapol,Fasolka po bretonsku z kielbasa,Baked beans with sausage,500g,20.00,,5907501002081
+,Pamapol,Pulpety miesno- warzywne w sosie pomidorowym,Meatballs and vegetables in tomato sauce,500g,20.00,,5907501002036
+,Pamapol,Bigos polski z kielbasa i grzybami,Polish bigos with sausage and mushrooms,500g,20.00,,5907501002128
+,Pamapol,Golabki w sosie pomidorowym,Stuffed cabbage in tomato sauce,500g,20.00,,5907501002029
+,Pamapol,Flaczki po zamojsku,,500g,20.00,,5907501002258
+,Pamapol,Flaczki w rosole,,500g,20.00,,5907501002012
+,Pudliszki,Klopsiki w sosie pomidorowym,Meatballs in tomato sauce,500g,27.00,,5900783004965
+,Pudliszki,Gulasz wieprzowo- wolowy,Stewed beef,500g,35.00,,5900783004941
+,Bonduelle,Leczo pieczarkowe pikantne,"Mushroom leczo, hot",450g,22.00,,5900281002982
+,Dania Kachny,Golabki w sosie pomidorowym,Stuffed cabbage in tomato sauce,500g,15.00,,5908235940465
+,Dania Kachny,Bigos,Bigos,500g,16.00,,5908235943367
+,Dania Kachny,Klopsiki w sosie pomidorowym,Meatballs in tomato sauce,500g,15.00,,5908235940441
+,Dania Kachny,Pulpety w sosie pomidorowym,Meatballs in tomato sauce,500g,15.00,,5908235941721
+,Dania Kachny,Fasolka po bretonsku z kielbasa,Baked beans with sausage,500g,20.00,,5908235940502
+,Dania Kachny,Flaczki w rosole,,500g,15.00,,5908235940427
+,Zagloba,Pulpety w sosie o smaku kurkowym,Meatballs in sauce flavored with chanterelle,500g,20.00,,5900983010810
+,Zagloba,Klopsy w sosie pieczeniowym,Meatballs in mushrooms sauce,500g,20.00,,5900983010797
+,Zagloba,Golabki bez zawijania,Stuffed cabbage,500g,20.00,,5900983010827
+,Agrovita,Fasolka po bretonsku z kielbasa i boczkiem,Baked beans with sausage and bacon,500g,23.00,,5902221662065
+,Agrovita,Gulasz wieprzowy,Stewed beef,500g,28.00,,5902221662072
+,Agrovita,Gulasz wieprzowy,Stewed beef,800g,58.00,,5902221662034
+,Agrovita,Gulasz po wegiersku,Stewed beef,920g,48.00,,5906732602497
+,Spichlerz Rusiecki,Krakowska kielbasa,"Sausage ""Krakowska""",280g,30.00,,5901874900982
+,Spichlerz Rusiecki,Podwawelska kielbasa,"Sausage ""Podwawelska""",280g,30.00,,5901874901002
+,Spichlerz Rusiecki,Golonka szlachecka,,300g,30.00,,5907501016132
+,,SZCZAW,SORREL,WEIGHT,"PRICE, DKK",,BARCODE
+,Rolnik,Szczaw,Sorrel,300g,10.00,,5900919004043
+,,PIECZARKI MARYNOWANE,MARINATED MUSHROOMS,WEIGHT,"PRICE, DKK",,BARCODE
+,Rolnik,Pieczarki marynowane,Marinated mushrooms,370g,14.00,,5900919222175
+,Fruktus,Pieczarki marynowane,Marinated mushrooms,270g,17.00,,5904645000775
+,Global,Pieczarki marynowane,Marinated mushrooms,290g,15.00,,5905864007262
+,Global,Pieczarki marynowane,Marinated mushrooms,840g,36.00,,5905864007293
+,Bonduelle,Pieczarki marynowane,Marinated mushrooms,280g,22.00,,5900281000568
+,Almar,Pieczarki marynowane,Marinated mushrooms,870g,36.00,,5902257006512
+,Urbanek,Pieczarki marynowane,Marinated mushrooms,290g,17.00,,5900907000392
+,,???,FAST FOOD,WEIGHT,"PRICE, DKK",,BARCODE
+,,???,In the carton box,,,,
+,Vifon,"Danie blyskawiczne z kluskami ""Lunch box"" smak serowy (lagodne)",Cheese flavour instant noodle dish (milk),80g,18.00,,5901882014480
+,Vifon,"Danie blyskawiczne z kluskami ""Lunch box"" smak gulaszowy (pikantne)",Goulash flavour instant noodle dish (hot),80g,18.00,,5901882014442
+,Vifon,"Danie blyskawiczne z kluskami ""Lunch box"" smak grzybowy (lagodne)",Mushroom flavour instant noodle dish (mild),80g,18.00,,5901882014428
+,Vifon,"Danie blyskawiczne z kluskami ryzowymi ""Lunch box"" kurczak (lagodne)",Chicken flavour instant rice noodle dish (mild),80g,18.00,,5901882014367
+,Vifon,"Danie blyskawiczne z kluskami ryzowymi ""Lunch box"" kim chi (pikantne)",Instant rice noodle dish (hot),80g,18.00,,5901882014381
+,Knorr,"Makaron z sosem gulaszowym ""Goracy Kubek""",,52g,15.00,,5900300519835
+,Knorr,"Makaron z sosem mysliwskim ""Goracy Kubek""",,50g,15.00,,5900300519859
+,Knorr,"Makaron z sosem serowo- smietanowym ""Goracy Kubek""",,60g,15.00,,5900300519811
+,Knorr,Makaron z sosem bolonskim,,56g,15.00,,5900300519798
+,Winiary,"Makaron z sosem gulaszowym ""Danie w 5 minut""",,50g,15.00,,5900085010640
+,Winiary,"Makaron z sosem pieczarkowym ""Danie w 5 minut""",,50g,15.00,,5900085010657
+,Winiary,"Spagetti po Neapolitansku ""Danie w 5 minut""",,55g,15.00,,5900085011814
+,,Nudle,Noodles,,,,
+,Knorr,"Danie o smaku kebabu ""Knorr nudle""",,65g,6.00,,8712100382635
+,Knorr,"Danie o smaku sera mozzarella ""Knorr nudle""",,63g,6.00,,8712100382666
+,Knorr,"Danie o smaku grzybowym ""Knorr nudle""",,63g,6.00,,8712100384820
+,Amino,Zupa blyskawiczna grybowa,,57g,5.00,,8712100379215
+,Amino,Zupa blyskawiczna grochowa z wedzonka,,65g,5.00,,8712100379291
+,,Zupa ???,Powder soups,,,,
+,Knorr,"Pomidorowa kremowa ""Goracy Kubek na bogato"" z makaronem",,36g,8.00,,8718114884066
+,Knorr,"Rosol z kury ""Goracy Kubek na bogato"" z makaroenm i warzywami",,29g,8.00,,8718114884080
+,Knorr,"""Goracy Kubek"" smak zielona cebulka z grankami",,16g,5.00,,8711200526734
+,Knorr,"""Goracy Kubek"" krem z kury z grankami",,18g,5.00,,5900300542802
+,Knorr,"""Goracy Kubek"" grochowa z grankami",,20g,5.00,,8711200525300
+,Knorr,"""Goracy Kubek"" barszcz czerwony",,12g,5.00,,5900300542864
+,Knorr,"""Goracy Kubek"" barszcz czerwony",,14g,5.00,,8712100868689
+,Knorr,Zupa grzybowa,,50g,12.00,,8718114703954
+,Knorr,Barszcz czerwony,,53g,6.00,,8718114711188
+,Dobre zupy,Zupa ogonowa,,50g,12.00,,5900288235574
+,Dobre zupy,Barszcz bialy,,60g,12.00,,5900288255527
+,Dobre zupy,Zupa pieczarkowa,,60g,12.00,,5900288256234
+,Dobre zupy,Barszcz czerwony,,35g,5.00,,5900288195281
+,Amino,Barszcz bialy,,39g,12.00,,8712100520761
+,Amino,Barszcz czerwony,,37g,6.00,,8718114711041
+,Winiary,Zupa grzybowa,,48g,12.00,,7613033000546
+,,ZUPA,SOUPS,WEIGHT,"PRICE, DKK",,BARCODE
+,Rolnik ,Barszcz czerwony koncentrat ,Red beetroot soup,330ml,12.00,,5900919001073
+,Rolnik ,Zurek domowy,Sour soup,370mk,10.00,,5900919002025
+,Krakus,Zurek koncentrat ,Sour soup,300ml,14.00,,5900397730748
+,Krakus,Zurek,Sour soup,1l,20.00,,5900397734401
+,Krakus,Barszcz czerwony,Red beetroot soup,1l,20.00,,5900397734357
+,Unamel,Zurek koncentrat,Sour soup,460g,13.00,,5902468101198
+,Profi,Zupa jarzynowa z miesem wieprzowym,,450g,15.00,,5901696000945
+,Profi,Zupa ogorkowa z miesem wieprzowym,,450g,15.00,,5901696000835
+,Profi,Kapusniak z miesem wieprzowym,,450g,15.00,,5901696000969
+,Profi,Zupa pieczarkowa z miesem wieprzowym,,450g,15.00,,5901696000976
+,Profi,Zupa gulaszowa z warzywami i tymiankiem,,450g,15.00,,5901696001812
+,Profi,Zupa grzybowa z suszonych grzybow,,450g,15.00,,5901696000952
+,Profi,Krupnik z miesem wieprzowym,,450g,15.00,,5901696000860
+,Profi,Zupa pomidorowa z makaronem,Tomatoe soup with pasta,450g,15.00,,5901696010425
+,,MAKA,FLOUR,WEIGHT,"PRICE, DKK",,BARCODE
+,Zloty lan,Maka tortowa,,1 kg,11.00,,5908235940267
+,Zloty lan,Maka luksusowa,,1 kg,11.00,,5908235940687
+,Zloty lan,Maka wroclawska,,1 kg,11.00,,5908235940243
+,,BULKA TARTA,,WEIGHT,"PRICE, DKK",,BARCODE
+,Cenos,Bulka tarta,,400g,10.00,,5900977003859
+,,SODA,SODA,WEIGHT,"PRICE, DKK",,BARCODE
+,Gellwe,Soda oczyszczona,,80g,3.00,,5900552000952
+,Delecta,Soda oczyszczona,,100g,8.00,,5900983020307
+,,CUKIER,SUGAR,WEIGHT,"PRICE, DKK",,BARCODE
+,Diamant,Cukier bialy,White sugar,1 kg,14.00,,5907069000017
+,,SOL,SALT,WEIGHT,"PRICE, DKK",,BARCODE
+,Klodawa,Sol kamienna spozywcza jodowana,,1 kg,5.00,,5902587000020
+,Cuor di Mare,Sol morska drobnomielona,,1 kg,12.00,,8016926700063
+,Cenos,Sol spozywcza jodowana,,1 kg,5.00,,5902333000021
+,,PUDER DO CIASTECZKI  ,,WEIGHT,"PRICE, DKK",,BARCODE
+,Dr. Oetker,Ciasto czekoladowe XXL,,671g,36,,5900437080109
+,Dr. Oetker,Kopiec Kreta oryginalny,,410g,37,,5900437089003
+,Dr. Oetker,Babeczki kopce kreta,,264g,29,,5900437081823
+,Dr. Oetker,Krem smak smietankowy,,120g,15,,5900437013701
+,Dr. Oetker,Krem o smaku smietankowym,,100g,15,,5900288324575
+,Delecta,Ciasto czekoladowe z belgijska czekolada (duza blacha),,670g,25,,5900983002891
+,Delecta,Krem tortowy smak krowka,,110g,17,,5900983004499
+,Delecta,Krem tortowy smak ajeranikowy,,120g,17,,5900983022806
+,Delecta,Krem tortowy smak czekoladowy,,115g,17,,5900983004437
+,Delecta,Krem karpatka oryginalna,,250g,17,,5900983003997
+,Delecta,Krem karpatka 5 minut,,145g,17,,5900983003706
+,Delecta,Ciasto w proszku Tiramisu,,420g,25,,5900983003560
+,Delecta,Ciasto w proszku Krowka,,530g,25,,5900983005502
+,Delecta,Ciasto w proszku Karpatka,,390g,25,,5900983003478
+,Delecta,Duza Blacha ciasto kruche,,600g,25,,5900983002686
+,Delecta,Duza Blacha ciasto jogurtowe,,640g,25,,5900983002884
+,Delecta,Duza Blacha piernik,,680g,25,,5900983002907
+,Delecta,Sernik blyskawiczny smak jogurtowy,,183g,17,,5900983004512
+,Delecta,Sernik blyskawiczny oryginalny,,193g,17,,5900983004895
+,Gellwe,Ciasto krem do karpatka,,340g,25,,5900552001324
+,Gellwe,Krem czekoladowy,,140g,17,,5900552021155
+,Gellwe,Sernik na zimno,,193g,17,,5900552012504
+,,BUDYN,,WEIGHT,"PRICE, DKK",,BARCODE
+,Delecta,Szybki budyn smak smietankowy z biala czekolada,,40g,5,,5900983000736
+,Delecta,Budyn smak smietankowy Aksamitny,,47g,6,,5900983000699
+,Delecta,Budyn smak czekoladowy Sksamitny,,47g,6,,5900983000675
+,Delecta,Duzy budyn smak krowki,,64g,6,,5900983000668
+,Delecta,Budyn premium smak waniliowy z dodatkiem wanilii,,47g,6,,5900983000682
+,Delecta,Budyn premium smak smietankowy z biala czekolada,,47g,6,,5900983000699
+,Winiary,Budyn o smaku smietankowym z cukrem,,60g,5,,5900085000115
+,Winiary,Budyn o smaku malinowym z cukrem,,60g,5,,5900085002270
+,Winiary,Budyn o smaku waniliowym z cukrem,,60g,5,,5900085000139
+,Winiary,Budyn o smaku wisniowym z cukrem,,60g,5,,5900085000146
+,Winiary,Budyn o smaku toffi z cukrem,,60g,5,,5900085006452
+,Winiary,Budyn o smaku truskawkowym z cukrem,,60g,5,,7613033899096
+,Winiary,Budyn o smaku bananowym z cukrem,,60g,5,,5900085002287
+,,KISIEL,,WEIGHT,"PRICE, DKK",,BARCODE
+,Delecta,"Kisiel ""Owocowy kubek"" smak zielone jabluszko",,30g,5,,5900983000811
+,Delecta,"Kisiel ""Owocowy kubek"" smak owoce lesne",,30g,5,,5900983000873
+,Delecta,"Kisiel ""Owocowy kubek"" o smaku wisniewym",,30g,5,,5900983000897
+,Delecta,"Kisiel ""Owocowy kubek"" o smaku truskawkowym",,30g,5,,5900983000880
+,Delecta,"Kisiel ""Owocowy kubek"" o smaku malinowym",,30g,5,,5900983000866
+,,GALARETKA,,WEIGHT,"PRICE, DKK",,BARCODE
+,Gellwe,"Galaretka ""Frugo"" (pomegranate and strawberry)",,75g,6,,5900552052821
+,Gellwe,"Galaretka ""Frugo"" (blue berries)",,75g,6,,5900552052906
+,Gellwe,Galaretka smak wisniowy,,75g,6,,5900552009825
+,Gellwe,Galaretka smak owoce lesne,,75g,6,,5900552009832
+,Gellwe,Galaretka smak brzoskwiniowy,,75g,6,,5900552009757
+,Gellwe,Galaretka smak pomaranczowy,,75g,6,,5900552009795
+,Gellwe,Galaretka smak truskawkowy,,75g,6,,5900552009818
+,Delecta,Galaretka smak agrestowy,,75g,6,,5900983002709
+,Delecta,Galaretka smak pomaranczowy,,75g,6,,5900983002754
+,Delecta,Galaretka smak czarnej porzeczki,,75g,6,,5900983002785
+,Delecta,Galaretka smak truskawkowy,,75g,6,,5900983002761
+,Delecta,Galaretka smak wisniowy,,75g,6,,5900983002778
+,Delecta,Galaretka smak cytrynowy,,75g,6,,5900983002730
+,Delecta,Galaretka smak brzoskwiniowy,,75g,6,,5900983002723
+,Delecta,Galaretka smak gruszkowy,,75g,6,,5900983002792
+,,,,,,,
+,Delecta,Cukier migdalowy,,15g,3,,5900983005090
+,Delecta,Proszek do pieczenia,,15g,3,,5900983005168
+,Delecta,Cukier cynamonowy,,15g,3,,5900983005083
+,Delecta,Cukier wanilnowy,,30g,6,,5900983005014
+,Delecta,Posypka dekoracyjna smak owocowy,,30g,5,,5900983019929
+,Delecta,"""Decorada"" platki czekoladowe",,40g,7,,5900983019806
+,Prymat,Przyprawa do piernika,,20g,6,,5901135026376
+,Delecta ,"Owsianka ""Moc ziaren"" smak jablkowy z cynamonem",,47g,6,,5900983006448
+,Delecta ,Szybki sernik na zimno z truskawkami,,38g,6,,5900983005779
+,Delecta ,Szybki sernik na zimno z prawdziwa wanilia,,38g,6,,5900983005793
+,Agugu,Przecier owocowy dla niemowlat po 6 miesiacu (banan z jablkiem i brzoskwinia),,190g,12,,8586015174919
+,Wawel,"""Naturalne kakao"" o obnizonej zawartosci tluszczu do picia, gotowania, pieczenia",,110g,12,,5900102016273
+,,BITA SMIETANA W PROSZKU,,WEIGHT,"PRICE, DKK",,BARCODE
+,Gellwe,"Bita smietana ""Sniezka""",,60g,7,,5900552000273
+,Gellwe,"Bita smietana ""Sniezka Light""",,60g,7,,5900552000686
+,Gellwe,Smietanex,,12g,3,,5900552018643
+,Winiary,Bita smietana,,55g,7,,7613031232130
+,Delecta,Sniezka oryginalna,,51g,7,,5900983004949
+,Delecta,Mix do smietany,,13g,3,,5900983004734
+,,AROMAT,,WEIGHT,"PRICE, DKK",,BARCODE
+,Delecta,Aromat do ciast arakowy,,9ml,7,,59027058
+,Delecta,Aromat do ciast rumowy,,9ml,7,,59027096
+,Delecta,Aromat do ciast cytrynowy,,9ml,7,,59027065
+,Delecta,Aromat do ciast pomaranczowy,,9ml,7,,59027089
+,Delecta,Aromat do ciast migdalowy,,9ml,7,,59027072
+,Delecta,Aromat do ciast waniliowy,,9ml,7,,59027119
+,Delecta,Aromat do ciast smietankowy,,9ml,7,,59027102
+,Gellwe,Aromat waniliowy,,10ml,7,,59048008
+,,ZELATYNA,,WEIGHT,"PRICE, DKK",,BARCODE
+,Gellwe,"Zelatyna do mies, ryb, warzyw i deserow",,50g,?,,5900552000365
+,Prymat,Zelatyna spozywcza,,30g,8,,5901135017534
+,Cykoria,Zelatyna spozywcza,,50g,10,,5900288000837
+,,GLUKOZA,,WEIGHT,"PRICE, DKK",,BARCODE
+,Delecta,Glukoza,,100g,9,,5900983020482
+,,MAK,,WEIGHT,"PRICE, DKK",,BARCODE
+,Kresto,Mak,,200g,17,,5902451021205
+,BackMit,Mak mielony,,200g,19,,9001458065260
+,,RODZYNKI,,WEIGHT,"PRICE, DKK",,BARCODE
+,Bakalland,Rodzynki luksusowe,,100g,15,,5900749020299
+,,MIOD,HONEY,WEIGHT,"PRICE, DKK",,BARCODE
+,Pudliszki,Miod sztuczny,,270g,25.00,,5900783000448
+,,DZEM,JAM,WEIGHT,"PRICE, DKK",,BARCODE
+,Sloneczny ogrod,Dzem brzoskwiniowy,,280g,8.00,,5908235940588
+,Lowicz,Dzem ananasowy,,280g,20.00,,5900397008144
+,Lowicz,Dzem truskawkowy,Strawberry jam,280g,20.00,,5900397006744
+,Lowicz,Dzem malinowy,,280g,20.00,,5900397007543
+,Lowicz,Dzem brzoskwiniowy,,280g,20.00,,5900397008540
+,Lowicz,Dzem z aronii,,280g,20.00,,5900397008342
+,Lowicz,Dzem wisniowy,Cherry jam,280g,20.00,,5900397006546
+,Lowicz,Dzem wisniowy,Cherry jam,450g,22.00,,5900397734630
+,,MASA,,WEIGHT,"PRICE, DKK",,BARCODE
+,,Makowa,,,,,
+,Bakalland,Masa makowa z bakaliami,,850g,51.00,,5900749560016
+,Helio,Masa makowa z bakaliami,,850g,51.00,,5905617009000
+,,Krowkowa,,,,,
+,Helio,Masa krowkowa o smaku kawowym,,400g,25.00,,5905617009246
+,Helio,Masa krowkowa o smaku kokosowym,,400g,25.00,,5905617009222
+,Helio,Masa krowkowa kajmak,,400g,25.00,,5905617009208
+,Helio,Masa krowkowa o smaku orzechowym,,400g,25.00,,5905617009215
+,Helio,Masa krowkowa o smaku czekoladowym,,400g,25.00,,5905617009239
+,Helio,Masa krowkowa kukulka,,400g,25.00,,5905617009260
+,,???,,,,,
+,Rolnik,Koktajlowe czeresnie w syrolie (czerwone),Coctail cherries in syrup (red),370g,30.00,,5900919004258
+,Rolnik,Koktajlowe czeresnie w syrolie (zielone),Coctail cherries in syrup (green),370g,30.00,,5900919004241
+,,PRZYPRAWY,SPICES,WEIGHT,"PRICE, DKK",,BARCODE
+,Podravka,Vegeta oryginalna,,1 kg,69,,5904353039050
+,Podravka,Vegeta oryginalna,,500g,39,,5904353039043
+,Podravka,Vegeta oryginalna,,300g,19,,3850104216466
+,Podravka,Vegeta,,75g,7,,5904353039012
+,Winiary,"""Jarzynka"" universalna przyprawa do potraw",,200g,10,,7613033790959
+,Winiary,"""Ziarenka smaku"" przyprawa universalna",,120g,10,,5900862214162
+,Winiary,"""Ziarenka smaku"" przyprawa universalna",,200g,15,,5900862214209
+,Winiary,"""Ziarenka smaku"" przyprawa drobiowa",,120g,10,,5900862216661
+,Kamis,Marynata staropolska,,20g,6,,5900084087018
+,Kamis,Marynata pikantna,,20g,6,,5900084089012
+,Kamis,Przyprawa do ryb,,20g,6,,5900084235198
+,Kamis,Estragon,,10g,6,,5900084015011
+,Kamis,Majeranek,,9g,6,,5900084235099
+,Kamis,Grill pikantny,,25g,6,,5900084132015
+,Kamis,Przyprawa do piernika,,20g,6,,5900084202787
+,Kamis,Chrupiacy kurczak panierka klasyczna,,90g,12,,5900084128018
+,Kamis,Fix nuggetsy klasyczne,,90g,14,,5900084232807
+,Galeo,Przyprawa do kurczaka,,25g,6,,5900084195805
+,Galeo,Bazylia,,8g,4,,5900084244954
+,Galeo,Ziola prowansalskie,,8g,4,,5900084245678
+,Galeo,Czosnek granulowany,,20g,4,,5900084196604
+,Galeo,Tymianek,,8g,4,,5900084245272
+,Galeo,Pieprz czarny mielony,,15g,4,,5900084245210
+,Galeo,Pieprz czarny ziarnisty,,15g,4,,5900084245234
+,Galeo,Kminek,,20g,4,,5900084195706
+,Galeo,Cynamon mielony,,20g,4,,5900084196307
+,Appetita,Czosnek granulowany,,20g,6,,5902795003264
+,Appetita,Gorczyca biala,,30g,6,,5902795003073
+,Appetita,Pietruszka suszona nac,,6g,6,,5902795003301
+,Appetita,Przyprawa do frytek ziemniakow,,25g,6,,5902795000324
+,Appetita,Przyprawa do ryby,,20g,6,,5902795000379
+,Appetita,Przyprawa do flakow,,39g,6,,5902795000416
+,Prymat,Ziele angielsie mielone,,15g,6,,5901135013437
+,Prymat,Przyprawa do indyka,,25g,6,,5901135024242
+,Prymat,Lisc laurowy,,6g,4,,5901135000482
+,Knorr,Grill pikantny kurczak,,40g,,,8712100574573
+,Cykoria,Przyprawa do konserwowania ogorkow,,45g,8,,5900288222635
+,,SOSY W PROSZKU,SAUCES IN POWDER,WEIGHT,"PRICE, DKK",,BARCODE
+,Knorr,Fix makaron kremowe 4 sery z mozzarella,,45g,12,,8712100407871
+,Winiary,Sos pieczarkowy,,32g,10,,5900085009972
+,Winiary,Sos borowikowy,,33g,10,,7613035273993
+,Winiary,Sos grzybowy,,30g,10,,7613030963134
+,Winiary,"""Pomysl na"" chlopski garnek",,40g,12,,7613033000652
+,,BULION,,WEIGHT,"PRICE, DKK",,BARCODE
+,Winiary,Bulion na zeberkach (12 kostek)                                       ,,120g,12,,7613032609757
+,Winiary,Bulion na zeberkach (6 kostek)                                       ,,60g,6,,7613032609771
+,Winiary,Bulion cielecy (6 kostek),,60g,6,,7613032376710
+,Winiary,Bulion brobiowy z zielem angielskim i lisciem laurowym (6 kostek),,60g,6,,7613031569410
+,Winiary,Bulion z grzybami lesnymi (6 kostek),,60g,6,,7613033214684
+,Winiary,Rosol drobiowo warzywny (6 kostek),,60g,6,,7613033214523
+,Winiary,Kostka do smaku warzywna (6 kostek),,60g,6,,8585002465160
+,FISH PRODUCTS,,,,,,
+,,PRODUKTY SLEDZIOWE,HERRING PRODUCTS,WEIGHT,"PRICE, DKK",,BARCODE
+,Lisner,Filety sledziowe w sosie musztardowym,,280g,23.00,,5900344018141
+,Lisner,Filety sledziowe w sosie hawajskim,,280g,23.00,,5900344018165
+,Lisner,Filety sledziowe w sosie koperkowym,,280g,23.00,,5900344018134
+,Lisner,Filety sledziowe w sosie jogurtowym,,280g,23.00,,5900344018271
+,Lisner,"""Sledzik na raz"" w sosie koperkowym",,100g,11.00,,5900344403725
+,Lisner,"""Sledzik na raz"" z cebulka",,100g,11.00,,5900344901788
+,Lisner,"""Sledzik na raz"" z papryka",,100g,11.00,,5900344901801
+,Lisner,Wiejskie filety sledziowe w oleju z cebulka,,600g,43.00,,5900344700367
+,Lisner,Rolmopsy w aromatycznej zalewie octowo- korzennej,,400g,24.00,,5900344101447
+,Lisner,"Platy sledziowe ""Bismarck"" w aromatycznej zalewie octowo- korzennej",,400g,24.00,,5900344102444
+,Seko,Platy sledziowe smazone w zalewie octowej,,800g,30.00,,5902353004108
+,Seko,Koreczki sledziowe po meksykansku,,220g,22.00,,5902353009448
+,Seko,Przysmak kaszubski (bez skory),,200g,22.00,,5902353009769
+,Seko,Koreczki gizyckie,,200g,22.00,,5902353010185
+,,MILK FRIGDE,,,,,
+,,MLEKO,MILK,,,,
+,MLEKPOL,"Łaciate 3,2%",,1l,9.00,,5900820012229
+,MLEKPOL,Łaciate 2%,,1l,9.00,,5900820012212
+,PIĄTNICA,"Mleko wiejskie świeże 3,2%",,1l,10.00,,5901939000794
+,PIĄTNICA,Mleko wiejskie świeże 2%,,1l,10.00,,5901939000770
+,,MLEKO SMAKOWE,,,,,
+,ŁACIATE,Mleko UHT o smaku waniliowym,,250ml,8.00,,5900820010041
+,ŁACIATE,Mleko UHtT o smaku czekoladowym,,250ml,8.00,,5900820010010
+,,KEFIR,,,,,
+,MILKO,Kefir naturalny ,,1l,12.00,,5900820001353
+,MILKO,Kefir naturalny,,400ml,8.00,,5900820014063
+,JOVI,Kefir Śliwka Suszona,,350g,10.00,,5903767008782
+,,SERKI/ JOGURTY,,,,,
+,DELFIKO,Serek śmietankowy,,1kg,49.00,,5903240584550
+,ZOTT,Monte Drink,,200ml,8.00,,4014500041780
+,ZOTT,Monte waffle sticks,,125g,10.00,,4014500511269
+,ZOTT,Monte cacao cookies,,125g,10.00,,4014500511245
+,ZOTT,Monte crunchy,,125g,10.00,,4014500511221
+,ZOTT,Monte drink,,380ml,20.00,,40145143
+,ZOTT,Monte,,150g,10.00,,40145990
+,ZOTT,Monte MAX,,400g,24.00,,4014500043364
+,ZOTT,Monte DESER MLECZNY Z CZEKOLADĄ I ORZECHAMI,,330g,20.00,,4014500043326
+,ZOTT,Monte BALANCE,,330g,20.00,,4014500511788
+,DANONE,Danio smak waniliowy,,140g,6.00,,59052227
+,DANONE,Daanio edycja limitowana,,140g,6.00,,59070498
+,DANONE,Danio malinowe,,140g,6.00,,59025191
+,DANONE,Danio extra z kawałkami toffi,,140g,6.00,,59050223
+,DANONE,Danio extra z kokosowymi kawałkami,,140g,6.00,,59050216
+,DANONE,Daniio truskawkowe,,140g,6.00,,59031291
+,DANONE,Danio brzoskwiniowe,,140g,6.00,,59031819
+,DANONE,Danio edycja limitowana ,,140g,6.00,,59070504
+,DANONE,Danio białe,,140g,6.00,,59051954
+,MLEKPOL,Serek topiony z szynką,,100g,"6,00",,5900820000844
+,MLEKPOL,Serek topiony ze szczypiorkiem,,100g,"6,00",,5900820000851
+,MLEKPOL,Serek topiony kremowy,,100g,"6,00",,5900820000806
+,MLEKPOL,Łaciaty z chrzanem,,150g,"10,00",,5900820011536
+,MLEKPOL,Łaciaty z cebulą i szczypiorkiem,,150g,"10,00",,5900820011567
+,MLEKPOL,Łaciaty meksykański smak,,150g,"10,00",,5900820011550
+,MLEKPOL,Łaciaty naturalny,,150g,"10,00",,5900820011529
+,,SMALEC/ MASŁO,,,,,
+,SMAK DLA CIEBIE,Smalec wyborowy,,200g,"9,00",,5902020595359
+,DELMA,Masło extra maślany smak,,250g,"10,00",,8722700780458
+,MLEKOVIT,Masło polskie,,200g,"18,00",,5900512300108
+,,TWARÓG,,,,,
+,PRESIDENT,Twaróg delikatny,,220g,10.00,,5908275688136
+,MLEKPOL,Mazurski smak tawróg chudy ,,250g,14.00,,5900820007874
+,MLEKPOL,Maurski smak twaróg półtłusty `,,250g,14.00,,5900820007768
+,MLEKPOL,Mazurski smak tawróg tłusty,,250g,14.00,,5900820007751
+,PIĄTNICA,Twaróg wiejski lekki,,250g,14.00,,5900531004049
+,PIĄTNICA,Twaróg wiejski półtłusty,,250g,14.00,,5900531004018
+,PIĄTNICA,Twaróg wiejski tłusty,,250g,14.00,,5900531004025
+,,SER,,,,,
+,MLEKOVITA,Ser FAVIT sałatkowo-kanapkowy półtłusty,,270g,15.00,,5900512700038
+,Mlekpol,Ser rolada ustrzycka,,~750g,,,2719187007
+,,ŚMIETANA,,,,,
+,PIĄTNICA,Śmietana do sałatek 22%,,200g,8.00,,5900531001017
+,,BATONIK NA ZIMNO,,,,,
+,ZOTT,Monte SNACK,,29g,6.00,,4014500506999
+,,FREEZER ,,,,,
+,JAWO,Pyzy ziemniaczane,,450g,25.00,,5902885000272
+,JAWO,Pierogi ze szpinakiem,,450g,25.00,,5902885000326
+,JAWO,Pierogi satropolskie,,450g,30.00,,5902885000333
+,JAWO,Pierogi z mięsem ,,450g,30.00,,5902885000128
+,JAWO,Kluski leniwe z serem,,450g,25.00,,5902885000210
+,JAWO,Uszka z grzybami,,300g,25.00,,5902885000715
+,JAWO,Uszka z kapustą i grzybami,,300g,25.00,,5902885000722
+,JAWO,Naleśniki z serem,,400g,25.00,,5902885000401
+,JAWO,Krokiety z mięsem,,400g,30.00,,5902885000371
+,JAWO,Krokiety z kapustą i grzybami,,400g,25.00,,5902885000364
+,,MIĘSO,MEAT FREEZER,,,,
+,,KABANOSY,SAUSAGE,,,,
+,SOKOŁOW,Kabanosy Francuskie GOLD PREMIUM,,360g,75.00,,5900562486906
+,SOKOŁOW,Kabanosy Tureckie GOLD PREMIUM,,120g,26,,5900562489006
+,SOKOŁOW,Kabanosy Luksusowe pikantne GOLD PREMIUM ,,450g,49,,22180690045
+,SOKOŁOW,Kabanosy Luksusowe gold GOLD PREMIUM,,~750g,115.00,,2839530007
+,SOKOŁOW,Kabanosy Luksusowe z drobiem GOLD PREMIUM,,~500g,115.00,,2904641005
+,SOKOŁOW,Kabanosy Francuskie GOLD QUALITY,,120g,26.00,,5900562487002
+,SOKOŁOW,Kabanosy Amerykańskie GOLD QUALITY,,120g,26.00,,5900562489105
+,SOKOŁOW,Kabanosy Wegierskie GOLD QUALITY,,120g,26.00,,5900562488801
+,TARCZYNŚKI,Kabanos dojrzewający select klasyczny,,120g,32.00,,5908230514517
+,TARCZYŃSKI,Kabanos exclusive chilli,,120g,32.00,,043207150525160607
+,TARCZYŃSKI,Kabanos exclusive drobiowy z dodatkiem wieprzowiny,,120g,32.00,,043205150895160612
+,TARCZYŃSKI,kabanos exclusive wieprzowy z dodatkiem wolowiny,,120g,32.00,,041207150895160604
+,TARCZYNŚKI,Kabanos wieprzowy exclusive go ,,50g,15.00,,5908230514340
+,,PARÓWKI,,,,,
+,Krakus ,Parówki z szynki ,,200g,19.00,,5900567012339
+,Morliny,Berlinki classic,,250g,19.00,,5900567001746
+,Morliny,Berlinki z indykiem,,250g,19.00,,5900567007076
+,Morliny,Berlinki z serem,,250g,19.00,,5900567001517
+,Morliny,Berlinki z papryka,,250g,19.00,,5900567001791
+,,WĘDLINY i KIEŁBASY,,,,,
+,INDYKPOL,KRAKOWSKA SUCHA KLASYKA Z INDYKA,,325g,59.00,,59033509
+,INDYKPOL,żywiecka Klasyka z indyka,,340g,59.00,,59033516
+,OLEWNIK,Krakowska sucha,,255g,40.00,,5906245775084
+,STAROPOLSKIE WEDLINY,Kiełbasa wieprzowa zwyczajna,,1kg,63.00,,2704140009609
+,STAROPOLSKIE WEDLINY,Kielbasa podwawelska,,~1 kg,84,,2787300010
+,STAROPOLSKIE WEDLINY,Kaszanka,,~800g,,,2709920008
+,STAROPOLSKIE WEDLINY,Slaska,,~500g,,,2785502005
+,STAROPOLSKIE WEDLINY,Kielbasa biala parzona,White sausage,~600g,,,2400942005
+,STAROPOLSKIE WEDLINY,Zwyczajna,,~900g,,,2704140008
+,MORLINY,Kiełbasa morlinska z piersi kurczaka,,"~1,300 kg",87,,2967354013
+,MORLINY,BOCZEK CARSKI,,1kg,74.00,,210323201
+,PALUKI,FLAKI PIKANTNE,,800g,35.00,,590559200092
+,,PASZTETOWA,,WEIGHT,"PRICE, DKK",,BARCODE
+,DUDA,PASZTETOWA DROBIOWA Z DODATKIEM WIEPRZOWINY,,~700g,29.00,,
+,KIER,PASZTETOWA FIRMOWA,,~500g,39.00,,2730240004
+,,KURCZECA,,,,,
+,Animex Foods,Cwiartka kurczega wedzona,,~800g,,,2904795008
+,,,,,,,
+,CYKORIA SA,ZELATYNA CUKROWA SPOZYWCZA,,50g,12.00,,
