@@ -1,0 +1,445 @@
+ALCOHOL DRINKS,,,,,,
+,BERE,BEER (pant price is NOT included),WEIGHT,"PRICE, DKK",BARCODE,Type
+Ursus Breweries,"Ciucas Brasov, 4,6% alc","Ciucas Brasov, 4,6% alc",500 ml,11,5942016301212,Type
+Ursus Breweries,"Ursus Premium, 5% alc","Ursus Premium, 5% alc",330 ml,11,5942016001112,Type
+Ursus Breweries,"Ursus Premium, 5% alc","Ursus Premium, 5% alc",500 ml,11,5942016300017,Type
+Ursus Breweries,"Ursus Black, 6% alc","Ursus Black, 6% alc",500 ml,11,5942016301366,Type
+Ursus Breweries,"Timisoreana Original, 5% alc","Timisoreana Original, 5% alc",400 ml,11,5942016302042,Type
+Ursus Breweries,"Timisoreana Original, 5% alc","Timisoreana Original, 5% alc",500 ml,11,5942016300260,Type
+Ursus Breweries,"Stejar, 7% alc","Stejar, 7% alc",500 ml,11,5942016300611,Type
+Ursus Breweries,Redd’s – Cranberry Crush,Redd’s – Cranberry Crush,400 ml,11,5942016301793,Type
+Ursus Breweries,Redd’s Mojito,Redd’s Mojito,500 ml,11,5942016302097,Type
+Ursus Breweries,Redd’s Light,Redd’s Light,500 ml,11,5942016302394,Type
+Ursus Breweries,Redd’s Cranberry Crush,Redd’s Cranberry Crush,500 ml,11,,Type
+Ursus Breweries,"Redd's Lemon Fresh, 4% alc","Redd's Lemon Fresh, 4% alc",500 ml,11,5942016300802,Type
+Ursus Breweries,"Redd's Lemon Fresh, 4% alc","Redd's Lemon Fresh, 4% alc",400 ml,11,5942016301809,Type
+Ursus Breweries,"Ciucas la PET, 4,6% alc","Ciucas, 5,6% alc (plastic big bottle)","2,5 l",37,5942016301571,Type
+Ursus Breweries,"Timisoreana la PET, 5% alc","Timisoreana, 5% alc (plastic big bottle)","2,5 l ",37,5942016301557,Type
+,VINURI,WINES,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Vin Rosu,Red Wine,,,,Type
+Murfatlar,Lacrima lui Ovidiu White - 5 ani,Ovidiu's Tears White- 5 years,750 ml,67,,Type
+Romania,Lacrima lui Ovidiu Red - 5 ani,Ovidiu's Tears Red - 5 years,750 ml,67,,Type
+Romania,Lacrima lui Ovidiu - 12 ani,Ovidiu's Tears - 12 years,750 ml,110,5942002300076,Type
+Romania,Zestrea - Pinot Noir demidulce,Zestrea – Pinot Noir semi-sweet,750 ml,49,594200230618,Type
+Romania,Zestrea – Merlot demisec,Zestrea – Merlot semi-dry,750 ml,49,5942002000921,Type
+Romania,Zestrea – Cabernet Sauvignon demise,Zestrea – Cabernet Sauvignon semi-dry,750 ml,49,5942002000914,Type
+Romania,Zestra Pinot Noir,Zestra Pinot Noir,750 ml,49,,Type
+Romania,Zestra Cabernet Sauvignon,Zestra Cabernet Sauvignon,750 ml,47,5942002000914,Type
+,Vin Alb,White Wine,,,,Type
+Romania,Zestrea – Muscat Ottonel demidulce,Zestrea – Muscat Ottonel semi-sweet,750 ml,47,5942002000877,Type
+Romania,Zestrea – Pinot Gris demidulce,Zestrea – Pinot Gris semi-sweet,750 ml,47,5942002000884,Type
+Romania,Conu’ Alecu demisec Sauvignon Blanc,Conu' Alecu – Semi-dry Sauvignon Blanc,750 ml,59,5942002300359,Type
+Romania,Catalina alb demisec,Catalina – White wine semi-dry,750 ml,47,5942046700122,Type
+Cotnari,Tamaioasa Romaneasca,Roumanian Muscatel,750 ml,47,5942046700214,Type
+Cotnari,Casa de Piatra – Alb – Demisec,Casa de Piatra – White wine semi-dry,750 ml,47,5942046700221,Type
+Cotnari,Grasa de Cotnari – Alb – Dulce,Grasa de Cotnari – White wine sweet,750 ml,47,5942046700207,Type
+Cotnari,Grasa de Cotnari – Demidulce,Grasa de Cotnari – White wine semi-sweet,750 ml,47,5942046482219,Type
+Cotnari,Grasa de Cotnari – Demisec,Grasa de Cotnari – White wine semi-dry,750 ml,47,5942046700955,Type
+Cotnari,Fateasca Alba,Feteasca Alba,750 ml,47,5942046482110,Type
+NON ALCOHOL DRINKS,,,,,,Type
+,COMPOT,COMPOTE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Fravil,Compot de cirese,Cherry compote,720 g,22,5941863000439,Type
+Fravil,Compot de piersici intregi nedepilate,Compot of integral unpealed apricot,700 g,18,5941865000574,Type
+Raureni,Compot de caise,Peach compot,720 g,22,5941028000144,Type
+Raureni,Compot de struguri,Grape compot,720 g,25,5941028000274,Type
+Raureni,Compot de prune,Plum compote,720 g,25,5941028000250,Type
+Cegusto,Compot de prune,Plum compote,720 g,22,5941863000682,Type
+Saha Prima,Compot de visine,Sour cherry compot,720 g,22,5941863000767,Type
+,SUC,JUICE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,"Suc de mere cu drag din natura, 100%","Apple juice, 100%",3 L,45,5941028006894,Type
+MEAT PRODUCTS,,,,,,Type
+,MEZELURI,"SALAMI, SAUSAGE",WEIGHT,"PRICE, DKK",BARCODE,Type
+Cris-Tim,Toba,Product from swine's entrails,500 g,35,5941265010173,Type
+Cris-Tim,Matache Macelaru – Pastrama vita,Beef jerky,,160,,Type
+Cris-Tim,Matache macelaru – Sunca taraneasca,Country/rustic ham,,75,,Type
+Cris-Tim,Matache macelaru – Cotlet haiducesc,Outlaw chop,,75,,Type
+Cris-Tim,Matache macelaru – Toba,Product from swine's entrails,,100,,Type
+Cris-Tim,Matache macelaru - Ciolan afumat,Smoked bone,,90,,Type
+Cris-Tim,Matache Macelaru – Carnati cabanos,Cabanos Sausages,300 g,30,5941265014171,Type
+Cris-Tim,Matache Macelaru – Salam Vara Uscat,Dry salami,350 g,39,5941265018667,Type
+Cris-Tim,Matache Macelaru – Barnati oltenesti,Smoked sausages,300 g,30,5941265014225,Type
+Cris-Tim,Bacon,Bacon,,110,,Type
+Cris-Tim,Piept pui,Chicken fillet,,110,,Type
+Cris-Tim,Gusa afumata,Goiter smoked,,75,,Type
+Cris-Tim,Carnati bucovineni,Bucovina sausages,,75,,Type
+Cris-Tim,Carnati Cabanos,Cabanos sausages,,85,,Type
+Cris-Tim,Carnati Cabanos,Cabanos sausages,300 g,30,5941265015673,Type
+Cris-Tim,Carnati semiafumati,Smoked sausages,450 g,40,5941265006817,Type
+Cris-Tim,Mini salam Sasesc,Sasesc mini salami,350 g,45,5941265000419,Type
+Cris-Tim,Salam de vara,Summer sausage,300 g,30,5941265000464,Type
+Cris-Tim,Salam de porc,Pork salami,500 g,40,5941265011439,Type
+Cris-Tim,Salam uscat,Dry salami,350 g,35,5941265009276,Type
+Cris-Tim,Salam uscat de vara,Dry salami – summer,300 g,30,5941265016526,Type
+Cris-Tim,Salam Victoria Mini,Mini-salami Victoria,400 g,30,5941265000228,Type
+Cris-Tim,Salam ardelenesc,Ardeal salamy,280 g,35,5941265013419,Type
+Cris-Tim,Salam banatean,Banat salami,340 g,38,5941265002840,Type
+Cris-Tim,"Salam de Vara Uscat ""Gostat""",Dry salami - summer,300 g,39,5941265021575,Type
+Cris-Tim,Mini parizer cu pui,Mini chicken rosy sausage,500 g,40,5941265000167,Type
+Cris-Tim,Muschi file afumat,Smoked fillet,,100,,Type
+Cris-Tim,Kaizer afumat,Smoked bacon,,100,,Type
+Cris-Tim,Sunculita taraneasca afumata,Peasant smoked ham,,100,,Type
+Cris-Tim,Costita afumata extra,Smoked ribs,,100,,Type
+Cris-Tim,Jumari de porc,Pork cracklings,200 g,22,,Type
+Cris-Tim,Leber,Leber,,19,,Type
+Cris-Tim,Caltabos,Caltabos,,19,,Type
+Cris-Tim,Slanina afumata,Smoked bacon,,75,,Type
+GROCERY,,,,,,Type
+,PATE,PATE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Mandy Foods,Pate vegetal original,Original vegetal pate,120 g,8,5941334002122,Type
+Mandy Foods,Pate vegetal original,Original vegetal pate,200 g,12,5941334000968,Type
+Mandy Foods,Pate vegetal cu masline,Vegetal pate with olives,120 g,8,5941334002207,Type
+Mandy Foods,Pate vegetal cu masline,Vegetal pate with olives,200 g,12,5941334002214,Type
+Mandy Foods,Pate vegetal cu spanac,Vegetal pate with spinach,120 g,8,5941334002221,Type
+Mandy Foods,Pate vegetal cu spanac,Vegetal pate with spinach,200 g,12,5941334002238,Type
+Mandy Foods,Pate vegetal cu ciuperci,Vegetal pate with mushrooms,120 g,8,5941334002184,Type
+Mandy Foods,Pate vegetal cu ciuperci,Vegetal pate with mushrooms,200 g,12,5941334002191,Type
+Mandy Foods,Pate vegetal cu ardei gras,Vegetal pate with sweet pepper,120 g,8,5941334003501,Type
+Mandy Foods,Pate vegetal cu ardei gras,Vegetal pate with sweet pepper,200 g,12,5941334003518,Type
+Mandy Foods,Pate de porc (picant),Pork pate (spicy),200 g,12,5941334000029,Type
+Mandy Foods,Pate de porc (picant),Pork pate (spicy),120 g,8,5941334001873,Type
+Mandy Foods,Retete Libaneze - Hummus cu Tahini,Lebanese Recipes - Hummus with Tahini,200 g,12,5941334005482,Type
+Mandy Foods,Pate ton,Tuna pate,145 g,15,5941334007905,Type
+Mandy Foods,Pate macrou,Makrel pate,145 g,15,5941334007912,Type
+Mandy Foods,Pate de pui integral,Integral chicken pate,120 g,12,5941341002283,Type
+Mandy Foods,Pate de pui,Chicken pate,120 g,8,5941334001866,Type
+Mandy Foods,Pate de porc,Pig pate,110 g,10,5941341000050,Type
+Mandy Foods,Pate somon,Salmon pate,145 g,15,5941334007899,Type
+Bucegi,Pate porc,Pork pate,120 g,8,5941341022526,Type
+Bucegi,Pate porc,Pork pate,200 g,16,5941341000043,Type
+Bucegi,Pate porc,Pork pate,300 g,19,5941341002771,Type
+Bucegi,Pate pui,Chicken pate,120 g,8,5941341032525,Type
+Bucegi,Pate pui,Chicken pate,200 g,16,5941341001361,Type
+Bucegi,Pate pui,Chicken pate,300 g,19,5941341003976,Type
+Bucegi,Vegetal cu ardei,Vegetal pate with pepper,100 g,8,5941341014996,Type
+Bucegi,Vegetal cu ardei,Vegetal pate with pepper,200 g,15,5941341014965,Type
+Bucegi,Vegetal clasic,Classic vegetal pate,100 g,8,5941341002979,Type
+Bucegi,Vegetal clasic,Classic vegetal pate,200 g,15,5941341002993,Type
+Sadu,Vegetal,Vegetal pate,100 g,8,5941341020812,Type
+Sadu,Vegetal,Vegetal pate,200 g,15,5941341020843,Type
+Scabdia Sibiu,Pate de pui,Chicken pate,200 g,12,5941334000036,Type
+,ZACUSCA,VEGETABLE STEW,WEIGHT,"PRICE, DKK",BARCODE,Type
+Mandy Foods,Zacusca picanta,Spicy stew,300 g,17,5941334000609,Type
+Mandy Foods,Zacusca cu ciuperci,Mushrooms stew,300 g,17,5941334000623,Type
+Mandy Foods,Zacusca taraneasca,Rustic stew,300 g,17,5941334002818,Type
+Mandy Foods,Zacusca de vinete coapte pe flacara,Vegetable stew of eggplant,300 g,17,5941334000593,Type
+Mandy Foods,Olympia - Zacusca de fasole,Olympia - Beans stew,300 g,20,,Type
+Mandy Foods,Olympia - Zacusca picanta,Olympia - Spicy stew,300 g,20,,Type
+Raureni,Zacusca picanta,Spicy vegetable stew,700 g,30,5941028009451,Type
+Conservfruct,Zacusca picanta,Spicy zacusca,300 g,20,5941028004272,Type
+Conservfruct,Zacusca taraneasca,Rustic zacusca,300 g,20,5941028003978,Type
+Contec Foods,Zacusca de legume cu ciuperci,Mushrooms stew,300 g,17,,Type
+Contec Foods,Zacusca de legume cu fasole,Beans stew,300 g,17,5941863002761,Type
+Contec Foods,Zacusca de legume cu vinete,Aubergines stew,300 g,17,,Type
+Contec Foods,Olympia - Zacusca de vinete coapte,Olympia - Aubergines stew,300 g,20,,Type
+Contec Foods,Olympia - Zacusca de ciuperci,Olympia – Mushrooms stew,300 g,20,5941466008191,Type
+,MAIONEZA,MAYONNAISE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Cris-Tim,Maioneza cu ou,Egg mayonnaise,280 g,15,5941334007677,Type
+Cris-Tim,Maioneza vegetala,Vegetable mayonnaise,280 g,15,5941334007684,Type
+,MUSTAR,MUSTARD,WEIGHT,"PRICE, DKK",BARCODE,Type
+Contec Foods,Mustar clasic,Classic mustard,280 g,15,,Type
+Contec Foods,Mustar cu bobite,Mustard with grains,280 g,15,,Type
+Contec Foods,Olympia - Mustar din Tecuci cu boabe,Olympia - Tecuci mustard with grains,300 g,15,,Type
+Contec Foods,Olympia - Mustar din Tecuci hrean,Olympia - Tecuci mustard with horseradish,300 g,15,5941466014697,Type
+Contec Foods,Olympia - Mustar din Tecuci clasic,Olympia - Classic Tecuci mustard,300 g,15,5941466002571,Type
+Contec Foods,Olympia - Mustar din Tecuci miere,Olympia - Tecuci mustard with honey,300 g,15,,Type
+Uboldi,Olympia - Mustar din Tecuci dulce,Olympia - Sweet Tecuci mustard,300 g,15,,Type
+Cris-Tim,Olympia - Mustar din Tecuci iute,Olympia - Spicy Tecuci mustard,300 g,15,5941466002595,Type
+Cris-Tim,De la Cris-Tim - Mustar inte,De la Cris-Tim - spicy mustard,280 g,12,5941265014843,Type
+Cris-Tim,De la Cris-Tim - Mustar cu hrean,De la Cris-Tim - mustard with horseradish,280 g,12,5941265014836,Type
+Cris-Tim,De la Cris-Tim - Mustar cu bobite,De la Crist-Tim - mustard with grains,280 g,12,5941265014867,Type
+,CONDIMENTE,SEASONING,WEIGHT,"PRICE, DKK",BARCODE,Type
+Deli K'at,Original,Original,20 g,10,,Type
+Deli K'at,Legume,Vegetables,75 g,12,8712100386473,Type
+Deli K'at,Legume,Vegetables,250 g,20,8712100386497,Type
+Deli K'at,Gust de gaina,Chicken taste,75 g,12,8712100386619,Type
+Deli K'at,Gust de gaina,Chicken taste,200 g,24,8712100799945,Type
+Deli K'at,Gust de gaina,Chicken taste,400 g,39,8712100386657,Type
+Deli K'at,Condimente pentru barbeque pui,Chicken barbecue spices,30 g,12,8712566379835,Type
+Deli K'at,Condimente pentru barbeque porc,Pig barbecue spices,30 g,12,8712566379811,Type
+Alex,Condiment pentru carne de porc,Seasoning for pork,18 g,5,5941390027053,Type
+Alex,Condiment pentru chiftele,Seasoning for meatballs,16 g,5,5941390027091,Type
+Alex,Boia de ardei iute,Sweet pepper powder,17 g,5,5941390027060,Type
+Alex,Tarhon,Tarragon,4 g,5,5941390027176,Type
+Alex,Cimbru,Thyme,8 g,5,5941390026940,Type
+Alex,Patrunjel,Parsley,8 g,5,5941390027046,Type
+Maggi,"Baza pentru mancaruri cu legume ""Secretul Gustului""","The basis for dishes (seasoning) with vegetables ""The secret of taste""",75 g,8,8585002460004,Type
+Maggi,"Baza pentru mancaruri cu legume ""Secretul Gustului"" (2x200g)","The basis for dishes (seasoning) with vegetables ""The secret of taste"" (2x200g)",400 g,36,5941017010840,Type
+,SOLUBILA SUPEI,SOUPS IN POWDER,WEIGHT,"PRICE, DKK",BARCODE,Type
+Deli K'at,Bors magic original,Magic borch – Original,20 g,5,8718114876009,Type
+Deli K'at,Bors cu Legume,Borch with vegetables,150 g,15,3850104272424,Type
+Deli K'at,Bors magic cu Legume,Magic borch – with vegetables,70 g,12,8718114876115,Type
+Deli K'at,Bors magic cu smantana,Magic borch – with sour cream,40 g,12,8718114876122,Type
+Podravka,Bors cu Verdeturi,Borch with herbs,70 g,12,3850104265617,Type
+Podravka,Bors cu Legume,Borch with vegetables,91 g,12,3850104283123,Type
+Podravka,Bors cu Smantana,Borch with sour cream,40 g,12,3850104265624,Type
+Podravka,Bors Original,Original Borch,20 g,5,3850104265631,Type
+Maggi,Bors magic cu verdeturi,Magic borch – with greens/herbs,70 g,12,8718114876139,Type
+Dr. Oetker,Bors,Borch,70 g,10,8585002471468,Type
+,AROMA (ESENTE),AROMA (ESSENCES),WEIGHT,"PRICE, DKK",BARCODE,Type
+Alex,Esenta de vanilie,Vanilla essence,25 ml,6,5941417008546,Type
+Alex,Esenta de rom,Rum essence,25 ml,6,5941417008508,Type
+Dr. Oetker,Esenta de Lamaie (4 x 2 ml),Lemon essence (4 x 2 ml),8 ml,12,5941132007756,Type
+Dr. Oetker,Esenta de Vanilie (4 x 2 ml),Vanilla essence (4 x 2 ml),8 ml,12,5941132007770,Type
+Dr. Oetker,Esenta de Rom (4 x 2 ml),Rum essence (4 x 2 ml),8 ml,12,5941132007763,Type
+Dr. Oetker,Rom esenta,Rum essence,38 ml,12,59458845,Type
+Dr. Oetker,Vanilie esenta,Vanilla essence,38 ml,12,59458852,Type
+Dr. Oetker,Lamaie esenta,Lemon essence,38 ml,12,59458869,Type
+,PRAFURI/ CREMA,POWDERS/ CREAM,WEIGHT,"PRICE, DKK",BARCODE,Type
+Dr. Oetker,Praf copt,Baking powder,10 g,5,5941132400021,Type
+Dr. Oetker,Amoniu pentru prajituri,Ammonium for cakes,7 g,3,5941132400076,Type
+Bonito,Praf de spuma pt. Deserturi cu gust de frisca,Dust flavoured cream mousse,48 g,12,5941132300109,Type
+,Zahar cu pudra cu aroma de vanilie,Powder sugar with vanilla aroma,75 g,8,5941417003237,Type
+,Zahar vanilat,Vanilla sugar,8 g,5,5941132400014,Type
+,Crema pt. Prajituri cu gust de vanilie,Cream for cakes with vanilla aroma,50 g,12,5941132300079,Type
+Dr. Oetker,"Crema pentru ""Cremsnit"" fara fierbere",Cream for cakes,230 g,25,5941132007855,Type
+,SODA,SODA,WEIGHT,"PRICE, DKK",BARCODE,Type
+Alex,Bicarbonat de sodiu,Sodium bicarbonate,50 g,5,5941417003190,Type
+,CASTRAVETI CONSERVATI,CANED CUCUMBERS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,Castraveti in otet 3-6 cm,Cucumbers in vinegar 3-6 cm,680 g,18,5941028003138,Type
+Raureni,Castraveti in otet 6-9 cm,Cucumbers in vinegar 6-9 cm,1600 g,30,5941028000786,Type
+,ROSII CONSERVATI,CANED TOMATOES,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,Gogonele in saramura,Green tomatoes in brine,1600 g,35,5941028005613,Type
+,CONSERVE MIX LEGUME,CANED VEGETABLE MIX,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,Muraturi asortate in otet,Assorted pickles,1600 g,40,5941028006764,Type
+,VARZA,CABBAGE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Germino,Varza murata tocata in saramura,Chopped pickled cabbage in brine,700 g,15,,Type
+Raureni,Varza pentru sarmale in saramura,Stuffed cabbage in brine,1600 g,35,5941028005699,Type
+Dyv Market Agency Srl,Camara cu muraturi,Pantry with pickles,1 kg,18,6425408000010,Type
+,ARDEI,PEPPERS,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Ardei capia decojit,Peeled red pepper,?,25,,Type
+Olympia,Ardei capia decojit,Pealed paprika,980 g,25,8697400272568,Type
+Raureni,Gogosari in otet,Paprika in vinegar,1 kg,25,8697400272070,Type
+Raureni,Ardei iute in otet,Hot peppers in vinegar,370 ml,15,8697400271639,Type
+Raureni,Gogosari umpluti cu conopida,Pepper stuffed with cauliflower (big jar),1600 g,40,6426238950018,Type
+,ROSII,TOMATOES,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Rosii decojite,Pealed tomatoes (can),400 g,10,5941334007271,Type
+Fravil,Tomate nedepilate in sos de tomate,Tomatoes in tomato sause,700 g,16,5941865000369,Type
+,BULION,BROTH,WEIGHT,"PRICE, DKK",BARCODE,Type
+Prima,Bulion de tomate,Tomato broth,1000 g,25,5941288002094,Type
+Raureni,Bulion consistent si aromat,Consistent broth with flavor,300 g,15,5941028003671,Type
+,CIUPERCI,MUSHROOMS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,Ciuperci intregi in saramura,Whole mushrooms in brine,290 g,30,5941028009178,Type
+,FASOLE,BEANS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Natura,Fasole alba bob mare,White big beans,1000 g,29,3800225663809,Type
+Natura,Fasole alba bob mic,White fine beans,1000 g,25,3800225663816,Type
+,Fasole galbena – pastai in saramura,Yellow beans in saramura,720 g,18,5941865001724,Type
+,LEAUSTEAN,LOVAGE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Cegusto,Leaustean in saramura,Lovage in brine (jar),300 g,12,5941863003089,Type
+,CONOPIDA,CAULIFLOWER,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,Conopida in otet,Cauliflower in vinegar,700 g,23,5941028002537,Type
+,SPANAC,SPINACH,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Spanac in saramura,Spinach in saramura,700 g,18,5941865001137,Type
+,LEGUME MIX,VEGETABLE MIX,WEIGHT,"PRICE, DKK",BARCODE,Type
+Raureni,Zarzavat de ciorba,Vegetables for soup,700 g,20,5941028001929,Type
+Raureni,Tocana de legume,Vegetable mix,300 g,15,5942865000444,Type
+Mandy Foods,Tocana de legume,Vegetable mix,300 g,17,5941334000654,Type
+,PASTE FAINOASE,DRY PASTA,WEIGHT,"PRICE, DKK",BARCODE,Type
+Ciao Pasta,Penne,Penne,400 g,8,5941113012175,Type
+Ciao Pasta,Spirale,Spirals,400 g,8,5941113012151,Type
+Pambac,Penne (faina integrala),Penne (wholemeal),350 g,8,5941113011901,Type
+Pambac,Taitei,Noodles,400 g,8,5941113000523,Type
+Pambac,Taitei ondulati,Wavy noodles,400 g,8,5941113000530,Type
+Pambac,Penne,Penne,400 g,8,5941113007614,Type
+SamMills,"""Pasta d'oro"" Fusilli","""Pasta d'oro"" Fusilli",500 g,21,5948935000274,Type
+SamMills,"""Pasta d'oro"" Penne Rigate (gluten free)","""Pasta d'oro"" Penne Rigate (gluten free)",500 g,21,5948935000267,Type
+SamMills,"""Pasta d'oro"" Spaghetti (gluten free)","""Pasta d'oro"" Spaghetti (gluten free)",500 g,21,5948935002605,Type
+Mucenici,Multipast (gluten free),Multipast (gluten free),200 g,12,5941413000308,Type
+,SOIA TEXTURAT PRODUS,SOIA PRODUCTS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Inedit,Noodles,Noodles,100 g,9,5941132014693,Type
+Inedit,Cuburi,Cubes,100 g,9,5941276006509,Type
+Inedit,Granule,Granules,100 g,9,5941276006233,Type
+Inedit,Felii,Slices,100 g,9,5941276006226,Type
+,MANCARURI FINISATA,ALREADY PREPARED DISHES,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Tocana de legume,Stewed vegetable,300 g,17,5941334000654,Type
+,Mancare de fasole,Stewed beans,300 g,15,5941865000420,Type
+,Fasole cu ciolan afumat,Beans with smoked bone,300 g,20,5941334000975,Type
+Scandia Sibiu,Fasole Batuta cu legume,Mashed beans with with vegetables,200 g,15,5941341025138,Type
+Scandia Sibiu,Carnaciori afumati cu fasole,Summer sausage with beans,400 g,29,5941341000791,Type
+Scandia Sibiu,Tocanita de porc gatita cu ciuperci,Pork stew with mushrooms,400 g,35,5941341009879,Type
+Scandia Sibiu,Sarmalute in foi de varza cu dichis de dafin,Stuffed cabbage with bay leaf,400 g,29,5941341001521,Type
+Scandia Sibiu,Ciolan rasfatat pe varza,Knuckle on sauerkraut,400 g,29,5941341015344,Type
+Scandia Sibiu,Ciulama de pui cu ciuperci,Chicken fillet with mushrooms,400 g,39,5941341025961,Type
+Mandy Foods,Fasole batuta,Mashed beans,200 g,20,5941334000784,Type
+Mandy Foods,Iahnie de fasole,Baked beans,300 g,20,5941334000234,Type
+Mandy Foods,Fasole cu costita afumata,Beans with smoked bacon,300 g,20,5941334000111,Type
+Mandy Foods,Fasole cu carnati afumati,Beans with sausages,300 g,20,5941334000104,Type
+Mandy Foods,Fasole cu carne de vita,Beans with beef,300 g,20,5941334007936,Type
+Mandy Foods,Fasole cu carne de porc,Beans with pork,300 g,20,5941334007929,Type
+Bucegi,Mancarica de mazare cu carne de pui,Pea stew with chicken,300 g,20,5941341021345,Type
+Bucegi,Mancarica de fasole cu carne de porc,Baked beans with pork,300 g,20,5941341021369,Type
+Bucegi,Carne frageda de pui cu fasole verde,Tender chicken meat with green beans,300 g,20,5941341021383,Type
+Conservfruct,SADU - Carne de vita,SADU - Beef meat,300 g,20,5941341004492,Type
+Conservfruct,SADU - Fasole cu costita afumata,SADU - Beans with smoked ribs,300 g,20,5941341002252,Type
+Conservfruct,SADU – tocanita de cartofi cu porc,SADU – potato stew with pork,300 g,20,5941341024964,Type
+,SALATA,SALADS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Conservfruct,Salata de varza rosie,Red cabbage salad (jar),680 g,18,5941863002211,Type
+Mandy Foods,Salata de varza cu morcov,Coleslaw with carrots (jar),680 g,18,5941863003911,Type
+Scandia Sibiu,Salata de ciuperci cu maioneza vegetala,Mushroom salad with vegetal mayonnaise,200 g,15,5941341025114,Type
+,GEM,JAM,WEIGHT,"PRICE, DKK",BARCODE,Type
+Scania Foods,Gem de caise,Apricot jam,300 g,15,5941334007431,Type
+Raureni,"Gem asortat de prune , piersici, caise, mere, pere",Mixed jam,370 g,15,5941865004800,Type
+Fravil,Gem de piersici,Apricot jam,370 g,15,5941865000727,Type
+Fravil,Gem de visine,Sour cherry jam,300 g,15,5941334007394,Type
+,FAINA,FLOUR,WEIGHT,"PRICE, DKK",BARCODE,Type
+Grania,Faina de grau superioara,Superior wheat flour,1 kg,16,5941113004439,Type
+Titan,Faina de grau superioara,Superior wheat flour,1 kg,15,5941442000485,Type
+,MALAI,MALAI,WEIGHT,"PRICE, DKK",BARCODE,Type
+Boromir,Malai extra,Malai extra,1 kg,16,5941300000800,Type
+,SUPA,SOUP,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Bors,Bors,1 l,15,5941466014611,Type
+,SADU – ciorba de burta,SADU – tripe soup (can),400 g,25,5941341010288,Type
+Scandia Sibiu,Ciorba de pui dreasa cu smatana,Chicken soup with sour cream,400 g,27,5941341005789,Type
+Scandia Sibiu,Ciorba de vacuta cu dichis de verdeturi,Beef soup with greens,400 g,27,5941341001514,Type
+,OTET,VINEGAR,WEIGHT,"PRICE, DKK",BARCODE,Type
+Fravil,Otet de mere cu miere,Apple vinegar with honey,500 ml,15,5941028008089,Type
+Fravil,Otet de visine,Sour cherry vinegar,500 ml,15,5941028008065,Type
+Fravil,Otet din vin alb,White wine vinegar,1 l,15,5941028111048,Type
+FROZEN PRODUCTS,,,,,,Type
+,PRODUSE CARNE CONGELATE,FROZEN MEAT PRODUCTS,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Burta de vita prefiarta fideluta,Boiled chopped beef tripe,"1,050 kg",65,5949070400035,Type
+,Carnati de porc grosi,Big pork sausages,,75,,Type
+,Carnati de porc in mat de oaie,Pork sausages in sheep mat,,45,,Type
+,Carne tocata porc,Hacked pork,900 g,40,,Type
+Kandia Dulce,Mici extra,Mici extra,900 g,55,5941265015543,Type
+Kandia Dulce,Matache Macelaru – Mici,Mici – Matache Macelaru,900 g,55,5941265000176,Type
+,PLACINTA CONGELATE,FROZEN PIE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Tip Top food industry,Bonito - Minirolls cu branza si masline,Bonito - minirolls with cheese and olives (8 pieces + baking tray),400 g,22,5941540007355,Type
+Tip Top food industry,Bonito - Aluat Foietay fraged si pufos,Bonito - pastry dough,400 g,20,5941540007638,Type
+Tip Top food industry,Bonito - Placinta cu douleac,Bionito - pumpkin pie,925 g,40,5941540007737,Type
+Tip Top food industry,Bonito - Placinta cu carne,Bionito - meat pie,925 g,40,5941540007942,Type
+Tip Top food industry,Bonito - Placinta cu spanac,Bionito - spinach pie,925 g,40,5941540007744,Type
+Tip Top food industry,Bonito - Placinta cu branza,Bionito - cheese pie,925 g,40,5941540004699,Type
+SWEETS,,,,,,Type
+,PRAJITURI SI PRODUSE DE PATISERIE,COOKIES AND PASTRIES,WEIGHT,"PRICE, DKK",BARCODE,Type
+Boromir,Magura – ciocolata si vanilie,Magura – Chocolate and vanilla,35 g,5,5941047826763,Type
+Boromir,Magura – iaurt si zmeura,Magura – Yogurt and raspberry,35 g,5,5941047826794,Type
+Boromir,Prajitura Magura cu Alune,Magura – Cake with Nuts,35 g,5,5941047820563,Type
+Boromir,Prajitura Magura cu Rom,Magura – Cake with Rum,35 g,5,5941047813947,Type
+Boromir,Prajitura Magura cu Capsuni,Magura – Cake with Strawberries,35 g,5,5941047814036,Type
+Boromir,Prajitura Magura cu Cacao,Magura – Cake with Cocoa,35 g,5,5941047814005,Type
+Boromir,Prajitura Magura cu Cacao,Magura – Cake with Cocoa,40.5 g,5,5941047828897,Type
+Boromir,Prajitura Magura cu Lapte,Magura - Cake with milk cream,40.5 g,5,5941047828873,Type
+Boromir,Cozonac cacao si rahat,Cake – cocoa and Turkish delight,400 g,35,5941300000022,Type
+Boromir,Cozonac nuca,Cake with walnut taste,400 g,35,5941300000749,Type
+Boromir,Cozonac cu crema de lapte - frisca,Cake with whipped cream,450 g,35,5941300006406,Type
+Boromir,Cornulete cu rahat,Pastries with Turkish delight,300 g,16,5941300004266,Type
+Boromir,Cornulete cu umplutura de mere,Pastries with apple stuffing,300 g,16,5941300003283,Type
+Boromir,Cornulete cu umplutura de caise,Pastries with apricot stuffing,300 g,16,5941300005089,Type
+Boromir,Cornulete cu umplutura de prune,Pastries with plum stuffing,300 g,16,5941300003108,Type
+Accasa,Cozonac nuca,Cake – walnuts,400 g,30,5941300000749,Type
+Accasa,Cozonac cu crema caramel si ciocolata,Cake - caramel cream and chocolate,450 g,36,5941300007106,Type
+Accasa,Cozonac nuca si stafide,Cake – walnuts and raisins,400 g,30,5941300001142,Type
+Accasa,Prajitura cu aroma de caramel,Caramel bianco - caramel flavoured cake,300 g,25,5941850164816,Type
+Accasa,Prajitura cu aroma fina de lamaie,Lemon taste fine cake,300 g,25,5941850163093,Type
+Accasa,Prajitura asortata,Assorted cakes,300 g,25,,Type
+Accasa,Prajitura Ambasador cu crema de caise,Ambasador cake - cake with apricot paste,300 g,25,5941850163109,Type
+Accasa,Prajitura Domino,Domino cake,300 g,25,5941850163246,Type
+Accasa,Tiramisu - Prajitura cu cafea instant,Tiramisu - cake with instant coffee,300 g,25,5941850163048,Type
+Accasa,Butoiase - rulouri cu aroma de vanilie,Barrels - vanilla flavoured pastry rolls,300 g,25,5941850164694,Type
+Accasa,Rulade asortate,Assorted pastry rolls,300 g,25,5941850164694,Type
+Accasa,Puff - rulouri cu crema de vanilie,Puff pastry roll with vanilla taste cream,350 g,29,5941850163024,Type
+Accasa,Puff - rulouri cu crema de frisca,Puff pastry roll with whipped cream taste cream,350 g,20,5941850164908,Type
+Accasa,Puff - rulouri cu crema de cacao,Puff pastry roll with cocoa cream,350 g,29,5941850163017,Type
+Accasa,Paleu cu crema fondant,Paleu fondant cream,300 g,25,5941850164311,Type
+Dr. Fursec,Fursecuri cu stafide si aroma de unt,Shortbread cookies with raisins and butter taste,350 g,29,5941850164281,Type
+Dobrogea grup,Salam de biscuiti – rahat si stafide,Biscuits salami – Turkish delight and raisins,80 g,8,5941850164397,Type
+Dobrogea grup,Salam de biscuiti – rahat si stafide,Biscuits salami – Turkish delight and raisins,300 g,25,5941850164359,Type
+Dobrogea grup,Amandina,Amandina,300 g,25,6422064009142,Type
+Mondelez,Eugenia – lapte si vanilie,Eugenia – milk and vanilla,36 g,4,5941006101641,Type
+Mondelez,Eugenia – aroma de lamaie,Eugenia – with lemon taste,36 g,4,5941006101658,Type
+Mondelez,Eugenia – crema de cacao,Eugenia – cocoa cream,36 g,4,5941006101566,Type
+Mondelez,Eugenia dark - cu crema de cacao,Eugenia dark - with cocoa cream,36g,4,5941006102495,Type
+Mondelez,Eugenia junior - cu lapte si miere,Eugenia junior - with milk cream,36g,4,5941006102471,Type
+Kandia Dulce,Barni – chocolate filing,Barni – chocolate filing,30 g,5,5906747314118,Type
+Kandia Dulce,Barni – Milk filling,Barni – Milk filling,30 g,5,5906747318345,Type
+Adunarea Destinelor,Fursecuri si prajituri de casa,Biscuits with cocoa cream,250 g,20,5941900000088,Type
+Adunarea Destinelor,Fursecuri si prajituri de casa,Assorted cookies tender,300 g,35,5941900000507,Type
+Adunarea Destinelor,Fursecuri si prajituri de casa,"Cookies ""Spritati"" lemon",360 g,35,5941900000446,Type
+,HALVA,HALVA,WEIGHT,"PRICE,DKK",BARCODE,Type
+Feleacul,Halva din floarea soarelui,Sunflower halva,400 g,29,5941164002163,Type
+,RAHAT,TURKISH DELIGHT,WEIGHT,"PRICE, DKK",BARCODE,Type
+Feleacul,Rahat cu cacao pudrat cu nuca de cocos,Turkish delight with cocoa and coconut shrims,250 g,19,5941446006711,Type
+,TURTA DULCE,GINGERBREAD,WEIGHT,"PRICE, DKK",BARCODE,Type
+Boromir,Turta Dulce cu miere,Gingerbread with honey,200 g,12,5941446003895,Type
+Boromir,Turta Dulce glazurata cu cacao,Glazed gingerbread with cocoa,200 g,12,5941446003925,Type
+Boromir,Turta Dulce cu gem,Gingerbread with jam,200 g,12,5941446003864,Type
+,CIOCOLATA,CHOCOLATE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Mondelez,Rom,Rom,30 g,5,5941047823892,Type
+Mondelez,Fagaras – visine si rom,Fagaras - sour cherry and rum,27 g,5,5941047826374,Type
+Mondelez,Fagaras – stafide si rom,Fagaras – raisins and rum,30 g,5,5941047800336,Type
+Mondelez,Laura - crema visine,Laura - sour cream,95 g,12,5941047821263,Type
+Mondelez,Laura - crema zmeura,Laura - raspberry cream,95 g,12,5941047821287,Type
+Mondelez,Laura - crema coniac,Laura - brandy cream,95 g,12,5941047821201,Type
+Mondelez,Africana cu lapte,Africana - milk,90 g,12,7622300730987,Type
+Mondelez,Africana cu stafide si arahide,Africana – raisins and peanuts,90 g,12,7622300730963,Type
+Mondelez,Poiana – aerata lapte,Poiana - chocolate milk with air bubbles,90 g,15,7622300255398,Type
+Mondelez,Poiana cu lapte,Poiana -milk,90 g,15,7622300683016,Type
+Best Foods,Poiana cu alune,Poiana - hazelnuts,90 g,15,7622300683023,Type
+Best Foods,Poiana cu crema visine,Poiana - sour cream,90 g,15,,Type
+SNACKS,,,,,,Type
+,CHIPSURI,CHIPS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Inter Snack,Bestini alune,Bestini peanuts,25 g,6,3800024310263,Type
+Inter Snack,Bestini branza,Bestini cheese,25 g,6,3800024310256,Type
+Inter Snack,Bestini bacon snacks,Bestini bacon snacks,80 g,10,3800024310033,Type
+Inter Snack,Lotto pizza,Lotto pizza,75 g,10,3800024311123,Type
+Inter Snack,Lotto mega pops cheese,Lotto mega pops cheese,78 g,10,3800024310614,Type
+Chitulescu Prod,Lotto peanuts,Lotto peanuts,90 g,10,3800024311130,Type
+Chitulescu Prod,Lotto mega nuts,Lotto mega nuts,60 g,10,3800024310515,Type
+Phoenixy,Chio chips salted,Chio chips salted,140 g,18,,Type
+,PUFULETI,CORN SNACKS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Dorivi Prod Com,Gusto - pufuleti,Corn snacks,45 g,5,6420211000332,Type
+Olympus,Gusto – pufuleti MegaSurprise,Gusto – corn snacks – MegaSurprise,60 g,12,642021100349,Type
+Phoenix,Gusto - snacksuri din malai extrudat cu cacao,Gusto - extruded corn snacks with cocoa coating,50 g,7,5941868200063,Type
+,CEREALE EXPANDATE,SWEET CEREALS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Dorivi Prod Com,Bobita - cereale expandate,Bobita - swelled cereals,25 g,4,,Type
+Dorivi Prod Com,Bobita - cereale expandate,Bobita - swelled cereals,100 g,12,,Type
+Olympus,Cereale cu arome de fructe,Cereals with fruits aroma,75 g,12,6421846000278,Type
+,COVRIGEI,BAGELS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Cornelius,Covrigei vanilati,Vanilla bagels,250 g,15,6422558000082,Type
+Cornelius,Covrigi cu sare si mac,Bagels with salt and poppy,250 g,15,6424558000037,Type
+Djili-Soy,Covrigi cu chimens si sare,Bagels with salt and caraway,250 g,15,6422558000297,Type
+Djili-Soy,Covrigi cu sare si mac,Bagels with salt and poppy,250 g,15,6424944000225,Type
+Djili-Soy,Covrigi cu susan,Bagels with sesame,250 g,15,6424944000232,Type
+,SEMINTE DE FLOAREA SOARELUI,SUNFLOWER SEEDS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Doma,Djili-soy - seminte de floarea soarelui,Djili-soy - Sunflower seeds with salt,100 g,10,3800118900608,Type
+Phoenixy,"Seminte de floarea soarelui prajite, fara sare",Djili-soy - Sunflower seeds without salt,250 g,15,3800118907478,Type
+Phoenixy,Djili-soy - seminte de floarea soarelui,Djili-soy - Sunflower seeds without salt,100 g,10,3800118900554,Type
+MILK PRODUCTS,,,,,,Type
+,BRANZETURI,CHEESE,WEIGHT,"PRICE, DKK",BARCODE,Type
+Olympus,Telemea oaie,Sheep cottage cheese,200 g,25,5202178062315,Type
+Olympus,Telemea vaca,Cow cottage cheese,200 g,22,5202178062124,Type
+Lactate Bradet,Cascaval Dalia,Dalia cheese,325 g,35,5941730000531,Type
+Lactate Bradet,Cascaval Afumat,Smoked cheese,325 g,40,5941730000623,Type
+Lactate Bradet,Cascaval clasic,Classic cheese,600 g,65,,Type
+Josi - Logistic,Rucar Cascaval,Rucar cheese,200g,29,,Type
+Bueno Lact,Vidraru Cascaval afumat,Smoked cheese Vidraru,200g,29,,Type
+Bueno Lact,Dalia Cascaval,Dalia yellow cheese,440g,37,,Type
+Hochland,Cascaval classic,Classic yellow cheese,200g,29,5941238006158,Type
+Hochland,Cascaval classic,Classic yellow cheese,400g,50,5941238006172,Type
+Hochland,Cascaval classic,Classic yellow cheese,450g,45,5941238005113,Type
+Hochland,Cascaval afumat,Smoked yellow cheese,450g,45,5941238005120,Type
+,Branza burduf,Bellows cheese,1000 g,85,,Type
+,SANA,MILK DRINKS,WEIGHT,"PRICE, DKK",BARCODE,Type
+Cris-Tim,"""Mugura"" sana 3,6% grasime","""Mugura"" sana 3,6% fat",500 ml,12,5941265015864,Type
+Cris-Tim,"""Mugura"" sana 2% grasime","""Mugura"" sana 2% fat",500 ml,12,5941265015260,Type
+Josi,"Sana, 3,6% grasime","Sana, 3,6% fat",330 ml,10,6425818000013,Type
+Josi,"Sana, 2% grasime","Sana, 2% fat",330 ml,10,6424143000705,Type
+,SPRAY CREAM,SPRAY CREAM,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Sahnezauber spray cream 21%,Sahnezauber spray cream 21%,250 ml,22,,Type
+Nordic Import Export,"""Hulala"" l'accento sulla bonta fara grasimi hidrogenate",Whipped cream,200 ml,12,8007990406982,Type
+,SMATANA,SOUR CREAM,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Mugura – Smantana (12%),Mugura – Sour cream (12%),200 g,10,5941265015314,Type
+FISH PRODUCTS,,,,,,Type
+,SALADS PESTE,FISH SALADS,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Salata cu icre hering si peste afumat,Salad with herring roe and smoked fish,170 g,20,,Type
+,Salata cu icre hering si masline,Salad with herring roe and olives,170 g,20,,Type
+Salmaris,Salata cu icre hering si ceapa,Salad with herring roe and onion,170 g,20,,Type
+,Salata cu icre crap si ceapa,Saladwith carp roe and onion,170 g,20,,Type
+,SALATA CU ICRE,CAVIAR SALADS,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Salata cu icre,Caviar salad,140 g,15,,Type
+Salmaris,Salata cu icre crap,Carp caviar salad,70 g,7,5941880902051,Type
+Salmaris,Salata cu icre crap,Carp caviar salad,150 g,15,5941880902068,Type
+Salmaris,Salata cu icre hering,Hering caviar salad,70 g,7,5941880902075,Type
+Salmaris,Salata cu icre hering,Hering caviar salad,150 g,15,5941880902082,Type
+,NERING,HERING,WEIGHT,"PRICE, DKK",BARCODE,Type
+,Hering marinat cu legume,Marinated hering with vegetables,315 g,20,6420169002358,Type

@@ -1,0 +1,2 @@
+[08-Jun-2015 16:05:31 Europe/Sofia] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/krumovne/public_html/connection.php on line 6
+[08-Jun-2015 16:05:33 Europe/Sofia] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/krumovne/public_html/connection.php on line 6

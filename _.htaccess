@@ -1,0 +1,5 @@
+
+# AddHandler php5-cgi .php
+AddHandler php5-script .php .html
+AddType x-mapp-php5 .php
+AddHandler x-mapp-php5 .php 

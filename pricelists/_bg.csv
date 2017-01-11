@@ -1,0 +1,550 @@
+GROCERY,,,,,,
+,ТУРШИЯ,PICKLES,WEIGHT,"PRICE, DKK",BARCODE,Type
+"Roasted peppers ""Chorbadzhiika"", hand ordinal","Туршия ""Зеле Кълцано""","Pickle ""Cabbage Minced""",800 g,20.00,3800200400900,PICKLES
+"""Попа  ЕООД"" гр. Търговище","Туршия ""Мешена Туршия""","Pickle ""mixed pickle""",400 g,17.00,3800200400818,PICKLES
+"""Мисота М"" ООД, гр. Първомай",Селска туршия с мед,Pickles with honey,1060 g,32.00,3800208413728,PICKLES
+"""Мисота М"" ООД, гр. Първомай",Ловджийска салата с мед,Hunter's salad with honey,1060 g,32.00,3800208413711,PICKLES
+,ЗЕЛЕ,CABBAGE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Грийн Дот"" ЕООД, гр. Пловдив",Кисело зеле,Sour cabbage,1500 g,30.00,3800095910027,CABBAGE
+"""Попа  ЕООД"" гр. Търговище","Зелев лист, 16 бр.","Cabbage leaf, 16 pcs.",16 бр.,20.00,3800200400894,CABBAGE
+,ДОМАТИ,TOMATOES,WEIGHT,"PRICE, DKK",BARCODE,
+"""Олинеза"" ООД, гр. София",Белени домати,Peeled tomatoes,820 g,15.00,3800203740515,TOMATOES
+,ЧУШКИ,PEPPER,WEIGHT,"PRICE, DKK",BARCODE,
+"""Грийн Дот"" ЕООД, гр. Пловдив","Пукана чорбаджийка, ръчно редени","Roasted peppers ""Chorbadzhiika"", hand ordinal",480 g,15.00,3800095941120,PEPPER
+"""Грийн Дот"" ЕООД, гр. Пловдив","Люти чушлета, ръчно редени","Chili peppers, hand ordinal",260 g,12.00,3800095941151,PEPPER
+"""Грийн Дот"" ЕООД, гр. Пловдив","Пукана шипка, ръчно редени","Roasted peppers ""Shipka"", hand ordinal",480 g,15.00,3800095941113,PEPPER
+"Deroni Ltd, Bulgaria, Haskovo",Roasted peppers with spices,Roasted peppers with spices,560 g,25.00,3800740023157,PEPPER
+,ГРАХ,PEAS,WEIGHT,"PRICE, DKK",BARCODE,
+"""Дерони "" ООД, гр. Хасково","Зелен грах, млечен",Green peas,660 g,20.00,,PEAS
+,ПАТЛАДЖАН/ ТИКВИЧКИ (КАБАЧКИ),EGGPLANT/ ZUCCHINI,WEIGHT,"PRICE, DKK",BARCODE,
+Storko,Баклажаны с овощами,Eggplant with vegetables,540 g,35.00,3800721004403,EGGPLANT/ ZUCCHINI
+Storko,Баклажаны в томатном соусе,Eggplant in tomato sauce,540 g,35.00,3800721004212,EGGPLANT/ ZUCCHINI
+Bulgarian producer,Баклажаны с черносливом,Eggplant with plum,540 g,35.00,3800026115866,EGGPLANT/ ZUCCHINI
+"Deroni Ltd, Bulgaria","Тодорка, ""Баклажаны с овощами""",Eggplant with vegetables,560 g,25.00,3800740012410,EGGPLANT/ ZUCCHINI
+"Deroni Ltd, Bulgaria","Тодорка, ""Царская Баклажаны жаренньие с овощами, Закуска""",Roasted eggplant with vegetables,560 g,30.00,3800023601041,EGGPLANT/ ZUCCHINI
+"Deroni Ltd, Bulgaria","Тодорка, ""Княжеское Баклажаны жаренние со сладким перцем, Блюдо""",Roasted eggplant with sweet pepper,560 g,30.00,3800023601058,EGGPLANT/ ZUCCHINI
+"Deroni Ltd, Bulgaria","Тодорка, ""Жарены Баклажан с черносливом""",Roasted eggplant with plum,550 g,30.00,3800740022440,EGGPLANT/ ZUCCHINI
+"Deroni Ltd, Bulgaria","Тодорка, ""Баклажаны по гречески""",Eggplant greek style,560 g,25.00,3800740011796,EGGPLANT/ ZUCCHINI
+"Deroni Ltd, Bulgaria","Тодорка, ""Баклажаны по грузински""",Eggplant georgian style,560 g,25.00,3800740011789,EGGPLANT/ ZUCCHINI
+Storko,Кабачки в аджике extra,Courgettes in extra adzhika,540 g. ,35.00,3800721005448,EGGPLANT/ ZUCCHINI
+,ОВОЩНАЯ ИКРА,VEGETABLE CAVIAR,WEIGHT,"PRICE, DKK",BARCODE,
+Storko,"Икра, Апетитниьиi овощной гарнир",Vegetable caviar,360 g.,17.00,3800721000429,VEGETABLE CAVIAR
+Storko,Икра баклажанная,Eggplant caviar,350 g.,17.00,3800721004540,VEGETABLE CAVIAR
+"Deroni Ltd, Bulgaria","Тодорка, ""Баклажанная Икра"" ","Eggplant caviar ""Todorka""",560 g,20.00,3800740011772,VEGETABLE CAVIAR
+Deroni Ltd. ,"Кабачковая, Икра, Тодорка","Squash caviar ""Todorka""",560 g.,20.00,3800740011765,VEGETABLE CAVIAR
+,КРАСТАВИЦИ,CUCUMBERS,WEIGHT,"PRICE, DKK",BARCODE,
+Deroni Ltd,"Todorka, Огурцы с чесноком",Cucumbers with garlic,1 kg.,20.00,3800740014285,CUCUMBERS
+Deroni Ltd,"Todorka, Огурцы домашние хрустящие","Homemade cucumbers, crispy",1 kg.,25.00,3800740011024,CUCUMBERS
+Deroni Ltd,"Todorka, Огурцы закусочные, Перченные",Cucumber with black pepper,1 kg.,20.00,3800740010997,CUCUMBERS
+Deroni Ltd,"Todorka, Огурцы Укропные",Cucumbers with dill,1 kg.,20.00,3800740011017,CUCUMBERS
+Deroni Ltd,"Todorka, Асорти Консервированные помидоры и огурцы",Mix of tomatoes and cucumbers,1 kg.,20.00,3800740010072,CUCUMBERS
+"Пелтина, гр. Искър",Салата корнишони с чесън,Cucumber salad with garlic,680 g.,12.00,3800044610749,CUCUMBERS
+"Олинеза ООД, София",Краставици,Cucumers,680 g.,22.00,3800012192000,CUCUMBERS
+,ПАСТЕТ,PATE,WEIGHT,"PRICE, DKK",BARCODE,
+"Компас ООД, с. Комарево","Compass, Пастет Свински","Pork pate ""Compass""",180 g. ,15.00,3800078008413,PATE
+"Компас ООД, с. Комарево","Compass, Пастет Пилешки","Chicken pate ""Compass""",180 g. ,15.00,3800078005078,PATE
+"Компас ООД, с. Комарево","Compass, Пастет Селски","Country pate ""Compass""",180 g.,15.00,3800078009359,PATE
+"""Компас"" ООД, с. Комарево","Compass , Домашен пастет","Homemade pate ""Compass""",180 g. ,15.00,3800078009335,PATE
+"Компас ООД, с. Комарево",Детска закуска пастет с пилешко месо ,Pate with chicken meat for children,100 g.,9.00,3800078008383,PATE
+"Компас ООД, с. Комарево",Детски пастет Приказка,Pate for children,100 g.,9.00,3800078008246,PATE
+"Компас ООД, с. Комарево",Пастет Пуешки,Pate,100 g.,9.00,3800078008338,PATE
+,ДРУГИ ПРОДУКТИ,OTHER PRODUCTS,WEIGHT,"PRICE, DKK",BARCODE,
+Пелтина ЕООД,"Добър Българин, Лакомка Овощная закуска",Vegetable dish,720 g.,18.00,3800220811656,OTHER PRODUCTS
+Пелтина ЕООД,Гювеч,Stew,680 g.,16.00,3800044610114,OTHER PRODUCTS
+"Пелтина, гр. Искър","Гювеч, готово ястие",Ready meal- stew,800 g.,20.00,3800044612118,OTHER PRODUCTS
+Пелтина ЕООД,Паприкаш,Stew pepper,680 g.,16.00,3800220810222,OTHER PRODUCTS
+"Deroni Ltd, St. Zagora","Gherkins, Hot Appetising","Gherkins, Hot Appetising",560 g.,20.00,3800740023027,OTHER PRODUCTS
+"Deroni Ltd, St. Zagora","Gherkins, Homestyle","Gherkins, Homestyle",560 g.,20.00,3800740023010,OTHER PRODUCTS
+Грийн Дот ЕООД,"Pepperland, Гръцки чушлета ръчно редени",Greek peppers,420 g.,15.00,3800095941182,OTHER PRODUCTS
+"""Диавена Трейд"" АД, гр. Шумен","Bona Dea , Лозови Сарми","Stuffed wine leaves ""Bona Dea""",400 g.,18.00,3800059202755,OTHER PRODUCTS
+"""Диавена Трейд"" АД, гр. Шумен","Bona Dea, Зелеви Сарми","Stuffed cabbage leaves ""Bona Dea""",400 g.,18.00,3800059202779,OTHER PRODUCTS
+"Грийн Дот ЕООД, Пловдив","Адела, Лозови листа",Wine leaves ,600 g.,20.00,3800095902817,OTHER PRODUCTS
+,БОБ,BEANS,WEIGHT,"PRICE, DKK",BARCODE,
+"Пелтина, гр. Искър",Боб по капански,Beans,560 g.,20.00,3800044620076,BEANS
+"Пелтина, гр. Искър",Боб по манастирски,Beans,560 g.,20.00,3800220811700,BEANS
+"Пелтина, гр. Искър",Селски боб,Countryside beans,560 g. ,20.00,3800044620045,BEANS
+"""Суико"" ЕООД, гр. София","KRINA, Нахут за директна консумация","KRINA, Chickpeas for direct consumption",400 g,10.00,3800106400653,BEANS
+,КОНСЕРВИ,CONSERVES,WEIGHT,"PRICE, DKK",BARCODE,
+"Компас ООД, с. Комарево","Compass, Свинско в собствен сос","Pork in own juice ""Compass""",180 g.,20.00,3800078005351,CONSERVES
+"Компас ООД, с. Комарево","Compass, Пилешко в собствен сос","Chicken in own juice ""Compass""",180 g.,18.00,3800078008268,CONSERVES
+"Компас ООД, с. Комарево","Compass, Телешко в собствен сос","Veal in own juice ""Compass""",300 g.,30.00,3800078008277,CONSERVES
+"Компас ООД, с. Комарево","Compass, Говеждо в собствен сос","Beef in own jucie ""Compass""",180 g.,18.00,3800078005481,CONSERVES
+"Компас ООД, с. Комарево","Compass, Монтана закуска с говеждо месо","Snack with beef meat ""Compass""",180 g.,18.00,3800078009113,CONSERVES
+"Компас ООД, с. Комарево","Compass, Пиле с ориз, готово ястие","Chicken with rise ""Compass""",390 g.,20.00,3800078006242,CONSERVES
+"Компас ООД, с. Комарево","Compass, Свинско с боб","Pork with beans ""Compass""",300 g.,20.00,3800078006310,CONSERVES
+"Компас ООД, с. Комарево","Compass, Телешко с грах","Veel with peas ""Compass""",300 g.,20.00,3800078006310,CONSERVES
+"Компас ООД, с. Комарево","Compass, Кюфтета по чирпански","Meatballs ""Compass""",300g.,20.00,3800078008260,CONSERVES
+"Компас ООД, с. Комарево","Compass, Кюфтета с бял сос","Meatballs with white sauce ""Compass""",300 g.,20.00,3800078005818,CONSERVES
+"Компас ООД, с. Комарево","Compass, Кюфтета по ориенталски, готово ястие","Meatballs ""Compass""",390 g.,20.00,3800078009236,CONSERVES
+"Компас ООД, с. Комарево","Compass, Кюфтета с боб","Meatballs with beans ""Compass""",390 g.,20.00,3800078009564,CONSERVES
+"Компас ООД, с. Комарево","Compass, Мусака","Moussaka ""Compass""",300 g.,20.00,3800078005788,CONSERVES
+"Компас ООД, с. Комарево","Compass, Шкембе Чорба","Triple soup ""Compass""",300 g.,20.00,3800078006280,CONSERVES
+"Компас ООД, с. Комарево","Compass, Пиле с грах","Chicken with peas ""Compass""",300 g.,20.00,3800078006266,CONSERVES
+"Компас ООД, с. Комарево","Compass, Боб Яхния",Beans,300 g.,20.00,3800078009106,CONSERVES
+,КОНСЕРВИ - РИБА,CONSERVES- FISH,WEIGHT,"PRICE, DKK",BARCODE,
+"""Диавена"" ООД, гр. Шумен",Скумрия в специален доматен сос,Mackerel in a special tomato sauce,160 g.,12.00,3800059206524,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Копърка в доматен сос,Sprat in tomato sauce,160 g.,12.00,3800059200072,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Скумрия филе в доматен сос,Mackerel fillet in tomato sauce,180 g.,15.00,3800059200133,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Скумрия в собствен сос,Mackerel in own juice,160 g.,12.00,3800059200034,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Скумрия в доматен сос,Mackerel in tomato sauce,160 g.,12.00,3800059200010,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Скумрия филе в гръцки сос,Mackerel fillet in Greek sauce,180 g.,15.00,3800059201925,CONSERVES- FISH
+"""Диавена"" ОД, гр. Шумен",Скумрия в подлютен доматен сос,Mackerel in tomato sauce,180 g.,15.00,3800059201789,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Скумрия филе в слънчогледово олио,Mackerel fillets in sunflower oil,170 g.,15.00,3800059200140,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Скумрия в подлютен доматен сос,Mackerel in tomato sauce,330 g.,17.00,3800059204384,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен","Dinea, Скумрия в доматен сос","Mackerel in Tomato Sauce ""Dinea""",310 g.,17.00,3800059205022,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Закуска Скумрия,Mackerel snack,330 g.,17.00,3800059204391,CONSERVES- FISH
+"""Диавена"" ООД, гр. Шумен",Закуска Рибна,Fish snack,160 g.,12.00,3800059200041,CONSERVES- FISH
+,ОЦЕТ,VINEGAR,WEIGHT,"PRICE, DKK",BARCODE,
+"Веда ООД, гр. Плевен","Veda, Оцет Винен","Wine vinegar ""Veda""",700 ml.,13.00,3800111801018,VINEGAR
+,ОЛИО,OIL,WEIGHT,"PRICE, DKK",BARCODE,
+"""Клас Олио"" АД","Клас Олио, Слънчогледово",Sunflower seeds oil,1 l.,20.00,3800202810219,OIL
+,АДЖИКА/ СОС,ADZHIKA/ SAUCE,WEIGHT,"PRICE, DKK",BARCODE,
+Deroni Ltd. ,Аджика домашная,Homemade adzhika,350 g.,12.00,3800740011116,ADZHIKA/ SAUCE
+"Bulcons, Първомай","Доматен Сос, магданоз",Homemade sauce,540 g. ,25.00,3800128904023,ADZHIKA/ SAUCE
+,ЛЮТЕНИЦА,LYUTENITSA,WEIGHT,"PRICE, DKK",BARCODE,
+"Bulcons, Първомай","Лютеница Първомай, ",Parvomai lyutenitsa,560 g.,33.00,3800128901022,LYUTENITSA
+"Bulcons, Първомай","Домашна лютеница, Първомай",Homemade parvomai lyutenitsa,540 g. ,33.00,3800128901046,LYUTENITSA
+"Bulcons, Първомай","Домашна лютеница, Първомай",Homemade parvomai lyutenitsa,290 g.,20.00,3800128901060,LYUTENITSA
+"Bulcons, Първомай",Лютеница Първомай,Parvomai lyutenitsa,310 g.,20.00,3800128901015,LYUTENITSA
+"""Филикон-97""АД","Philicon, Домашна лютеница","Homemade lyutenitsa ""Philicon""",600 g.,25.00,3800014203933,LYUTENITSA
+"""Филикон-97""АД","Philicon, Македонска лютеница","Macedonian lyutenitsa ""Philicon""",600 g.,25.00,3800014255833,LYUTENITSA
+"""Филикон-97""АД","Philicon, Екстра лютеница","Extra lyutenitsa ""Philicon""",600 g.,25.00,3800014203537,LYUTENITSA
+"""Филикон-97""АД","Philicon, Шкумбата лютеница","Shkumbata lyutenitsa ""Philicon""",600 g.,25.00,3800014203438,LYUTENITSA
+"""Филикон-97""АД","Philicon, Лютеница Нашенска едросмляна","Coarse lyutenitsa ""Philicon""",380 g.,18.00,3800014223139,LYUTENITSA
+"""Филикон-97""АД","Philicon, Лютеница Балкански вкус","Lyutenitsa Balcan taste ""Philicon""",380 g.,18.00,3800014223238,LYUTENITSA
+"Олинеза ООД, София",Олинеза Лютивка,"Lyutivka ""Olineza""",265 g.,18.00,3800012192123,LYUTENITSA
+"Олинеза ООД, София","Олинеза , Селце, Традиционна лютеница","Traditional village lyutenitsa ""Olineza""",270 g.,15.00,3800012140414,LYUTENITSA
+"Олинеза ООД, София","Олинеза Лютеница, Традиционна фино смляна","Traditional finely ground lyutenitsa ""Olineza""",520 g.,30.00,3800012191126,LYUTENITSA
+"Олинеза ООД, София","Лютеница, едро смляна; Люта","Coarse lyutenitsa, chilli",260 g.,18.00,3800012140933,LYUTENITSA
+"Олинеза ООД, София",Бабина едро смляна лютеница,Grandmother's course lyutenitsa,515 g.,33.00,3800012196121,LYUTENITSA
+"Олинеза ООД, София",Бабина едро смляна лютеница,Grandmother's course lyutenitsa,250 g.,21.00,3800012196114,LYUTENITSA
+"Олинеза ООД, София",Кьопоолу,Kyopoolu,510 g.,38.00,3800012194127,LYUTENITSA
+"Олинеза ООД, София",Кьопоолу,Kyopoolu,250 g.,20.00,3800012194110,LYUTENITSA
+"Олинеза ООД, София",Доматено пюре,Tomatoe puree,520 g.,15.00,3800012186122,LYUTENITSA
+"Олинеза ООД, София",Деликатесна лютеница,Gourmet lyutenitsa,265 g.,20.00,3800012140117,LYUTENITSA
+"Олинеза ООД, София","Домашна лютеница, едро смляна",Coarse homemade lyutenitsa,"1,030 kg.",45.00,3800012193144,LYUTENITSA
+"Олинеза ООД, София","Домашна лютеница, едро смляна",Coarse homemade lyutenitsa,515 g.,30.00,3800012193120,LYUTENITSA
+"Олинеза ООД, София","Домашна лютеница, едро смляна",Coarse homemade lyutenitsa,260 g.,20.00,3800012193113,LYUTENITSA
+"Олинеза ООД, София","Семейна лютеница, едро смляна",Coarse family lyutenitsa,"1,080 kg.",45.00,3800012195131,LYUTENITSA
+"Олинеза ООД, София","Семейна лютеница, едро смляна",Coarse family lyutenitsa,530 g.,38.00,3800012195124,LYUTENITSA
+"Олинеза ООД, София","Семейна лютеница, едро смляна",Coarse family lyutenitsa,265 g.,21.00,3800012195117,LYUTENITSA
+Дерони ООД,Тодорка-Едро смляна лютеница,"Coarse lyutenitsa ""Todorka""",570 g.,33.00,3800023601690,LYUTENITSA
+Дерони ООД,Лютеница - домашна фино смляна,Homemade finely ground lyutenitsa,"1,07 kg.",45.00,3800740022150,LYUTENITSA
+Дерони ООД,Лютеница-домашна фино смляна,Homemade finely ground lyutenitsa,525 g.,33.00,3800740031510,LYUTENITSA
+Дерони ООД,Лютеница - пиперица едро смляна,Finely ground piperitsa lyutenitsa,520 g.,33.00,3800740016739,LYUTENITSA
+Дерони ООД,"Велика - Лютеница домашна, едро смляна","Homemade coarse lyutenitsa ""Velika""",515 g.,35.00,3800740014773,LYUTENITSA
+Дерони ООД,"Царица - Лютеница домашна, едро смляна","Homemade coarse lyutenitsa ""Tsaritsa""",525 g.,35.00,3800740021238,LYUTENITSA
+Дерони ООД,"Царица - Лютеница домашна, едро смляна","Homemade coarse lyutenitsa ""Tsaritsa""",265 g.,20.00,3800740021221,LYUTENITSA
+Дерони ООД,"Velika, Golden Selection, Lutenitsa, Home Style, coarsely ground","Velika, Golden Selection, Lutenitsa, Home Style, coarsely ground",265 g.,20.00,3800740021870,LYUTENITSA
+Дерони ООД,Homemade Ajvar hot appetising,Homemade Ajvar hot appetising,510 g.,33.00,3800740024604,LYUTENITSA
+Дерони ООД,Имамбаялдъ с белен патладжан,Imambayalda with peeled eggplant,250 g.,22.00,3800740020439,LYUTENITSA
+Дерони ООД,Домашна едро смляна лютеница,Coarse homemade lyutenitsa,265 g.,20.00,3800740010195,LYUTENITSA
+Дерони ООД,"Kiopoolu, Aubergine Appetizer","Kiopoolu, Aubergine Appetizer",500 g.,30.00,3800740010126,LYUTENITSA
+Дерони ООД,Лютеница Тодорка,"Lyutenitsa ""Todorka""","1,1 kg.",45.00,3800023600099,LYUTENITSA
+Дерони ООД,Домашна едро смляна лютеница,Course homemade lyutenitsa,"1,05 kg.",45.00,3800740016869,LYUTENITSA
+,ФИДЕ/ ОРИЗ/ БОБ/ ЛЕЩА,NOODLE/ RICE/ BEAN/ LEAN,WEIGHT,"PRICE, DKK",BARCODE,
+"""Дерони ООД"", Хасково","Петел, Фиде (100 % Пшеничен грис)","Noodle ""Rooster"" (100% wheat semolina)",400 g.,8.00,3800023603557,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Грухана Пшеница","Hulled Wheat ""Izzi""",500 g.,10.00,3800053101658,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Булгур пшеничен","Bulgur wheat ""Izzi""",500 g.,10.00,3800053102051,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД",Парено жито за варене,Steamed corn for cooking,500 g.,10.00,3800053104154,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","Инком, Ориз, Бисерен","Pearl rice ""Inkom""","2,5 kg.",45.00,3800053190683,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Български ориз","Bulgarian rice ""Izzi""",1 kg.,20.00,3800053104000,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бланширан дългозърнест ориз","Milled long grain rice ""Izzi""",1 kg.,19.00,3800053101306,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Ориз Тракия","Thrace rice ""Izzi""",1 kg.,19.00,3800053100507,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Балдо бял едрозърнест ориз","Baldo white coarse rice ""Izzi""",1 kg.,19.00,3800053100507,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Балдо бял едрозърнест ориз","Baldo white coarse rice ""Izzi""",500 g.,10.00,3800053100859,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Ориз Тракия","Thrace rice ""Izzi""",500 g.,10.00,3800053100552,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бисерен Ориз","Pearl rice ""Izzi""",500 g.,10.00,3800053102358,NOODLE/ RICE/ BEAN/ LEAN
+"""Вяра 2001"" ООД, Шумен","Krina, Български ориз","Bulgarian rice ""Krina""",1 kg.,20.00,3800106400080,NOODLE/ RICE/ BEAN/ LEAN
+"""Вяра 2001"" ООД, Шумен","Krina, Ориз Перлен","Pearl rice ""Krina""",1 kg.,20.00,3800106400011,NOODLE/ RICE/ BEAN/ LEAN
+"""Вяра 2001"" ООД, Шумен","Krinа, Боб Трапезен","Bean ""Krina""",500 g.,14.00,3800106401025,NOODLE/ RICE/ BEAN/ LEAN
+"""Вяра 2001"" ООД, Шумен","Krina, Боб Традиционен","Traditional bean ""Krina""",1 kg.,29.00,3800106401032,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бял Боб екстра Елит","White bean extra elit ""Izzi""",1 kg.,27.00,3800053100101,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бял Боб екстра Елит","White bean extra elit ""Izzi""",500 g.,15.00,3800053102556,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Пинто Шарен боб","Pinto sharen bean ""Izzi""",500 g.,15.00,3800053102754,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Салатен боб","Salad bean ""Izzi""",500 g.,17.00,3800053103157,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бял Боб екстра Елит","White bean extra elit ""Izzi""","2, 5 kg.",59.00,3800053100187,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бял Боб","White bean ""Izzi""",1 kg.,20.00,3800053110100,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бял Боб","White bean ""Izzi""",500 g.,10.00,3800053100156,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бял Боб, Екстра класически","White bean extra classic ""Izzi""",500 g.,15.00,3800053103751,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Екзотик, Червена леща","Red exotic lentils ""Izzi""",500 g.,15.00,3800053103355,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Леард леща","Leard lens ""Izzi""",500 g.,15.00,3800053102457,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Леард канадска леща","Leard Canadian lentils ""Izzi""",1 kg.,27.00,3800053102402,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Леща наслада","Lentil delight ""Izzi""",1 kg.,25.00,3800053100200,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Леща наслада","Lentil delight ""Izzi""",500 g.,15.00,3800053100200,NOODLE/ RICE/ BEAN/ LEAN
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Наслада българска леща","Lentil delight, bulgarian ""Izzi""","2, 5 kg.",59.00,3800053100286,NOODLE/ RICE/ BEAN/ LEAN
+"""Вяра 2001"" ООД, Шумен","Krina, Леща българска","Bulgarian lens ""Krina""",500 g.,15.00,3800106402091,NOODLE/ RICE/ BEAN/ LEAN
+,БРАШНО,FLOUR,WEIGHT,"PRICE, DKK",BARCODE,
+"""Спринк""ЕООД, Велико Търново","Мелница Търново, Бяло Брашно Тип 500","White flour ""Mill Tarnovo"", type 500",1 kg.,12.00,3800083600046,FLOUR
+"""Глобал Фууд Къмпани""ЕООД","IZZI, Бяло Пшенично Брашно Тип 500","White wheat flour ""Izzi"", type 500",1 kg.,11.00,3800053101009,FLOUR
+,КОНФИТЮР,HONEY/ JAM,WEIGHT,"PRICE, DKK",BARCODE,
+"""Амброзия България"" ЕООД",Пчелен мед,Honey,900g.,75.00,,HONEY/ JAM
+Deroni Ltd.,Сладко Горски плодове,Jam with sweet berries,300 g.,20.00,3800740018467,HONEY/ JAM
+"""Цима 99"" ООД, Стряма ","Cima 99, Classic Preserve Strawberry","Jam ""Cima 99"" with stawverry",300 g.,20.00,3800040801608,HONEY/ JAM
+"""Цима 99"" ООД, Стряма ","Cima 99, Blueberry, Боровинка","Jam ""Cima 99"" with blueberry",300 g. ,20.00,3800040801622,HONEY/ JAM
+"""Цима 99"" ООД, Стряма ","Cima 99, Forest Fruits, Горски плодове","Jam ""Cima 99"" with forest fruits",300 g.,20.00,3800040801622,HONEY/ JAM
+"""Цима 99"" ООД, Стряма ","Конфитюр с парченца плод, Къпина","Jam with pieces of fruit, blackberry",360 g.,20.00,3800040800373,HONEY/ JAM
+"""Цима 99"" ООД, Стряма ","Конфитюр с парченца плод, Малина","Jam with pieces of fruit, raspberry",360 g.,20.00,3800040800373,HONEY/ JAM
+"""Цима 99"" ООД, Стряма ","Rose Jam, Конфитюр от рози",Rose jam,220 g.,,3800040802544,HONEY/ JAM
+"ЕТ ""Данита"", Враца","Шипков мармалад ""Детски спомен""","Hip jam ""Childhood memories""",330 g.,35.00,,HONEY/ JAM
+"""Джем и Джем""",Конфитюр от рози,Rose Petals Jam,230g.,18.00,3800030270902,HONEY/ JAM
+,ПОДПРАВКИ,SPICES,WEIGHT,"PRICE, DKK",BARCODE,
+"""Дионел"" ООД, Пловдив",Желатин,Gelatin,10 g.,3.00,3800057104150,SPICES
+Д-р Йоткер България ЕООД (вносител),Консервант,Preservative,7 g.,3.00,5941132000948,SPICES
+"""Дионел"" ООД, Пловдив",Дафинов лист,Bay leaf,5 g.,15.00,3800057103320,SPICES
+"""Дионел"" ООД, Пловдив",Черен пипер,Black pepper,10 g.,3.00,3800057101210,SPICES
+"""Радиком"" ЕООД, Пловдив",Градинска Ронена Чубрица,Savory garden ronen,50 g.,15.00,3800069601456,SPICES
+Д-р Йоткер България ЕООД (вносител),"Pikant fix, сладко-кисела смес за туршии","Sweet-sour mixture of pickles ""Pikant fix""",100 g.,9.00,5941132000979,SPICES
+"""Деница ЕРА"" ЕООД","Maestro, Червен пипер","Black pepper ""Maestro""",60 g.,5.00,,SPICES
+"""Деница ЕРА"" ЕООД","Maestro, Чубрица ронена българска","Savory crumbling Bulgarian ""Maestro""",10 g.,7.00,3800185501171,SPICES
+"""Деница ЕРА"" ЕООД","Maestro, Шарена сол, Трапезна","Bright salt ""Maestro""",30 g.,5.00,3800118501188,SPICES
+"""Радиком"" ЕООД, Пловдив",Кимион млян,Grounded cumin,10 g.,3.00,3800069601319,SPICES
+"""Радиком"" ЕООД, Пловдив",Черен пипер млян,Black pepper,10g.,3.00,3800069601326,SPICES
+"""Радиком"" ЕООД, Пловдив",Кимион,Cumin,10g.,3.00,3800069600107,SPICES
+"""Радиком"" ЕООД, Пловдив",Куркума,Curcuma,10g.,3.00,3800069601722,SPICES
+"""Радиком"" ЕООД, Пловдив",Синап,Mustard,10g.,3.00,3800069601722,SPICES
+"""Радиком"" ЕООД, Пловдив",Къри,Curry,10g.,3.00,3800069600305,SPICES
+"""Радиком"" ЕООД, Пловдив",Бахар,Allspice,10 g.,3.00,3800069600251,SPICES
+"""Деница ЕРА"" ЕООД","Maestro, Чубрица","Savory ""Maestro""",100 g.,25.00,3800118500778,SPICES
+"""Деница ЕРА"" ЕООД","Maestro, Чушки Сушени Червени","Dried red peppers ""Maestro""",80 g.,29.00,3800118504136,SPICES
+"""Радиком"" ЕООД, Пловдив",Риган,Oregano,10 g.,7.00,3800069600480,SPICES
+"""Радиком"" ЕООД, Пловдив",Магданоз,Parsley,10 g.,7.00,3800699600459,SPICES
+"""Радиком"" ЕООД, Пловдив",Копър,Dill,10 g.,5.00,3800069600435,SPICES
+"""Радиком"" ЕООД, Пловдив",Целина,Celery,10 g.,5.00,3800069660046,SPICES
+"""Радиком"" ЕООД, Пловдив",Дафинов лист,Bay leaf,10 g.,5.00,3800069610045,SPICES
+"""Радиком"" ЕООД, Пловдив",Сминдух,Fenugreek,10 g.,5.00,3800069600527,SPICES
+"""Радиком"" ЕООД, Пловдив","Подправка ""Вили за скара""",Spice for grill ,40 g.,6.00,3800069600589,SPICES
+,ЧАЙ/ КАФЕ,TEA/ COFFEE,WEIGHT,PRICE DKK,BARCODE,
+"Bioprogramme  Co, Биопрограма",Липа - Билков чай,Herbal tea- linden,30 g.,10.00,3800022800025,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма","Биобронхо, Чай с мащерка",Tea with thyme,30 g.,10.00,3800022800261,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма","Алпинист, Билков чай","Herbal tea ""Climber""",30 g.,10.00,3800022800520,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма",Чаен Свят Каркаде,Hibiscus tea,30 g. ,10.00,3800022800063,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма","Приказен свят, Вълшебник","Tea ""Fairy World. Wizard""",30 g.,10.00,3800022800551,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма","Приказен свят, Чай горски кът","Tea ""Fairy World. Tea forest area""",30 g.,10.00,3800022800544,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма",Мащерка,Thyme tea,20 g.,10.00,3800022800049,TEA/ COFFEE
+"Bioprogramme  Co, Биопрограма","Добро Утро, Билков Чай","Herbal tea ""Good morning""",30 g.,10.00,3800022800513,TEA/ COFFEE
+"""Монделийз България"" ЕООД","Nova Brasilia, Джезве","Coffee""Nova Brasilia""",200 g.,29.00,3800005182254,TEA/ COFFEE
+"""Монделийз България""ЕООД","Nova Brasilia, Джезве","Coffee""Nova Brasilia""",100 g.,15.00,3800005182247,TEA/ COFFEE
+"""Монделийз България""ЕООД","Nova Brasilia, Класик","Classic coffee ""Nova Brasilia""",100 g.,15.00,3800005182049,TEA/ COFFEE
+NON ALCOHOL DRINKS,,,,,,
+,НАПИТКИ/ СОК,NECTAR/ JUICE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Горна Баня"" ООД, гр. София","ВВВ Горски плод, плодова напитка","Fruit drink ""BBB"" with forest fruit taste",2 l.,19.00,3800030760212,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ Кайсия, плодова напитка","Fruit drink ""BBB"" with apricot taste",2 l.,19.00,3800030760144,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ, Праскова, плодова напитка","Fruit drink ""BBB"" with peach taste",2 l.,19.00,3800030760076,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ, Портокал, плодова напитка","Fruit drink ""BBB"" with orange taste",2 l.,19.00,3800030760397,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ, Вишна, плодова напитка","Fruit drink ""BBB"" with cherry taste",1 l.,12.00,3800030731076,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ, Банан нектар","Banana nectar ""BBB""",1 l.,12.00,3800030731144,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ, Домат нектар","Tomatoe nectar ""BBB""",1 l.,12.00,3800030731069,NECTAR/ JUICE
+"""Горна Баня"" ООД, гр. София","ВВВ, Черен Касис, нектар","Black currant nectar ""BBB""",1 l.,12.00,3800030731106,NECTAR/ JUICE
+"ЕТ "" Даниела Я. Василева-Данита""","Данита, Шипков нектар, Шипковинка","Hip nectar ""Danita""",250 ml.,15.00,,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД ",Queen`s Червен грейпфрут,"Red grapefruit juice ""Queen's""",1 l.,15.00,3800018628084,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД ",Queen`s Зелена ябълка,"Green apple juice ""Queen's""",1 l.,15.00,3800018640499,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД ",Queen`s Праскова,"Peach juice ""Queen's""",1 l.,15.00,3800018605122,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Кайсия,"Apricot juice ""Queen's""",1 l.,15.00,3800018606112,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД","Queen`s манго, маракуя, мандарина","Mango, passion fruit and tangerine juice ""Queen's""",1 l.,15.00,3800018641823,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Портокал,"Orange juice ""Queen's""",1 l.,15.00,3800018640291,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Портокал с мандарина,"Orange and tangerine juice ""Queen's""",1 l.,15.00,3800018641816,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Мултивитамин,"Multifruit juice ""Queen's""",1 l.,15.00,3800018616135,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Вишна,"Cherry  juice ""Queen's""",1 l.,15.00,3800018621085,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Портокал с червен портокал,"Orange and red orange juice ""Queen's""",1 l.,15.00,3800018630025,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Горски плодове,"Forest fruit juice ""Queen's""",1 l.,15.00,3800018641915,NECTAR/ JUICE
+"""Тимбарк България"" ЕООД",Queen`s Портокал с парченца плод,"Orange juice ""Queen's"" with pulp",1 l.,15.00,3800018641465,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, Елексир от рози","Rose elixir ""Fresh""",1 l.,12.00,3800014288381,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, 100 % Сок от Ябълка","100% apple juice ""Fresh""",1 l.,12.00,3800014283584,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, 100 % Сок Домат","100% tomatoe juice ""Fresh""",1 l.,12.00,3800014284284,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, Нар","Pomegranate juice ""Fresh""",1 l.,12.00,3800014285588,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, 100 % Сок Портокал","100% orange juice ""Fresh""",1 l.,12.00,3800014283287,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, Червен Портокал","Red orange juice ""Fresh""",1 l.,12.00,3800014284185,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, Розов грейпфрут","Pink grapefruit juice ""Fresh""",1 l.,12.00,3800014283881,NECTAR/ JUICE
+PHILICON 97 SA,"Fresh Premium, Ягода- Банан","Strawberry and banana jucie ""Fresh""",1 l.,12.00,3800014288282,NECTAR/ JUICE
+,ВОДА,WATER (pant price is NOT included),WEIGHT,"PRICE, DKK",BARCODE,
+"""Горна Баня"" ООД, гр. София","Горна Баня, Минерална вода за всеки ден ","Mineral water ""Gorna Bania""","1,5 l.",9.00,3800051700013,WATER (pant price is NOT included)
+"""Девин"" АД, гр. Девин",Девин Изворна вода - газирана,"Sparkling water ""Devin""","1,5 l.",9.00,3800000600807,WATER (pant price is NOT included)
+"""Девин"" АД, гр. Девин","Девин, Натурална Минерална вода","Natural mineral water ""Devin""","2,5 l.",11.00,3800000601620,WATER (pant price is NOT included)
+,ГАЗИРОВАНИ НАПИТКИ,CARBONATED DRINKS (pant price is NOT included),WEIGHT,"PRICE, DKK",BARCODE,
+"""БК-Горна Баня"" ООД","ВВВ, Лимонада","Limonade ""BBB""",3 l.,17.00,3800030771003,CARBONATED DRINKS (pant price is NOT included)
+"""БК-Горна Баня"" ООД","ВВВ, Кола","Cola ""BBB""",3 l.,17.00,3800030771065,CARBONATED DRINKS (pant price is NOT included)
+ALCOHOL DRINKS,,,,,,
+,БИРА,BEER (pant price is NOT included),WEIGHT,"PRICE, DKK",BARCODE,
+"""Каменица"" АД, Пловдив",Kamenitza,Kamenitza (glass bottle),"0,5 l.",11.00,3800052306115,BEER (pant price is NOT included)
+"""Каменица"" АД, Пловдив","Kamenitza cold edge, кен",Kamenitza cold edge (can),"0,5 l.",11.00,3800052310013,BEER (pant price is NOT included)
+"""Каменица"" АД, Пловдив",Kamenitza,Kamenitza (plastic bottle),2 l.,32.00,3800052390411,BEER (pant price is NOT included)
+"""Каменица"" АД, Пловдив",ASTIKA,Astika (can),"0,5 l.",11.00,3800052219118,BEER (pant price is NOT included)
+,ВИНО,WINE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Тодоров"" АД, София","Todoroff Wine Cellar, Каберне Совиньон","""Todoroff Wine Cellar"" Cabernet Sauvignon",750 ml,110.00,3800202251678,WINE
+"""Тодоров"" АД, София","Todoroff Wine Cellar, Мавруд","""Todoroff Wine Cellar"" Mavrud",750мл,110.00,3800202251685,WINE
+"""Тодоров"" АД, София","""Todoroff"" 4 Friends","""Todoroff"" 4 Friends",750 ml,69.00,3800202251166,WINE
+"""Тодоров"" АД, София","Todoroff Boutigue, Cabernet Sauvignon","""Todoroff Boutigue"" Cabernet Sauvignon",750 ml,72.00,3800202251722,WINE
+"""Тодоров"" АД, София","Todoroff Boutigue, Merlot","""Todoroff Boutigue"" Merlot",750 ml,72.00,3800202251715,WINE
+"""Тодоров"" АД, София","Todoroff Gallery, Merlot","""Todoroff Gallery"" Merlot",750 ml,82.00,3800202251623,WINE
+"""Тодоров"" АД, София","Todoroff Gallery, Cabernet Sauvignon","""Todoroff Gallery"" Cabernet Sauvignon",750 ml,82.00,3800202251630,WINE
+"""Тодоров"" АД, София","Todoroff Gallery, Mavrud","""Todoroff Gallery"" Mavrud",750 ml,85.00,3800202251647,WINE
+"""Тодоров"" АД, София","Todoroff Gallery, Muskat","""Todoroff Gallery"" Muskat",750 ml,82.00,3800202251708,WINE
+"""Винпром Ямбол"" ЕАД, Ямбол","Villa Yambol, Chardonnay","""Villa Yambol"" Chardonnay",750 ml,55.00,3800206569854,WINE
+"""Винпром Ямбол"" ЕАД, Ямбол","Villa Yambol, Muscat","""Villa Yambol"" Muscat",750 ml,55.00,3800206569830,WINE
+"""Винпром"" АД, Търговище",Магарешко мляко,"Wine ""Eselsmilch White""",750 ml,35.00,3800009401252,WINE
+"""Винпром"" АД, Търговище","Christa, Sparkling Wine","Sparkling wine ""Christa""",750 ml,45.00,3800009408855,WINE
+"""Винпром"" АД, Търговище","Christa, A medium sparkling white wine, Muscat","Sparkling white wine ""Christa"" Muscat, medium",750 ml,45.00,3800009406370,WINE
+"""Винпром"" АД, Търговище","Targovishte, Traminer","""Targovishte"" Traminer",750 ml,65.00,3800009402433,WINE
+"""Винпром"" АД, Търговище","Targovishte, Sauvignon Blanc","""Targovishte"" Sauvignon Blanc",750 ml,50.00,3800009402372,WINE
+"""Винпром"" АД, Търговище","Targovishte, Riesling","""Targovishte"" Riesling",750 ml,50.00,3800009401894,WINE
+"""Винпром"" АД, Търговище","Targovishte, Chardonnay","""Targovishte"" Chardonnay",750 ml,55.00,3800009402310,WINE
+"""Винпром"" АД, Търговище","Targovishte, Muscat Otronel","""Targovishte"" Muscat Otronel",750 ml,55.00,3800009402556,WINE
+"""Черноморско злато"" АД, Поморие","Поморийска изба, Червено Сухо Вино","Pomorie - Red wine, dry",5 l,150.00,,WINE
+"""Домейн Менада"", Стара Загора","Tcherga, Черга 2010- Сухо бяло вино","White wine ""Tcherga"" 2010, dry",750 ml,45.00,3800011405163,WINE
+"""Домейн Менада"", Стара Загора","Tcherga, Червено Сухо Вино","Red wine ""Tcherga"", dry",750 ml,50.00,3800011400229,WINE
+Винпром Пещера,Мерло Резерва 2011,"""Reserve"" 2011, Merlot",750 ml,59.00,3800032075918,WINE
+"""Винпром"" АД, Търговище","Магарешко мляко, Сухо пенливо вино","Sparkling wine ""Eselsmilch White"", dry",750 ml,45.00,3800009406431,WINE
+"""Черноморско злато"" АД, Поморие",Merlot 2014,Merlot 2014,750 ml,40.00,3800005805658,WINE
+"""Черноморско злато"" АД, Поморие",Cabernet Sauvignon 2013,Cabernet Sauvignon 2014,750 ml,40.00,3800005805665,WINE
+"""Черноморско злато"" АД, Поморие","Bull`s Blood, Полусухо червено регионално вино","Regional red wine ""Bull's Blood"", semi-dry",750 ml,40.00,3800000580657,WINE
+"""Черноморско злато"" АД, Поморие","Muscat 2014, Бяло Сухо Вино","White wine Muscat 2014, dry",750 ml,40.00,3800005805917,WINE
+"""Черноморско злато"" АД, Поморие","Chardonnay 2014, Бяло Сухо Вино","White wine Chardonnay 2014, dry",750 ml,40.00,3800005805443,WINE
+"""Черноморско злато"" АД, Поморие","Червено ликьорно вино, Кагор Благовест","Liqueur red wine ""Kadarka""",750 ml,40.00,3800005800462,WINE
+"""Винпром"" АД, Търговище",Bulgarien Kadarka,"Bulgarian ""Kadarka""",750 ml,40.00,3800009404567,WINE
+,"РАКИЯ, МЕНТА, МАСТИКА, УИСКИ",RAKIA/ MENTA/ MASTIKA/ WHISKEY,WEIGHT,"PRICE, DKK",BARCODE,
+Винпром Пещера,Mint Liqueur Peshtera,Mint Liqueur Peshtera,700 ml,110.00,3800032070104,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Mastika Peshtera,Mastika Peshtera,700 ml,110.00,3800032070098,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Mastika Peshtera,Mastika Peshtera,1 l,145.00,3800032010322,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Mastika Peshtera,Mastika Peshtera,200 ml,40.00,3800320200170,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Мента Пещера,Menta Peshtera,200 ml,40.00,3800032020031,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Ракия Пещерска,Rakia Peshterska,200 ml,40.00,3800032020024,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,"Black Ram, Blended Whisky ","Black Ram, Blended Whisky ",700 ml,110.00,3800032070302,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,"Гроздова ракия, Пещерска","""Grozdova rakia"" peshterska",700 ml,100.00,3800032070012,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Кайлъшка Гроздова ракия,"Rakia grozdova ""Kajlshka""",700 ml,110.00,3800032070319,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Ракия Пещерска отлежала в дъбови бъчви,"Rakia Peshterska, aged in oak barrels",700 ml,115.00,3800032070050,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,"Ракия Пещерска, Отлежала","Rakia Peshterska, matured",700 ml,115.00,3800032070050,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Пещера,Пещерска Мускатова Ракия,Peshterska muscat rakia,500 ml,160.00,3800032050038,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,Троянска Крушова Ракия,"""Trojanska"" rakia with pear taste",700 ml,120.00,3800009801052,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,Троянска Сливова Ракия,"""Trojanska"" rakia with plump taste",700 ml,135.00,3800009801038,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,Троянска Кайсиева Ракия,"""Trojanska"" rakia with apricot taste",700 ml,135.00,3800009801083,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,Троянска Черешова Ракия,"""Trojanska"" rakia with cherry taste",700 ml,120.00,3800009801069,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,Отлежала Троянска Сливова,"Matured ""Trojanska"" rakia with plump taste",700 ml,130.00,3800000980202,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,"Стара Кайсиева Ракия, 3 годишна","Old rakia with apricot taste, 3-years",500 ml,150.00,3800009803063,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,"Стара Троянска Сливова, 7 годишна","Old Trojanska rakia with plump taste, 7-years",500 ml,150.00,3800009801014,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Винпром Троян,Cherry Liqueur,Cherry Liqueur,500 ml,70.00,859519801536,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Винпром Ямбол"" ЕАД, Ямбол","Стралджанска Мускатова отлежала ракия, специална селекция","Matured muscat rakia, special selection",500ml,160.00,3800206560110,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Винпром Ямбол"" ЕАД, Ямбол",Стралджанска Мускатова отлежала ракия,Matured muscat rakia,500 ml,135.00,3800206560035,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Вила Ямбол ЕАД,Ямболска гроздова ,Jambolka grozdova,700 ml,100.00,3800206560011,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+Вила Ямбол ЕАД,Ямболска гроздова ,Jambolka grozdova,200 ml,40.00,3800206569991,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Вини"" АД, Сливен",Sliven`s Pearl ,Sliven`s Pearl ,500 ml,230.00,3800003410205,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие","Burgas 63, Special Selection","Burgas 63, Special Selection",500 ml,135.00,3800005806013,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие","Burgas 63, Traminer","Burgas 63, Traminer",500 ml,170.00,3800005806471,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие","Burgas 63, Barrel Aged","Burgas 63, Barrel Aged",500 ml,160.00,3800005806020,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие","Burgas 63, Pearl","Burgas 63, Pearl",500 ml,160.00,3800005806037,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие",Поморийска Мускатова,Pomorijska muscat,700 ml,135.00,3800005801964,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие",Поморийска Гроздова,Pomorijska grozdova,700 ml,120.00,3800005800912,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие",Бургаска Гроздова,Burgasla grozdova,700 ml,110.00,3800005805962,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие",Седем Годишна Бургаска Мускатова,"Burgaska muscat, 7-years",700 ml,155.00,3800005806860,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+"""Черноморско злато"" АД, Поморие",Бургаска Специална Мускатовова Ракия,Special Burgas muscta rakia,700 ml,135.00,3800005805948,RAKIA/ MENTA/ MASTIKA/ WHISKEY
+SNACKS,,,,,,
+, ЧИПС,CHIPS/Snacks,WEIGHT,"PRICE, DKK",BARCODE,
+"СД ""Сани-Конс Тодорови"", Перник","Зайо Байо, Hit с играчка за момиче",,,15.00,3800212410263,CHIPS/Snacks
+,"Lotto Pizza, Snack","Snack ""Lotto"" pizza",75 g.,10.00,3800024311123,CHIPS/Snacks
+Бест Фудс ООД (вносител),"Lotto Peanuts, Snack","Snack ""Lotto"" peanuts",90 g.,10.00,3800024311130,CHIPS/Snacks
+Бест Фудс ООД (вносител),Lotto Mega Pops Cheese,"""Lotto Mega"" pops cheese",78g,10.00,3800024310614,CHIPS/Snacks
+Бест Фудс ООД (вносител),"Lotto Classic, with selected matured cheeses","""Lotto"" classic with selected matured cheese",80g,10.00,3800024311116,CHIPS/Snacks
+Бест Фудс ООД (вносител),Lotto Mega Nuts,"""Lotto Mega"" nuts",60 g.,10.00,3800024310515,CHIPS/Snacks
+Бест Фудс ООД (вносител),Bestini Cheesed snack,"""Bestini"" cheesed snack",25 g.,5.00,3800024310256,CHIPS/Snacks
+Бест Фудс ООД (вносител),Bestini Bacon Snacks,"""Bestini"" bacon snacks",80 g.,10.00,3800024320033,CHIPS/Snacks
+"""Итал Фууд"" ЕАД, Шумен",Bruschette Maretti Pesto,"""Bruschette Maretti"" pesto",70 g.,10.00,3800205873365,CHIPS/Snacks
+"""Итал Фууд"" ЕАД, Шумен","Bruschette Maretti Tomato, Olives and Oregano","""Bruschette Maretti"" tomato, olives and oregano",70 g.,10.00,3800205875109,CHIPS/Snacks
+"""Захарни изделия-Варна"" ЕООД","Salza Solena, Cheese Flavour","""Salza solena"" cheese",200 g.,17.00,3800065761055,CHIPS/Snacks
+,СОЛЕТИ,SALTY STICKS,WEIGHT,"PRICE, DKK",BARCODE,
+"""Великови ООД""",Солети с вкус на маслини,Salty bread sticks with olive taste,55 g.,4.00,3800082126936,SALTY STICKS
+SWEETS,,,,,,
+,ЗАХАРНИ ИЗДЕЛИЯ,CANDIES/ WAFER/ BARS,WEIGHT,PRICE DKK,BARCODE,
+"""Победа"" АД, Бургас","Бисквити ""Закуска""","Biscuits ""Breakfast""",330 g.,16.00,3800008600144,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Бисквити ""Закуска""","Biscuits ""Breakfast""",270 g.,13.00,3800008600151,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Бисквити ""Закуска"" с какао","Biscuits ""Breakfast"" with cocoa",370 g.,16.00,3800008600588,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Бисквити ""Закуска"" с какао","Biscuits ""Breakfast"" with cocoa",290 g.,13.00,3800008600595,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Еверест, бисквити с мляко",Everest biscuits with milk,220 g.,12.00,3800008604487,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Еверест, Масло",Everest Oil,220 g.,12.00,3800008604500,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Еверест, Ореховка",Everest Walnut,220 g.,12.00,3800008604494,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Еверест, Какао",Everest Cocoa,210 g.,12.00,3800008604470,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Изгрев, Обикновени бисквити","Sunrise, biscuits",120 g.,8.00,3800008600533,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet plus+, Home-made Biscuits","Sweet plus +, Home-made Biscuits",230 g.,20.00,3800065711166,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Тунквани бисквити Мираж с плодов пълнеж малини,Mirage Coated Biscuits with raspberry fruit filling,240 g.,22.00,3800061600068,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Тунквани бисквити Мираж, Къпини","Coated biscuits Mirage, Blackberries",240 g.,22.00,3800061600075,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Тунквани бисквити Мираж, Ягоди","Coated biscuits Mirage, Strawberries",240 g.,22.00,3800061600051,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Tунквани бисквити Мираж, Смокиня","Tunkvani biscuits Mirage, Smokinya",240 g.,22.00,3800061604127,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Вафла Хипер Класик,Wafer Hyper Classic,60 g.,6.00,3800061600457,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Вафла Хипер Лешник,Hyper Hazelnut Wafer,55 g.,6.00,3800061603328,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Вафла Споко с фъстъци,Relax wafer with peanuts,35 g.,5.00,3800061604264,CANDIES/ WAFER/ BARS
+"""Монделийз България""ЕООД","Морени, Вафла ","Moreni, Wafer",36 g.,5.00,7622300331269,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД","Боровец, Тунквана вафла","Borovets, Coated wafers",55 g.,5.00,3800102702011,CANDIES/ WAFER/ BARS
+"""Несте България"" АД , София","Мура, Choco Dreams","Mura, Choco Dreams",36 g.,5.00,3800020483701,CANDIES/ WAFER/ BARS
+"""Несте България"" АД , София","Мура, Млечен шоколад","Mura, Milk Chocolate",36 g.,5.00,3800020483688,CANDIES/ WAFER/ BARS
+"""Несте България"" АД , София","Мура, Лешник, Hazelnut","Mura, Hazelnut, Hazelnut",33 g.,5.00,3800020483824,CANDIES/ WAFER/ BARS
+"""Несте България"" АД , София","Mура Фъстък, Peanut","Mura Peanuts, Peanut",37 g.,5.00,3800020483855,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Вафла Троя,wafer Troy,35 g.,5.00,3800061600037,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Траяна Портокал, тунквани бисквити","Traiana Orange, coated biscuits",190 g.,17.00,3800061603342,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Траяна, Какао, тунквани бисквити","Traiana, Cocoa, coated biscuits",190 g.,17.00,3800061602888,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Траяна, Ябълка и канела, тунквани бисквити","Traiana, apple and cinnamon coated biscuits",219 g.,17.00,3800061603359,CANDIES/ WAFER/ BARS
+"""Захарен комбинат Пловдив""АД","Сюрприз-млечен, тунквани бисквити","Surprise-milk, coated biscuits",160 g.,17.00,3800015748457,CANDIES/ WAFER/ BARS
+"""Захарен комбинат Пловдив""АД","Сюрприз-натурален, тунквани бисквити","Surprise-natural, coated biscuits",160 g.,17.00,3800015748402,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet plus+, Детска закуска","Sweet plus +, Children's breakfast",150 g.,22.00,3800065711593,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД",Вафли Боровец с какаово лешников крем,Borovets waffles with cocoa hazelnut cream,120 g.,10.00,3800102741934,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД",Вафли Боровец,Waffles Borovets,120 g.,10.00,3800102701075,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Престиж, Суха паста 12 броя, с ягодов крем","Prestige Dry pasta number 12, with strawberry cream",360 g.,35.00,3800061604738,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Престиж, Суха паста 12 броя, с млечен крем","Prestige Dry pasta 12 pieces, with milk cream",360 g.,35.00,3800061604721,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Престиж, Суха паста 12 броя, с какаов крем",Prestige Dry pasta 12 pieces with cocoa cream,360 g.,35.00,3800061604714,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас",Навона бисквити с фъстъчен крем,Navona crackers with peanut cream,200 g.,28.00,3800008611300,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД","Вафли Боровец, Ванилия (24 бр.)","Waffles Borovets, Vanilla (24 pcs.)",550 g.,40.00,3800102719759,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД","Вафли Боровец, Крем Брюле (24 бр.)",Borovets Wafer Cream Brulee (24 pcs.),550 g.,40.00,3800102719827,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД","Вафли Боровец, Лимон, (24 бр.)","Waffles Borovets, Lemon (24 pcs.)",550 g.,40.00,3800102719841,CANDIES/ WAFER/ BARS
+"""Ден и Нощ"" ООД","Вафли Боровец, (21 бр.)",Waffles Borovets (21 pcs.),630 g.,40.00,3800102719032,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Вафли Ная,Waffles Naya,375 g.,30.00,3800061601041,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Хрупкава вафла Чайка (6 бр.),Crispy wafer Seagull (6 pcs.),132 g.,10.00,3800771009458,CANDIES/ WAFER/ BARS
+"""Българска захар-Долна Митрополия"" ЕООД","Тунквани бисквити, Ябълков цвят","Coated biscuits, Apple Blossom",170 g.,17.00,3800702030551,CANDIES/ WAFER/ BARS
+"""Медовина ЕООД"", с. Стрелци",Medovinka Honey Cake (Меденка),Medovinka Honey Cake (Medenka),40 g.,17.00,3800204340226,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Mini cake, Super Bravo, Cocoa Cream","Mini cake, Super Bravo, Cocoa Cream",30 g.,4.00,3800008696000,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Mini cake, Super Bravo","Mini cake, Super Bravo",30 g.,4.00,3800008696147,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново",Суха паста с млечен крем,Sponge cake with milk cream,30 g.,5.00,3800061604469,CANDIES/ WAFER/ BARS
+"""Диамант-93""ЕООД, с. Раднево",Линцер с бял крем,Lintser with white cream,60 g.,5.00,3800204941164,CANDIES/ WAFER/ BARS
+"""Диамант-93""ЕООД, с. Раднево",Линцер с течен шоколад,Lintser with chocolate,60 g.,5.00,3800204941096,CANDIES/ WAFER/ BARS
+"""Вивиан 1""ООД, гр. Ямбол",Шербет Бачо Кольо,Sherbet Bacho Kolyo,100g,10.00,3800214590369,CANDIES/ WAFER/ BARS
+"""Престиж 96"" АД, Велико Търново","Престиж, Тунквана вафла","Prestige, Coated wafers",32 g.,5.00,3800061600013,CANDIES/ WAFER/ BARS
+"""Любимка""ООД, София","Халва Любимка, Какаова Тахан халва","Halva Sweetheart, Cocoa Halva tahina",250 g.,25.00,3800771011291,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Тахан Халва Златея слънчогледова,Tahini halva Zlateya sunflower,280 g.,20.00,3800771011338,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Тахан Халва Златея слънчогледова с какао,Tahini halva Zlateya Sunflower cocoa,280 g.,20.00,3800771011451,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Тахан Халва Златея слънчогледова,Tahini halva Zlateya sunflower,420 g.,28.00,3800771011178,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица","Тахан Халва Златея, Слънчогледова, Сладки времена","Tahini halva Zlateya, Sunflower, Sweet times",400 g.,28.00,3800771011291,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Малина дропс бонбони,Raspberry Drops candy,90 g.,10.00,3800771001025,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Теменужка дропс бонбони,Violet Drops candy,90 g.,10.00,3800771001032,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица","Лукчета Евкалипт, билкови бонбони","Bulbs Eucalyptus, herbal candies",85 g.,10.00,3800771002329,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Класик Лукчета,Classic Bulbs,85 g.,10.00,3800771002305,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Меден вкус Лукчета,Copper taste Bulbs,85 g.,10.00,3800771002459,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Билкови лукчета дъвчащи,Herbal chewable licorice,85 g.,10.00,3800771006310,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Билкови лукчета ,herbal licorice,85 g.,10.00,3800771002312,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица","Желе бонбони ""Ментина"", вкус касис и мента","Jelly candy ""reas Mentishe"" taste blackcurrant and mint",90 g.,10.00,3800771013479,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Желе бонбони с вкус Портокал и мента,Jelly candy-flavored Orange and Mint,90 g.,10.00,3800771013349,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Cocoa Coated Wafer Cake ","Sweet Plus +, Wonder, Cocoa Coated Wafer Cake",40 g.,5.00,3800065781312,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Coconut Wafer Cake","Sweet Plus +, Wonder, Coconut Wafer Cake",65 g.,6.00,3800065783101,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Peanut Wafer Cake","Sweet Plus +, Wonder, Peanut Wafer Cake",80 g.,8.00,3800065781145,CANDIES/ WAFER/ BARS
+"""Монделийз България""ЕООД","Suchard, Bolero, Шоколадови бонбони с цяла вишна в ликьор","Suchard, Bolero, Chocolate with whole cherry in liqueur",312 g.,49.00,7622210201577,CANDIES/ WAFER/ BARS
+Своге,Бонбони Сезони с аромат на ванилия,Seasons candy with vanilla flavor,160 g.,25.00,7622300062064,CANDIES/ WAFER/ BARS
+Своге,"Бонбони Сезони , Кайсия","Candy Seasons, Apricot",160 g.,25.00,7622300062088,CANDIES/ WAFER/ BARS
+Своге,"Бонбони Сезони, Ром","Candy Seasons, Rum","156,5 g.",25.00,7622210219473,CANDIES/ WAFER/ BARS
+Своге,Бонбони Сезони с вкус на вишна,Seasons candy-flavored cherry,"156,5 g.",25.00,7622210219435,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас","Бисквити, Selection 37 pieces","Biscuits, Selection 37 pieces",330 g.,33.00,3800008620043,CANDIES/ WAFER/ BARS
+"""Захарен комбинат Пловдив""АД",Амфора бонбони,Amphora candy,135 g.,20.00,3800015745975,CANDIES/ WAFER/ BARS
+"""Победа"" АД, Бургас",Бонбони Черноморец,candy Chernomorets,187 g.,30.00,3800008645268,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Autumn Leaves, Cocoa Biscuits","Sweet Plus +, Autumn Leaves, Cocoa Biscuits",280 g.,22.00,3800065718141,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Wafer Cake with Cocoa, Coconut and milk coating","Sweet Plus +, Wonder, Wafer Cake with Cocoa, Coconut and milk coating",170 g.,19.00,3800065781220,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Wafer Cake with Cocoa, Coconut and milk coating","Sweet Plus +, Wonder, Wafer Cake with Cocoa, Coconut and milk coating",220 g.,22.00,3800065781237,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо,Wafer Cake with Peanuts","Sweet Plus +, Wonder, Wafer Cake with Peanuts",280 g.,29.00,3800065781114,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Cocoa-coated wafer Cake with coco-nut","Sweet Plus +, Wonder, Cocoa-coated wafer Cake with coco-nut",200 g.,23.00,3800065781244,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Wafer Cakes with Peanuts","Sweet Plus +, Wonder, Wafer Cakes with Peanuts",200 g.,22.00,3800065781268,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Чудо, Wafer Cakes with Coco-nut","Sweet Plus +, Wonder, Wafer Cakes with Coco-nut",170 g.,19.00,3800065781251,CANDIES/ WAFER/ BARS
+"""Асгрея 91""ООД, гр. Лясковец","Жанета, Плезир","Zhaneta, PLEZIR",200 g.,16.00,3800206840359,CANDIES/ WAFER/ BARS
+"""Захарни заводи"" Горна Оряховица",Jelly slices (Лемонови Резанки),Jelly slices (Lemonovi chips),180 g.,17.00,3800771004231,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Negrita Cocoa-Coated Biscuits","Sweet Plus +, Negrita Cocoa-Coated Biscuits",160 g.,17.00,3800065711012,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Cocoa & Milk Biscuits","Sweet Plus +, Cocoa & Milk Biscuits",150 g.,17.00,3800065711562,CANDIES/ WAFER/ BARS
+"""Захарни изделия-Варна"" ЕООД","Sweet Plus+, Coffee Cocoa-coated biscuits","Sweet Plus +, Coffee Cocoa-coated biscuits",160 g.,17.00,3800065711135,CANDIES/ WAFER/ BARS
+,ЛОКУМ,TURKISH DELIGHT,WEIGHT,"PRICE, DKK",BARCODE,
+"""Захарни заводи"" Горна Оряховица",Локум-Turkih Delight,Turkish delight-Turkih Delight,140 g.,10.00,3800771007290,TURKISH DELIGHT
+"""Захарни заводи"" Горна Оряховица",Локум Сладки времена,Turkish delight sweets times,140 g.,10.00,3800771007218,TURKISH DELIGHT
+"""Захарни заводи"" Горна Оряховица",Локум с вкус на нар,Turkish delight flavored with pomegranate,140 g.,10.00,3800771008338,TURKISH DELIGHT
+"""Захарни заводи"" Горна Оряховица",Локум с вкус на мента,Turkish delight flavored with mint,140 g.,10.00,3800771007065,TURKISH DELIGHT
+"""Захарни заводи"" Горна Оряховица",Локум с вкус на сметана,Turkish delight flavored cream,140 g.,10.00,3800771008154,TURKISH DELIGHT
+"""Захарни заводи"" Горна Оряховица",Локум с розов цвят и натурална розова вода,Turkish delight with rose petals and natural rose water,250 g.,20.00,3800771008352,TURKISH DELIGHT
+,БАНИЦИ,PIE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Унибел"" АД, гр. София","Bella, Рулца от точени кори","Bella, rolls pastry",800 g.,25.00,3800047704551,PIE
+"""Унибел"" АД, гр. София","Bella, Класическа вита баница със сирене и спанак","Bella, Classical cheese pastry with cheese and spinach",800 g.,45.00,3800047700126,PIE
+"""Унибел"" АД, гр. София","Bella, Класическа вита баница с тиква","Bella, Classical cheese pastry with pumpkin",800 g.,45.00,3800047704926,PIE
+"""Унибел"" АД, гр. София","Bella, Наложена баница със сирене","Bella, Imposed pie with cheese",1 kg.,45.00,3800047722258,PIE
+"""Унибел"" АД, гр. София","Bella, Класическа вита баница със сирене ","Bella, Classical cheese pastry with cheese",800 g.,45.00,3800047700119,PIE
+"""Унибел"" АД, гр. София","Bella, Малки вити банички  със сирене и спанак","Bella, Small winding patties with cheese and spinach",480 g.,25.00,3800047700140,PIE
+"""Унибел"" АД, гр. София","Bella, Малки вити банички с ябълка","Bella, Small winding patties with apple",480 g.,25.00,3800047704476,PIE
+"""Унибел"" АД, гр. София","Фамилия, Мини банички от точени кори със сирене",Family Mini patties with cheese filo pastry,1 kg.,45.00,3800047704476,PIE
+"""Унибел"" АД, гр. София","Фамилия, Мини банички със сирене и праз",Family Mini patties with cheese and leeks,1 kg.,45.00,3800047704490,PIE
+"""Унибел"" АД, гр. София","Фамилия, Мини банички с кайма",Family Mini patties with minced,1 kg.,45.00,3800047704513,PIE
+"""Унибел"" АД, гр. София",Бутер Тесто Белла,Bella puff pastry,400 g.,25.00,3800047707163,PIE
+"""Унибел"" АД, гр. София",Бутер Тесто Белла,Bella puff pastry,400 g.,25.00,3800047707163,PIE
+,КАЙМА,MINCED MEAT,WEIGHT,"PRICE , DKK",BARCODE,
+"""Елко Мес"" ООД, гр. Пловдив","Кайма, Елко (замразена)","Mince, Elko (frozen)",500 g.,29.00,3855503900084,MINCED MEAT
+"""Елко Мес"" ООД, гр. Пловдив",Кебапче (замразено),Kebapche (frozen),500 g.,40.00,3855503900084,MINCED MEAT
+"""Елко Мес"" ООД, гр. Пловдив",Телешко кюфте (замразено),Beef meatball (frozen),500 g.,40.00,3855503900084,MINCED MEAT
+"""Фермата"" АД, гр. София",Народна кайма за принцеси,Мince for sandwiches,250 g.,18.00,3800047702250,MINCED MEAT
+,БОЗА,BOZA,WEIGHT,"PRICE, DKK",BARCODE,
+"""Бомакс"" ООД, гр. Хасково",Боза Бомакс,,1 l.,20.00,3800200320031,BOZA
+"""Бомакс"" ООД, гр. Хасково",Боза Бомакс,,500 ml.,12.00,3800200320048,BOZA
+,СИРЕНЕ,WHITE CHEESE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Димитър Маджаров 2"" ЕООД",Българско бяло саламурено сирене от овче мляко,Bulgarian white cheese from sheep's milk,500 g.,50.00,3800106205050,WHITE CHEESE
+"""Димитър Маджаров 2"" ЕООД","Сирене Козе Маджаров, от козе мляко","Goat cheese Madjarov, from goat's milk",500 g.,50.00,3800106207078,WHITE CHEESE
+"""Димитър Маджаров 2"" ЕООД",Българско бяло саламурено сирене от краве мляко,Bulgarian white cheese from cow's milk,500 g.,45.00,3800106204053,WHITE CHEESE
+"""Булдекс"" ООД, гр.Силистра","Buldex, Ралица Овче Сирене","Buldex, Ralitsa Sheep Cheese",400 g.,40.00,3800038823421,WHITE CHEESE
+"""Булдекс"" ООД, гр.Силистра","Buldex, Ралица Краве Сирене","Buldex, Ralitsa Cow Cheese",400 g.,40.00,3800038823414,WHITE CHEESE
+"""Би Си Си Хандел"" ООД, гр. Елена","Българско краве сирене, Елена","Bulgarian cheese, Elena",4 kg.,220.00,3800201452014,WHITE CHEESE
+"""Би Си Си Хандел"" ООД, гр. Елена","Българско бяло саламурено сирене, Овче","Bulgarian white cheese, Sheep",3.5kg,225.00,,WHITE CHEESE
+"""Димитър Маджаров 2"" ЕООД",Българско бяло саламурено сирене от краве мляко,Bulgarian white cheese from cow's milk,200 g.,20.00,3800106204077,WHITE CHEESE
+"""Би Си Си Хандел"" ООД, гр. Елена","Българско овче сирене, Елена","Bulgarian sheep's milk cheese, Elena",800 g.,65.00,3800201452489,WHITE CHEESE
+"""Би Си Си Хандел"" ООД, гр. Елена","Българско краве сирене, Елена","Bulgarian cheese, Elena",800 g.,55.00,3800201452069,WHITE CHEESE
+"""Би Си Си Хандел"" ООД, гр. Елена","Българско овче сирене, Елена","Bulgarian sheep's milk cheese, Elena",500 g.,42.00,3800201452434,WHITE CHEESE
+"""Би Си Си Хандел"" ООД, гр. Елена",Бяло саламурено краве сирене,White brined cheese,500 g.,35.00,3800201452045,WHITE CHEESE
+"ЕТ "" Дениз-Адем Ибрахимов"", с.Езерче","Deniz Саламурено сирене, Лудогорско село от козе мляко","Deniz cheese, Ludogorsko village of goat milk",500 g.,42.00,3800231230095,WHITE CHEESE
+"ЕТ "" Дениз-Адем Ибрахимов"", с.Езерче","Deniz Саламурено сирене, Лудогорско село от краве мляко","Deniz cheese, Ludogorsko village from cow's milk",500 g.,35.00,3800231230026,WHITE CHEESE
+"ЕТ "" Дениз-Адем Ибрахимов"", с.Езерче","Deniz Саламурено сирене, Лудогорско село от краве мляко","Deniz cheese, Ludogorsko village from cow's milk",1 kg.,75.00,3800231230019,WHITE CHEESE
+"ЕТ "" Дениз-Адем Ибрахимов"", с.Езерче","Deniz Саламурено сирене, Лудогорско село от козе мляко","Deniz cheese, Ludogorsko village of goat milk",1 kg.,80.00,3800231230088,WHITE CHEESE
+,КАШКАВАЛ,YELLOW CHEESE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Би Си Си Хандел"" ООД, гр. Елена","Кашкавал от краве мляко, Елена","Cheese from cow's milk, Elena",kg,80kr/kg,2800001010606,YELLOW CHEESE
+"""Стил-ЕА"" ЕООД, Лудогорие","Кашкавал от краве мляко, ""Лудогорие""","Cheese from cow's milk, ""Ludogorie""",kg,75kr/kg,2800001002540,YELLOW CHEESE
+"""Димитър Маджаров 2"" ЕООД","Кашкавал Маджаров, от биволско мляко",Madjarov cheese from buffalo milk,420g,49.00,3800106206002,YELLOW CHEESE
+"""Димитър Маджаров 2"" ЕООД","Български кашкавал, от овче мляко",Bulgarian cheese from sheep's milk,420g,49.00,3800106202028,YELLOW CHEESE
+"""Димитър Маджаров 2"" ЕООД","Кашкавал Козе, Маджаров, от козе мляко","Goat cheese, Madjarov, from goat's milk",420g,49.00,3800106209049,YELLOW CHEESE
+"""Димитър Маджаров 2"" ЕООД","Български кашкавал, от краве мляко",Bulgarian cheese from cow's milk,420g,45.00,3800106201069,YELLOW CHEESE
+"""Димитър Маджаров 2"" ЕООД","Кашкавал Пушен, Бонония",Smoked cheese Bono,420g,49.00,3800106201991,YELLOW CHEESE
+,МАЙОНЕЗА,MAYONNAISE,WEIGHT,"PRICE, DKK",BARCODE,
+"""Краси"" АД, гр. Пловдив","Майонеза трапезна, Краси","Mayonnaise, Krasi",200 g.,12.00,3800055702020,MAYONNAISE
+"""Олинеза"" ООД, гр. Костинброд",Майонеза с чесън,Mayonnaise with garlic,125 g.,8.00,3800012117119,MAYONNAISE
+"""Олинеза"" ООД, гр. Костинброд",Майонеза трапезна,mayonnaise,125 g.,8.00,3800012111117,MAYONNAISE
+"""Олинеза"" ООД, гр. Костинброд",Майонеза с краставички,Mayonnaise with pickles,125 g.,8.00,3800012119113,MAYONNAISE
+,КОЛБАСИ,SAUSAGES,WEIGHT,"PRICE, DKK",BARCODE,
+"""Eko Mec"" ЕООД, с. Величково","Сланина със сол, вакум","Bacon salt, vacuum",kg,80kr/kg,2800852001488,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково","Сланина Паприкована, вакум","Bacon with red pepper, vacuum",kg,80kr/kg,2800213001584,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково","Телешка Саздърма, вакум","Calf sausage, vacuum",kg,80kr/kg,2890211002126,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково","Овча Саздърма, вакум","Sheep sausage, vacuum",kg,90kr/kg,2800419002224,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково","Език свински желиран, вакум","Jellied pork tongue, vacuum",kg,80kr/kg,2800285002120,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково","Шкембе, Телешко, вакум","Tripe, veal, vacuum",kg,80kr/kg,2800283002085,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково",Филе Елена XTCX,Elena fillet XTCX,kg,220kr/kg,2800216002380,SAUSAGES
+"""Стефанов-Ив. Стефанов-04"" ЕООД, Г. Оряховица",Пастърма Паприкована,jerky Paprikovana,kg,220kr/kg,2850332001187,SAUSAGES
+"""Стефанов-Ив. Стефанов-04"" ЕООД, Г. Оряховица",Пастърма Натурална,Natural jerky,kg,220kr/kg,2850306003001,SAUSAGES
+"""Еко Мес""","Джолан, свински желиран","Knuckle, pork jelly",kg,90kr/kg,2800286001979,SAUSAGES
+"""Еко Мес""","Каварма, свинска","Kavarma, pork",kg,90kr/kg,2800471002057,SAUSAGES
+"""Съксес"" ООД, гр. Пловдив","Старият месар, Натурална пастърма","The old butcher, Natural Jerky",kg,270kr/kg,2801460002300,SAUSAGES
+"""Съксес"" ООД, гр. Пловдив","Старият месар, Говежда кайзер пастърма","The old butcher, beef jerky Kaiser",kg,270kr/kg,2801462001349,SAUSAGES
+"""Фермата"" АД, гр. Добрич","Добруджански суджук ""Орехите"", Телешки","Dobrudjanski sausage ""Walnuts"" Veal",200g,42.00,2699214001484,SAUSAGES
+"""Фермата"" АД, гр. Добрич"," Суджук ""Орехите"", Телешки"," Sausage ""Walnuts"" Veal",200g,32.00,2633398600170,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Телешка луканка, вакум","Calf sausage, vacuum",kg,200kr/kg,3800106205234,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Луканка Панагюрска, вакум","Panagyurska sausage, vacuum",kg,200kr/kg,3800106205203,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Луканка Маджаров, вакум",Sausage Madjarov vacuum,kg,200kr/kg,2407938001761,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Луканка по Странджански, вакум","Sausage in Strandzha, vacuum",kg,200kr/kg,2851225001840,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД",Суджук по Странджански,Sausage in Strandzha,kg,200kr/kg,2829001001667,SAUSAGES
+"""Елко Мес"" ООД, гр. Пловдив",Домашна луканка,homemade sausage,kg,185kr/kg,2840071002583,SAUSAGES
+"""Родопа-Г.Оряховица-96""ЕООД",Горнооряховски суджук,Gornooryahovski sausage,kg,185kr/kg,2800169001652,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Маджаров Луканка Стандарт, голяма",Madjarov Lukanka Standard large,kg,175kr/kg,2837696007925,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Луканка Маджаров, голяма",Sausage Madjarov large,kg,175kr/kg,2821120007902,SAUSAGES
+"""Фермата"" АД, гр. Добрич","Орехите, Гастро Луканков Салам","Walnuts, Gastro Salami",kg,175kr/kg,2606187007283,SAUSAGES
+"""Фермата"" АД, гр. Пловдив",Маджарски Телешки Колбас,Magyar Beef Sausage,900 g.,45.00,3800206525553,SAUSAGES
+"""Фермата"" АД, гр. Пловдив",Маджарски Колбас Камчия,Magyar Sausage Kamchia,900 g.,45.00,3800047731410,SAUSAGES
+"""Eko Mec"" ЕООД, с. Величково",Телешки Суджук,beef Sudjuk,161 g.,32.00,2800210001617,SAUSAGES
+"""Фермата"" АД, гр. Добрич",Салам Тип Луканков,Salam Type Lukankov,250 g.,30.00,3800047729004,SAUSAGES
+"""Фермата""АД, гр. София","Сачи, Пилешки кренвирши",Sachi Chicken frankfurters,400 g.,25.00,3800206521609,SAUSAGES
+"""Фермата""АД, гр. София",Leki кренвирши,Leki sausages,400 g.,25.00,3800106203469,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД",Маджаров Луканков Салам,Madjarov Salami,200 g.,22.00,3800106203469,SAUSAGES
+"""Фермата""АД, гр. София",Leki Шпек Бургас,Leki larded Burgas,240 g.,30.00,3800206520411,SAUSAGES
+"""Фермата""АД, гр. София",Leki Шпек,Leki larded,240 g.,30.00,3800206520213,SAUSAGES
+"""Фермата"" АД, гр. Добрич","Орехите, Добруджанска сушеница","Walnuts, Dobrudjanska Sushenitsa",196 g.,35.00,2699591001961,SAUSAGES
+"""Фермата"" АД, гр. Добрич","Орехите, Телешка Сушеница","Walnuts, beef Sushenitsa",226 g.,42.00,2634162002268,SAUSAGES
+"""Фермата"" АД, гр. Добрич","Орехите, Добруджанска Луканка","Walnuts, Dobrudjanska Lukanka",204 g.,40.00,2698985002041,SAUSAGES
+"""Стефанов-Ив. Стефанов-04"" ЕООД, Г. Оряховица","Бургас, Варено-Пушен Салам",Burgas Cooked Smoked Sausage,300 g.,35.00,3800220180288,SAUSAGES
+"""Фермата"" АД, гр. Добрич","Орехите, Врат Тракия","Walnuts, Neck Thrace",kg,230kr/kg,2696340000961,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД","Сух Колбас, Бургас",Dry sausage Burgas,260 g.,35.00,3800106205241,SAUSAGES
+"""Димитър Маджаров 2"" ЕООД",Сух Колбас Маджаров,Dry Sausage Madjarov,260 g.,35.00,3800106203278,SAUSAGES
+,ЯДКИ,NUTS,WEIGHT,"PRICE, DKK",BARCODE,
+"""Румина"" ЕООД, Русе","Rumina Nuts, Лешници","Hazelnuts ""Rumina Nuts""",100 g.,18.00,3800208200267,NUTS
+"""Румина"" ЕООД, Русе",Печени фъстъци,Roasted peanuts,100 g.,10.00,3800208200069,NUTS
+"""Румина"" ЕООД, Русе",Кашу,Cashew,100 g.,16.00,3800208200342,NUTS
+"""Румина"" ЕООД, Русе",Тиквени семки,Pumpkin seeds,100 g.,12.00,3800208200199,NUTS
+"""Румина"" ЕООД, Русе",Бирени фъстъци,,100г.,10.00,3800208200106,NUTS
