@@ -197,7 +197,7 @@ function sendSendgridEmail($options = array()) {
    $to = new SendGrid\Email("Aleksandar", "aleksandar.aleksandrov@ymail.com");
    $content = new SendGrid\Content("text/html", "and easy to do anywhere, even with PHP");
    $mail = new SendGrid\Mail($from, $subject, $to, $content);
-   $apiKey = getenv('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');
+   $apiKey = "api_here";
    $sg = new \SendGrid($apiKey);
    $response = $sg->client->mail()->send()->post($mail);
    /*echo $response->statusCode();
